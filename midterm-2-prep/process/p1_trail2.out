@@ -1,0 +1,3323 @@
+BEGINNING PROBLEM1(Spawn X children, kill randomly with Y chance) SIMULATION with num_children=950, kill_chance=0.250000
+Parent 23424: Randomly sparing child 0 PID=23425 (random chance 0.71 >= 0.25)
+Parent 23424: Randomly killing child 1 PID=23426 (random chance 0.08 < 0.25)
+Parent 23424: Randomly sparing child 2 PID=23427 (random chance 0.95 >= 0.25)
+Parent 23424: Randomly killing child 3 PID=23428 (random chance 0.03 < 0.25)
+Parent 23424: Randomly sparing child 4 PID=23429 (random chance 0.58 >= 0.25)
+Parent 23424: Randomly killing child 5 PID=23430 (random chance 0.19 < 0.25)
+Parent 23424: Randomly sparing child 6 PID=23431 (random chance 0.70 >= 0.25)
+Parent 23424: Randomly sparing child 7 PID=23432 (random chance 0.96 >= 0.25)
+Parent 23424: Randomly sparing child 8 PID=23433 (random chance 0.41 >= 0.25)
+Parent 23424: Randomly killing child 9 PID=23434 (random chance 0.13 < 0.25)
+Parent 23424: Randomly sparing child 10 PID=23435 (random chance 0.74 >= 0.25)
+Parent 23424: Randomly sparing child 11 PID=23436 (random chance 0.39 >= 0.25)
+Parent 23424: Randomly sparing child 12 PID=23437 (random chance 0.80 >= 0.25)
+Parent 23424: Randomly sparing child 13 PID=23438 (random chance 0.89 >= 0.25)
+Parent 23424: Randomly sparing child 14 PID=23439 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly sparing child 15 PID=23440 (random chance 0.72 >= 0.25)
+Parent 23424: Randomly sparing child 16 PID=23441 (random chance 0.91 >= 0.25)
+Parent 23424: Randomly sparing child 17 PID=23442 (random chance 0.63 >= 0.25)
+Parent 23424: Randomly sparing child 18 PID=23443 (random chance 0.25 >= 0.25)
+Parent 23424: Randomly sparing child 19 PID=23444 (random chance 0.57 >= 0.25)
+Parent 23424: Randomly killing child 20 PID=23445 (random chance 0.17 < 0.25)
+Parent 23424: Randomly sparing child 21 PID=23446 (random chance 0.35 >= 0.25)
+Parent 23424: Randomly sparing child 22 PID=23447 (random chance 0.51 >= 0.25)
+Parent 23424: Randomly sparing child 23 PID=23448 (random chance 0.58 >= 0.25)
+Parent 23424: Randomly sparing child 24 PID=23449 (random chance 0.38 >= 0.25)
+Parent 23424: Randomly sparing child 25 PID=23450 (random chance 0.62 >= 0.25)
+Parent 23424: Randomly killing child 26 PID=23451 (random chance 0.01 < 0.25)
+Parent 23424: Randomly sparing child 27 PID=23452 (random chance 0.94 >= 0.25)
+Parent 23424: Randomly sparing child 28 PID=23453 (random chance 0.73 >= 0.25)
+Parent 23424: Randomly sparing child 29 PID=23454 (random chance 0.26 >= 0.25)
+Parent 23424: Randomly sparing child 30 PID=23455 (random chance 0.60 >= 0.25)
+Parent 23424: Randomly sparing child 31 PID=23456 (random chance 0.44 >= 0.25)
+Parent 23424: Randomly sparing child 32 PID=23457 (random chance 0.34 >= 0.25)
+Parent 23424: Randomly sparing child 33 PID=23458 (random chance 0.55 >= 0.25)
+Parent 23424: Randomly sparing child 34 PID=23459 (random chance 0.47 >= 0.25)
+Parent 23424: Randomly sparing child 35 PID=23460 (random chance 0.92 >= 0.25)
+Parent 23424: Randomly sparing child 36 PID=23461 (random chance 0.74 >= 0.25)
+Parent 23424: Randomly killing child 37 PID=23462 (random chance 0.17 < 0.25)
+Parent 23424: Randomly sparing child 38 PID=23463 (random chance 0.88 >= 0.25)
+Parent 23424: Randomly killing child 39 PID=23464 (random chance 0.15 < 0.25)
+Parent 23424: Randomly sparing child 40 PID=23465 (random chance 0.29 >= 0.25)
+Parent 23424: Randomly sparing child 41 PID=23466 (random chance 0.62 >= 0.25)
+Parent 23424: Randomly sparing child 42 PID=23467 (random chance 0.54 >= 0.25)
+Parent 23424: Randomly killing child 43 PID=23468 (random chance 0.10 < 0.25)
+Parent 23424: Randomly sparing child 44 PID=23469 (random chance 0.51 >= 0.25)
+Parent 23424: Randomly sparing child 45 PID=23470 (random chance 0.33 >= 0.25)
+Parent 23424: Randomly sparing child 46 PID=23471 (random chance 0.81 >= 0.25)
+Parent 23424: Randomly sparing child 47 PID=23472 (random chance 0.42 >= 0.25)
+Parent 23424: Randomly sparing child 48 PID=23473 (random chance 0.96 >= 0.25)
+Parent 23424: Randomly killing child 49 PID=23474 (random chance 0.06 < 0.25)
+Parent 23424: Randomly sparing child 50 PID=23475 (random chance 0.99 >= 0.25)
+Parent 23424: Randomly killing child 51 PID=23476 (random chance 0.13 < 0.25)
+Parent 23424: Randomly sparing child 52 PID=23477 (random chance 0.41 >= 0.25)
+Parent 23424: Randomly sparing child 53 PID=23478 (random chance 0.50 >= 0.25)
+Parent 23424: Randomly sparing child 54 PID=23479 (random chance 0.71 >= 0.25)
+Parent 23424: Randomly sparing child 55 PID=23480 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly killing child 56 PID=23481 (random chance 0.13 < 0.25)
+Parent 23424: Randomly sparing child 57 PID=23482 (random chance 0.72 >= 0.25)
+Parent 23424: Randomly sparing child 58 PID=23483 (random chance 0.73 >= 0.25)
+Parent 23424: Randomly sparing child 59 PID=23484 (random chance 0.85 >= 0.25)
+Parent 23424: Randomly sparing child 60 PID=23485 (random chance 0.98 >= 0.25)
+Parent 23424: Randomly sparing child 61 PID=23486 (random chance 0.32 >= 0.25)
+Parent 23424: Randomly sparing child 62 PID=23487 (random chance 0.29 >= 0.25)
+Parent 23424: Randomly sparing child 63 PID=23488 (random chance 0.31 >= 0.25)
+Parent 23424: Randomly sparing child 64 PID=23489 (random chance 0.87 >= 0.25)
+Parent 23424: Randomly sparing child 65 PID=23490 (random chance 0.76 >= 0.25)
+Parent 23424: Randomly killing child 66 PID=23491 (random chance 0.23 < 0.25)
+Parent 23424: Randomly sparing child 67 PID=23492 (random chance 0.61 >= 0.25)
+Parent 23424: Randomly sparing child 68 PID=23493 (random chance 0.92 >= 0.25)
+Parent 23424: Randomly killing child 69 PID=23494 (random chance 0.11 < 0.25)
+Parent 23424: Randomly sparing child 70 PID=23495 (random chance 0.77 >= 0.25)
+Parent 23424: Randomly killing child 71 PID=23496 (random chance 0.21 < 0.25)
+Parent 23424: Randomly sparing child 72 PID=23497 (random chance 0.73 >= 0.25)
+Parent 23424: Randomly sparing child 73 PID=23498 (random chance 0.31 >= 0.25)
+Parent 23424: Randomly sparing child 74 PID=23499 (random chance 0.31 >= 0.25)
+Parent 23424: Randomly killing child 75 PID=23500 (random chance 0.24 < 0.25)
+Parent 23424: Randomly sparing child 76 PID=23501 (random chance 0.64 >= 0.25)
+Parent 23424: Randomly killing child 77 PID=23502 (random chance 0.12 < 0.25)
+Parent 23424: Randomly sparing child 78 PID=23503 (random chance 0.66 >= 0.25)
+Parent 23424: Randomly sparing child 79 PID=23504 (random chance 0.60 >= 0.25)
+Parent 23424: Randomly killing child 80 PID=23505 (random chance 0.19 < 0.25)
+Parent 23424: Randomly sparing child 81 PID=23506 (random chance 0.65 >= 0.25)
+Parent 23424: Randomly sparing child 82 PID=23507 (random chance 0.73 >= 0.25)
+Parent 23424: Randomly sparing child 83 PID=23508 (random chance 0.60 >= 0.25)
+Parent 23424: Randomly killing child 84 PID=23509 (random chance 0.15 < 0.25)
+Parent 23424: Randomly sparing child 85 PID=23510 (random chance 0.44 >= 0.25)
+Parent 23424: Randomly sparing child 86 PID=23511 (random chance 0.39 >= 0.25)
+Parent 23424: Randomly sparing child 87 PID=23512 (random chance 0.28 >= 0.25)
+Parent 23424: Randomly killing child 88 PID=23513 (random chance 0.16 < 0.25)
+Parent 23424: Randomly killing child 89 PID=23514 (random chance 0.12 < 0.25)
+Parent 23424: Randomly killing child 90 PID=23515 (random chance 0.13 < 0.25)
+Parent 23424: Randomly killing child 91 PID=23516 (random chance 0.13 < 0.25)
+Parent 23424: Randomly sparing child 92 PID=23517 (random chance 0.44 >= 0.25)
+Parent 23424: Randomly sparing child 93 PID=23518 (random chance 0.42 >= 0.25)
+Parent 23424: Randomly sparing child 94 PID=23519 (random chance 0.45 >= 0.25)
+Parent 23424: Randomly sparing child 95 PID=23520 (random chance 0.31 >= 0.25)
+Parent 23424: Randomly killing child 96 PID=23521 (random chance 0.18 < 0.25)
+Parent 23424: Randomly sparing child 97 PID=23522 (random chance 0.68 >= 0.25)
+Parent 23424: Randomly sparing child 98 PID=23523 (random chance 0.92 >= 0.25)
+Parent 23424: Randomly killing child 99 PID=23524 (random chance 0.10 < 0.25)
+Parent 23424: Randomly sparing child 100 PID=23525 (random chance 0.78 >= 0.25)
+Parent 23424: Randomly sparing child 101 PID=23526 (random chance 0.69 >= 0.25)
+Parent 23424: Randomly sparing child 102 PID=23527 (random chance 0.31 >= 0.25)
+Parent 23424: Randomly sparing child 103 PID=23528 (random chance 0.51 >= 0.25)
+Parent 23424: Randomly sparing child 104 PID=23529 (random chance 1.00 >= 0.25)
+Parent 23424: Randomly sparing child 105 PID=23530 (random chance 0.62 >= 0.25)
+Parent 23424: Randomly sparing child 106 PID=23531 (random chance 0.75 >= 0.25)
+Parent 23424: Randomly sparing child 107 PID=23532 (random chance 0.64 >= 0.25)
+Parent 23424: Randomly sparing child 108 PID=23533 (random chance 0.74 >= 0.25)
+Parent 23424: Randomly sparing child 109 PID=23534 (random chance 0.40 >= 0.25)
+Parent 23424: Randomly killing child 110 PID=23535 (random chance 0.24 < 0.25)
+Parent 23424: Randomly sparing child 111 PID=23536 (random chance 0.93 >= 0.25)
+Parent 23424: Randomly killing child 112 PID=23537 (random chance 0.05 < 0.25)
+Parent 23424: Randomly sparing child 113 PID=23538 (random chance 0.97 >= 0.25)
+Parent 23424: Randomly sparing child 114 PID=23539 (random chance 0.53 >= 0.25)
+Parent 23424: Randomly killing child 115 PID=23540 (random chance 0.21 < 0.25)
+Parent 23424: Randomly sparing child 116 PID=23541 (random chance 0.41 >= 0.25)
+Parent 23424: Randomly sparing child 117 PID=23542 (random chance 0.92 >= 0.25)
+Parent 23424: Randomly sparing child 118 PID=23543 (random chance 0.49 >= 0.25)
+Parent 23424: Randomly sparing child 119 PID=23544 (random chance 0.57 >= 0.25)
+Parent 23424: Randomly killing child 120 PID=23545 (random chance 0.04 < 0.25)
+Parent 23424: Randomly sparing child 121 PID=23546 (random chance 0.62 >= 0.25)
+Parent 23424: Randomly sparing child 122 PID=23547 (random chance 0.71 >= 0.25)
+Parent 23424: Randomly sparing child 123 PID=23548 (random chance 0.48 >= 0.25)
+Parent 23424: Randomly killing child 124 PID=23549 (random chance 0.04 < 0.25)
+Parent 23424: Randomly killing child 125 PID=23550 (random chance 0.15 < 0.25)
+Parent 23424: Randomly sparing child 126 PID=23551 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly killing child 127 PID=23552 (random chance 0.22 < 0.25)
+Parent 23424: Randomly sparing child 128 PID=23553 (random chance 0.83 >= 0.25)
+Parent 23424: Randomly sparing child 129 PID=23554 (random chance 0.71 >= 0.25)
+Parent 23424: Randomly sparing child 130 PID=23555 (random chance 0.31 >= 0.25)
+Parent 23424: Randomly sparing child 131 PID=23556 (random chance 0.61 >= 0.25)
+Parent 23424: Randomly sparing child 132 PID=23557 (random chance 0.40 >= 0.25)
+Parent 23424: Randomly sparing child 133 PID=23558 (random chance 0.62 >= 0.25)
+Parent 23424: Randomly killing child 134 PID=23559 (random chance 0.12 < 0.25)
+Parent 23424: Randomly sparing child 135 PID=23560 (random chance 0.40 >= 0.25)
+Parent 23424: Randomly killing child 136 PID=23561 (random chance 0.24 < 0.25)
+Parent 23424: Randomly sparing child 137 PID=23562 (random chance 0.87 >= 0.25)
+Parent 23424: Randomly killing child 138 PID=23563 (random chance 0.04 < 0.25)
+Parent 23424: Randomly sparing child 139 PID=23564 (random chance 0.99 >= 0.25)
+Parent 23424: Randomly sparing child 140 PID=23565 (random chance 0.27 >= 0.25)
+Parent 23424: Randomly sparing child 141 PID=23566 (random chance 0.28 >= 0.25)
+Parent 23424: Randomly sparing child 142 PID=23567 (random chance 0.92 >= 0.25)
+Parent 23424: Randomly sparing child 143 PID=23568 (random chance 0.32 >= 0.25)
+Parent 23424: Randomly killing child 144 PID=23569 (random chance 0.25 < 0.25)
+Parent 23424: Randomly sparing child 145 PID=23570 (random chance 0.45 >= 0.25)
+Parent 23424: Randomly sparing child 146 PID=23571 (random chance 0.53 >= 0.25)
+Parent 23424: Randomly sparing child 147 PID=23572 (random chance 0.66 >= 0.25)
+Parent 23424: Randomly sparing child 148 PID=23573 (random chance 0.37 >= 0.25)
+Parent 23424: Randomly killing child 149 PID=23574 (random chance 0.02 < 0.25)
+Parent 23424: Randomly killing child 150 PID=23575 (random chance 0.23 < 0.25)
+Parent 23424: Randomly sparing child 151 PID=23576 (random chance 0.41 >= 0.25)
+Parent 23424: Randomly sparing child 152 PID=23577 (random chance 0.63 >= 0.25)
+Parent 23424: Randomly sparing child 153 PID=23578 (random chance 0.94 >= 0.25)
+Parent 23424: Randomly sparing child 154 PID=23579 (random chance 0.89 >= 0.25)
+Parent 23424: Randomly sparing child 155 PID=23580 (random chance 0.67 >= 0.25)
+Parent 23424: Randomly killing child 156 PID=23581 (random chance 0.09 < 0.25)
+Parent 23424: Randomly sparing child 157 PID=23582 (random chance 0.68 >= 0.25)
+Parent 23424: Randomly sparing child 158 PID=23583 (random chance 0.89 >= 0.25)
+Parent 23424: Randomly sparing child 159 PID=23584 (random chance 0.92 >= 0.25)
+Parent 23424: Randomly sparing child 160 PID=23585 (random chance 0.39 >= 0.25)
+Parent 23424: Randomly killing child 161 PID=23586 (random chance 0.20 < 0.25)
+Parent 23424: Randomly sparing child 162 PID=23587 (random chance 0.53 >= 0.25)
+Parent 23424: Randomly sparing child 163 PID=23588 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly sparing child 164 PID=23589 (random chance 0.83 >= 0.25)
+Parent 23424: Randomly sparing child 165 PID=23590 (random chance 0.65 >= 0.25)
+Parent 23424: Randomly killing child 166 PID=23591 (random chance 0.18 < 0.25)
+Parent 23424: Randomly killing child 167 PID=23592 (random chance 0.07 < 0.25)
+Parent 23424: Randomly sparing child 168 PID=23593 (random chance 0.51 >= 0.25)
+Parent 23424: Randomly killing child 169 PID=23594 (random chance 0.22 < 0.25)
+Parent 23424: Randomly killing child 170 PID=23595 (random chance 0.06 < 0.25)
+Parent 23424: Randomly sparing child 171 PID=23596 (random chance 0.78 >= 0.25)
+Parent 23424: Randomly sparing child 172 PID=23597 (random chance 0.50 >= 0.25)
+Parent 23424: Randomly sparing child 173 PID=23598 (random chance 0.98 >= 0.25)
+Parent 23424: Randomly killing child 174 PID=23599 (random chance 0.10 < 0.25)
+Parent 23424: Randomly sparing child 175 PID=23600 (random chance 0.75 >= 0.25)
+Parent 23424: Randomly sparing child 176 PID=23601 (random chance 0.43 >= 0.25)
+Parent 23424: Randomly sparing child 177 PID=23602 (random chance 0.63 >= 0.25)
+Parent 23424: Randomly sparing child 178 PID=23603 (random chance 0.41 >= 0.25)
+Parent 23424: Randomly sparing child 179 PID=23604 (random chance 0.80 >= 0.25)
+Parent 23424: Randomly sparing child 180 PID=23605 (random chance 0.65 >= 0.25)
+Parent 23424: Randomly sparing child 181 PID=23606 (random chance 0.64 >= 0.25)
+Parent 23424: Randomly killing child 182 PID=23607 (random chance 0.20 < 0.25)
+Parent 23424: Randomly sparing child 183 PID=23608 (random chance 0.28 >= 0.25)
+Parent 23424: Randomly sparing child 184 PID=23609 (random chance 0.58 >= 0.25)
+Parent 23424: Randomly killing child 185 PID=23610 (random chance 0.09 < 0.25)
+Parent 23424: Randomly sparing child 186 PID=23611 (random chance 0.96 >= 0.25)
+Parent 23424: Randomly sparing child 187 PID=23612 (random chance 0.67 >= 0.25)
+Parent 23424: Randomly sparing child 188 PID=23613 (random chance 0.77 >= 0.25)
+Parent 23424: Randomly sparing child 189 PID=23614 (random chance 0.85 >= 0.25)
+Parent 23424: Randomly sparing child 190 PID=23615 (random chance 0.59 >= 0.25)
+Parent 23424: Randomly killing child 191 PID=23616 (random chance 0.15 < 0.25)
+Parent 23424: Randomly killing child 192 PID=23617 (random chance 0.05 < 0.25)
+Parent 23424: Randomly killing child 193 PID=23618 (random chance 0.11 < 0.25)
+Parent 23424: Randomly sparing child 194 PID=23619 (random chance 0.94 >= 0.25)
+Parent 23424: Randomly sparing child 195 PID=23620 (random chance 0.88 >= 0.25)
+Parent 23424: Randomly sparing child 196 PID=23621 (random chance 0.76 >= 0.25)
+Parent 23424: Randomly killing child 197 PID=23622 (random chance 0.12 < 0.25)
+Parent 23424: Randomly sparing child 198 PID=23623 (random chance 0.95 >= 0.25)
+Parent 23424: Randomly sparing child 199 PID=23624 (random chance 0.27 >= 0.25)
+Parent 23424: Randomly sparing child 200 PID=23625 (random chance 0.34 >= 0.25)
+Parent 23424: Randomly killing child 201 PID=23626 (random chance 0.01 < 0.25)
+Parent 23424: Randomly killing child 202 PID=23627 (random chance 0.05 < 0.25)
+Parent 23424: Randomly sparing child 203 PID=23628 (random chance 0.84 >= 0.25)
+Parent 23424: Randomly sparing child 204 PID=23629 (random chance 0.98 >= 0.25)
+Parent 23424: Randomly killing child 205 PID=23630 (random chance 0.16 < 0.25)
+Parent 23424: Randomly sparing child 206 PID=23631 (random chance 0.59 >= 0.25)
+Parent 23424: Randomly sparing child 207 PID=23632 (random chance 0.41 >= 0.25)
+Parent 23424: Randomly sparing child 208 PID=23633 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly killing child 209 PID=23634 (random chance 0.00 < 0.25)
+Parent 23424: Randomly killing child 210 PID=23635 (random chance 0.20 < 0.25)
+Parent 23424: Randomly sparing child 211 PID=23636 (random chance 0.44 >= 0.25)
+Parent 23424: Randomly sparing child 212 PID=23637 (random chance 0.64 >= 0.25)
+Parent 23424: Randomly sparing child 213 PID=23638 (random chance 0.41 >= 0.25)
+Parent 23424: Randomly sparing child 214 PID=23639 (random chance 0.72 >= 0.25)
+Parent 23424: Randomly killing child 215 PID=23640 (random chance 0.22 < 0.25)
+Parent 23424: Randomly sparing child 216 PID=23641 (random chance 0.50 >= 0.25)
+Parent 23424: Randomly sparing child 217 PID=23642 (random chance 0.68 >= 0.25)
+Parent 23424: Randomly sparing child 218 PID=23643 (random chance 0.90 >= 0.25)
+Parent 23424: Randomly sparing child 219 PID=23644 (random chance 0.27 >= 0.25)
+Parent 23424: Randomly sparing child 220 PID=23645 (random chance 0.53 >= 0.25)
+Parent 23424: Randomly sparing child 221 PID=23646 (random chance 0.49 >= 0.25)
+Parent 23424: Randomly sparing child 222 PID=23647 (random chance 0.42 >= 0.25)
+Parent 23424: Randomly sparing child 223 PID=23648 (random chance 0.58 >= 0.25)
+Parent 23424: Randomly sparing child 224 PID=23649 (random chance 0.60 >= 0.25)
+Parent 23424: Randomly sparing child 225 PID=23650 (random chance 0.36 >= 0.25)
+Parent 23424: Randomly sparing child 226 PID=23651 (random chance 0.45 >= 0.25)
+Parent 23424: Randomly sparing child 227 PID=23652 (random chance 0.36 >= 0.25)
+Parent 23424: Randomly sparing child 228 PID=23653 (random chance 0.49 >= 0.25)
+Parent 23424: Randomly sparing child 229 PID=23654 (random chance 0.40 >= 0.25)
+Parent 23424: Randomly sparing child 230 PID=23655 (random chance 0.63 >= 0.25)
+Parent 23424: Randomly sparing child 231 PID=23656 (random chance 0.83 >= 0.25)
+Parent 23424: Randomly sparing child 232 PID=23657 (random chance 0.41 >= 0.25)
+Parent 23424: Randomly sparing child 233 PID=23658 (random chance 0.68 >= 0.25)
+Parent 23424: Randomly sparing child 234 PID=23659 (random chance 0.67 >= 0.25)
+Parent 23424: Randomly sparing child 235 PID=23660 (random chance 0.39 >= 0.25)
+Parent 23424: Randomly sparing child 236 PID=23661 (random chance 0.84 >= 0.25)
+Parent 23424: Randomly sparing child 237 PID=23662 (random chance 0.27 >= 0.25)
+Parent 23424: Randomly sparing child 238 PID=23663 (random chance 0.80 >= 0.25)
+Parent 23424: Randomly sparing child 239 PID=23664 (random chance 0.63 >= 0.25)
+Parent 23424: Randomly sparing child 240 PID=23665 (random chance 0.27 >= 0.25)
+Parent 23424: Randomly killing child 241 PID=23666 (random chance 0.01 < 0.25)
+Parent 23424: Randomly killing child 242 PID=23667 (random chance 0.07 < 0.25)
+Parent 23424: Randomly sparing child 243 PID=23668 (random chance 0.91 >= 0.25)
+Parent 23424: Randomly sparing child 244 PID=23669 (random chance 0.42 >= 0.25)
+Parent 23424: Randomly sparing child 245 PID=23670 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly killing child 246 PID=23671 (random chance 0.13 < 0.25)
+Parent 23424: Randomly sparing child 247 PID=23672 (random chance 0.92 >= 0.25)
+Parent 23424: Randomly sparing child 248 PID=23673 (random chance 0.47 >= 0.25)
+Parent 23424: Randomly killing child 249 PID=23674 (random chance 0.03 < 0.25)
+Parent 23424: Randomly killing child 250 PID=23675 (random chance 0.19 < 0.25)
+Parent 23424: Randomly sparing child 251 PID=23676 (random chance 1.00 >= 0.25)
+Parent 23424: Randomly sparing child 252 PID=23677 (random chance 0.52 >= 0.25)
+Parent 23424: Randomly sparing child 253 PID=23678 (random chance 0.61 >= 0.25)
+Parent 23424: Randomly sparing child 254 PID=23679 (random chance 0.57 >= 0.25)
+Parent 23424: Randomly killing child 255 PID=23680 (random chance 0.12 < 0.25)
+Parent 23424: Randomly sparing child 256 PID=23681 (random chance 0.97 >= 0.25)
+Parent 23424: Randomly killing child 257 PID=23682 (random chance 0.03 < 0.25)
+Parent 23424: Randomly sparing child 258 PID=23683 (random chance 0.48 >= 0.25)
+Parent 23424: Randomly sparing child 259 PID=23684 (random chance 0.46 >= 0.25)
+Parent 23424: Randomly sparing child 260 PID=23685 (random chance 0.43 >= 0.25)
+Parent 23424: Randomly killing child 261 PID=23686 (random chance 0.11 < 0.25)
+Parent 23424: Randomly sparing child 262 PID=23687 (random chance 0.29 >= 0.25)
+Parent 23424: Randomly sparing child 263 PID=23688 (random chance 0.84 >= 0.25)
+Parent 23424: Randomly sparing child 264 PID=23689 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly sparing child 265 PID=23690 (random chance 0.96 >= 0.25)
+Parent 23424: Randomly killing child 266 PID=23691 (random chance 0.23 < 0.25)
+Parent 23424: Randomly sparing child 267 PID=23692 (random chance 0.63 >= 0.25)
+Parent 23424: Randomly killing child 268 PID=23693 (random chance 0.23 < 0.25)
+Parent 23424: Randomly killing child 269 PID=23694 (random chance 0.04 < 0.25)
+Parent 23424: Randomly sparing child 270 PID=23695 (random chance 0.26 >= 0.25)
+Parent 23424: Randomly sparing child 271 PID=23696 (random chance 0.49 >= 0.25)
+Parent 23424: Randomly killing child 272 PID=23697 (random chance 0.05 < 0.25)
+Parent 23424: Randomly sparing child 273 PID=23698 (random chance 0.33 >= 0.25)
+Parent 23424: Randomly sparing child 274 PID=23699 (random chance 0.40 >= 0.25)
+Parent 23424: Randomly sparing child 275 PID=23700 (random chance 0.46 >= 0.25)
+Parent 23424: Randomly killing child 276 PID=23701 (random chance 0.12 < 0.25)
+Parent 23424: Randomly sparing child 277 PID=23702 (random chance 0.54 >= 0.25)
+Parent 23424: Randomly sparing child 278 PID=23703 (random chance 0.38 >= 0.25)
+Parent 23424: Randomly sparing child 279 PID=23704 (random chance 0.59 >= 0.25)
+Parent 23424: Randomly sparing child 280 PID=23705 (random chance 0.57 >= 0.25)
+Parent 23424: Randomly sparing child 281 PID=23706 (random chance 0.57 >= 0.25)
+Parent 23424: Randomly sparing child 282 PID=23707 (random chance 0.59 >= 0.25)
+Parent 23424: Randomly killing child 283 PID=23708 (random chance 0.08 < 0.25)
+Parent 23424: Randomly killing child 284 PID=23709 (random chance 0.18 < 0.25)
+Parent 23424: Randomly killing child 285 PID=23710 (random chance 0.16 < 0.25)
+Parent 23424: Randomly killing child 286 PID=23711 (random chance 0.20 < 0.25)
+Parent 23424: Randomly killing child 287 PID=23712 (random chance 0.15 < 0.25)
+Parent 23424: Randomly killing child 288 PID=23713 (random chance 0.19 < 0.25)
+Parent 23424: Randomly sparing child 289 PID=23714 (random chance 0.68 >= 0.25)
+Parent 23424: Randomly sparing child 290 PID=23715 (random chance 0.60 >= 0.25)
+Parent 23424: Randomly sparing child 291 PID=23716 (random chance 0.62 >= 0.25)
+Parent 23424: Randomly sparing child 292 PID=23717 (random chance 0.78 >= 0.25)
+Parent 23424: Randomly sparing child 293 PID=23718 (random chance 0.89 >= 0.25)
+Parent 23424: Randomly sparing child 294 PID=23719 (random chance 0.46 >= 0.25)
+Parent 23424: Randomly sparing child 295 PID=23720 (random chance 0.58 >= 0.25)
+Parent 23424: Randomly sparing child 296 PID=23721 (random chance 0.85 >= 0.25)
+Parent 23424: Randomly sparing child 297 PID=23722 (random chance 0.69 >= 0.25)
+Parent 23424: Randomly killing child 298 PID=23723 (random chance 0.21 < 0.25)
+Parent 23424: Randomly killing child 299 PID=23724 (random chance 0.07 < 0.25)
+Parent 23424: Randomly sparing child 300 PID=23725 (random chance 0.72 >= 0.25)
+Parent 23424: Randomly sparing child 301 PID=23726 (random chance 0.46 >= 0.25)
+Parent 23424: Randomly sparing child 302 PID=23727 (random chance 0.57 >= 0.25)
+Parent 23424: Randomly sparing child 303 PID=23728 (random chance 0.77 >= 0.25)
+Parent 23424: Randomly sparing child 304 PID=23729 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly sparing child 305 PID=23730 (random chance 0.97 >= 0.25)
+Parent 23424: Randomly killing child 306 PID=23731 (random chance 0.23 < 0.25)
+Parent 23424: Randomly sparing child 307 PID=23732 (random chance 0.91 >= 0.25)
+Parent 23424: Randomly sparing child 308 PID=23733 (random chance 0.51 >= 0.25)
+Parent 23424: Randomly sparing child 309 PID=23734 (random chance 0.62 >= 0.25)
+Parent 23424: Randomly sparing child 310 PID=23735 (random chance 0.50 >= 0.25)
+Parent 23424: Randomly killing child 311 PID=23736 (random chance 0.07 < 0.25)
+Parent 23424: Randomly killing child 312 PID=23737 (random chance 0.19 < 0.25)
+Parent 23424: Randomly killing child 313 PID=23738 (random chance 0.09 < 0.25)
+Parent 23424: Randomly killing child 314 PID=23739 (random chance 0.16 < 0.25)
+Parent 23424: Randomly sparing child 315 PID=23740 (random chance 0.36 >= 0.25)
+Parent 23424: Randomly sparing child 316 PID=23741 (random chance 0.25 >= 0.25)
+Parent 23424: Randomly sparing child 317 PID=23742 (random chance 0.36 >= 0.25)
+Parent 23424: Randomly sparing child 318 PID=23743 (random chance 0.51 >= 0.25)
+Parent 23424: Randomly sparing child 319 PID=23744 (random chance 0.44 >= 0.25)
+Parent 23424: Randomly killing child 320 PID=23745 (random chance 0.03 < 0.25)
+Parent 23424: Randomly killing child 321 PID=23746 (random chance 0.11 < 0.25)
+Parent 23424: Randomly killing child 322 PID=23747 (random chance 0.06 < 0.25)
+Parent 23424: Randomly sparing child 323 PID=23748 (random chance 0.82 >= 0.25)
+Parent 23424: Randomly killing child 324 PID=23749 (random chance 0.00 < 0.25)
+Parent 23424: Randomly sparing child 325 PID=23750 (random chance 0.51 >= 0.25)
+Parent 23424: Randomly sparing child 326 PID=23751 (random chance 0.39 >= 0.25)
+Parent 23424: Randomly sparing child 327 PID=23752 (random chance 0.85 >= 0.25)
+Parent 23424: Randomly killing child 328 PID=23753 (random chance 0.20 < 0.25)
+Parent 23424: Randomly sparing child 329 PID=23754 (random chance 0.60 >= 0.25)
+Parent 23424: Randomly sparing child 330 PID=23755 (random chance 0.92 >= 0.25)
+Parent 23424: Randomly sparing child 331 PID=23756 (random chance 0.93 >= 0.25)
+Parent 23424: Randomly killing child 332 PID=23757 (random chance 0.06 < 0.25)
+Parent 23424: Randomly sparing child 333 PID=23758 (random chance 0.49 >= 0.25)
+Parent 23424: Randomly sparing child 334 PID=23759 (random chance 0.70 >= 0.25)
+Parent 23424: Randomly sparing child 335 PID=23760 (random chance 0.86 >= 0.25)
+Parent 23424: Randomly sparing child 336 PID=23761 (random chance 0.46 >= 0.25)
+Parent 23424: Randomly sparing child 337 PID=23762 (random chance 0.93 >= 0.25)
+Parent 23424: Randomly sparing child 338 PID=23763 (random chance 0.77 >= 0.25)
+Parent 23424: Randomly sparing child 339 PID=23764 (random chance 0.96 >= 0.25)
+Parent 23424: Randomly sparing child 340 PID=23765 (random chance 0.55 >= 0.25)
+Parent 23424: Randomly sparing child 341 PID=23766 (random chance 0.27 >= 0.25)
+Parent 23424: Randomly killing child 342 PID=23767 (random chance 0.04 < 0.25)
+Parent 23424: Randomly sparing child 343 PID=23768 (random chance 0.73 >= 0.25)
+Parent 23424: Randomly sparing child 344 PID=23769 (random chance 0.35 >= 0.25)
+Parent 23424: Randomly killing child 345 PID=23770 (random chance 0.20 < 0.25)
+Parent 23424: Randomly killing child 346 PID=23771 (random chance 0.10 < 0.25)
+Parent 23424: Randomly sparing child 347 PID=23772 (random chance 0.61 >= 0.25)
+Parent 23424: Randomly sparing child 348 PID=23773 (random chance 0.55 >= 0.25)
+Parent 23424: Randomly sparing child 349 PID=23774 (random chance 0.61 >= 0.25)
+Parent 23424: Randomly killing child 350 PID=23775 (random chance 0.05 < 0.25)
+Parent 23424: Randomly sparing child 351 PID=23776 (random chance 0.59 >= 0.25)
+Parent 23424: Randomly sparing child 352 PID=23777 (random chance 0.72 >= 0.25)
+Parent 23424: Randomly killing child 353 PID=23778 (random chance 0.10 < 0.25)
+Parent 23424: Randomly sparing child 354 PID=23779 (random chance 0.41 >= 0.25)
+Parent 23424: Randomly sparing child 355 PID=23780 (random chance 0.72 >= 0.25)
+Parent 23424: Randomly sparing child 356 PID=23781 (random chance 0.62 >= 0.25)
+Parent 23424: Randomly sparing child 357 PID=23782 (random chance 0.80 >= 0.25)
+Parent 23424: Randomly sparing child 358 PID=23783 (random chance 0.57 >= 0.25)
+Parent 23424: Randomly sparing child 359 PID=23784 (random chance 0.82 >= 0.25)
+Parent 23424: Randomly sparing child 360 PID=23785 (random chance 0.40 >= 0.25)
+Parent 23424: Randomly sparing child 361 PID=23786 (random chance 0.50 >= 0.25)
+Parent 23424: Randomly sparing child 362 PID=23787 (random chance 0.74 >= 0.25)
+Parent 23424: Randomly sparing child 363 PID=23788 (random chance 0.47 >= 0.25)
+Parent 23424: Randomly sparing child 364 PID=23789 (random chance 0.99 >= 0.25)
+Parent 23424: Randomly sparing child 365 PID=23790 (random chance 0.44 >= 0.25)
+Parent 23424: Randomly sparing child 366 PID=23791 (random chance 0.32 >= 0.25)
+Parent 23424: Randomly sparing child 367 PID=23792 (random chance 0.45 >= 0.25)
+Parent 23424: Randomly sparing child 368 PID=23793 (random chance 0.37 >= 0.25)
+Parent 23424: Randomly killing child 369 PID=23794 (random chance 0.09 < 0.25)
+Parent 23424: Randomly sparing child 370 PID=23795 (random chance 0.41 >= 0.25)
+Parent 23424: Randomly sparing child 371 PID=23796 (random chance 0.92 >= 0.25)
+Parent 23424: Randomly sparing child 372 PID=23797 (random chance 0.35 >= 0.25)
+Parent 23424: Randomly sparing child 373 PID=23798 (random chance 0.45 >= 0.25)
+Parent 23424: Randomly sparing child 374 PID=23799 (random chance 0.66 >= 0.25)
+Parent 23424: Randomly sparing child 375 PID=23800 (random chance 0.71 >= 0.25)
+Parent 23424: Randomly sparing child 376 PID=23801 (random chance 0.64 >= 0.25)
+Parent 23424: Randomly sparing child 377 PID=23802 (random chance 0.75 >= 0.25)
+Parent 23424: Randomly sparing child 378 PID=23803 (random chance 0.31 >= 0.25)
+Parent 23424: Randomly killing child 379 PID=23804 (random chance 0.20 < 0.25)
+Parent 23424: Randomly sparing child 380 PID=23805 (random chance 0.36 >= 0.25)
+Parent 23424: Randomly sparing child 381 PID=23806 (random chance 0.36 >= 0.25)
+Parent 23424: Randomly sparing child 382 PID=23807 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly killing child 383 PID=23808 (random chance 0.09 < 0.25)
+Parent 23424: Randomly sparing child 384 PID=23809 (random chance 0.46 >= 0.25)
+Parent 23424: Randomly killing child 385 PID=23810 (random chance 0.19 < 0.25)
+Parent 23424: Randomly sparing child 386 PID=23811 (random chance 0.81 >= 0.25)
+Parent 23424: Randomly killing child 387 PID=23812 (random chance 0.08 < 0.25)
+Parent 23424: Randomly sparing child 388 PID=23813 (random chance 1.00 >= 0.25)
+Parent 23424: Randomly sparing child 389 PID=23814 (random chance 0.39 >= 0.25)
+Parent 23424: Randomly sparing child 390 PID=23815 (random chance 0.89 >= 0.25)
+Parent 23424: Randomly sparing child 391 PID=23816 (random chance 0.40 >= 0.25)
+Parent 23424: Randomly sparing child 392 PID=23817 (random chance 0.88 >= 0.25)
+Parent 23424: Randomly sparing child 393 PID=23818 (random chance 0.64 >= 0.25)
+Parent 23424: Randomly sparing child 394 PID=23819 (random chance 0.87 >= 0.25)
+Parent 23424: Randomly sparing child 395 PID=23820 (random chance 0.87 >= 0.25)
+Parent 23424: Randomly killing child 396 PID=23821 (random chance 0.08 < 0.25)
+Parent 23424: Randomly killing child 397 PID=23822 (random chance 0.19 < 0.25)
+Parent 23424: Randomly sparing child 398 PID=23823 (random chance 0.32 >= 0.25)
+Parent 23424: Randomly sparing child 399 PID=23824 (random chance 0.45 >= 0.25)
+Parent 23424: Randomly sparing child 400 PID=23825 (random chance 0.27 >= 0.25)
+Parent 23424: Randomly sparing child 401 PID=23826 (random chance 0.72 >= 0.25)
+Parent 23424: Randomly sparing child 402 PID=23827 (random chance 0.37 >= 0.25)
+Parent 23424: Randomly sparing child 403 PID=23828 (random chance 0.63 >= 0.25)
+Parent 23424: Randomly killing child 404 PID=23829 (random chance 0.17 < 0.25)
+Parent 23424: Randomly killing child 405 PID=23830 (random chance 0.03 < 0.25)
+Parent 23424: Randomly sparing child 406 PID=23831 (random chance 0.34 >= 0.25)
+Parent 23424: Randomly sparing child 407 PID=23832 (random chance 0.81 >= 0.25)
+Parent 23424: Randomly sparing child 408 PID=23833 (random chance 0.78 >= 0.25)
+Parent 23424: Randomly sparing child 409 PID=23834 (random chance 0.65 >= 0.25)
+Parent 23424: Randomly killing child 410 PID=23835 (random chance 0.01 < 0.25)
+Parent 23424: Randomly killing child 411 PID=23836 (random chance 0.15 < 0.25)
+Parent 23424: Randomly killing child 412 PID=23837 (random chance 0.01 < 0.25)
+Parent 23424: Randomly sparing child 413 PID=23838 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly killing child 414 PID=23839 (random chance 0.23 < 0.25)
+Parent 23424: Randomly sparing child 415 PID=23840 (random chance 0.47 >= 0.25)
+Parent 23424: Randomly sparing child 416 PID=23841 (random chance 0.99 >= 0.25)
+Parent 23424: Randomly killing child 417 PID=23842 (random chance 0.04 < 0.25)
+Parent 23424: Randomly sparing child 418 PID=23843 (random chance 0.54 >= 0.25)
+Parent 23424: Randomly sparing child 419 PID=23844 (random chance 0.98 >= 0.25)
+Parent 23424: Randomly sparing child 420 PID=23845 (random chance 0.43 >= 0.25)
+Parent 23424: Randomly sparing child 421 PID=23846 (random chance 0.44 >= 0.25)
+Parent 23424: Randomly sparing child 422 PID=23847 (random chance 0.38 >= 0.25)
+Parent 23424: Randomly sparing child 423 PID=23848 (random chance 0.31 >= 0.25)
+Parent 23424: Randomly killing child 424 PID=23849 (random chance 0.08 < 0.25)
+Parent 23424: Randomly killing child 425 PID=23850 (random chance 0.25 < 0.25)
+Parent 23424: Randomly killing child 426 PID=23851 (random chance 0.18 < 0.25)
+Parent 23424: Randomly killing child 427 PID=23852 (random chance 0.16 < 0.25)
+Parent 23424: Randomly sparing child 428 PID=23853 (random chance 0.44 >= 0.25)
+Parent 23424: Randomly sparing child 429 PID=23854 (random chance 0.50 >= 0.25)
+Parent 23424: Randomly sparing child 430 PID=23855 (random chance 0.61 >= 0.25)
+Parent 23424: Randomly sparing child 431 PID=23856 (random chance 0.71 >= 0.25)
+Parent 23424: Randomly killing child 432 PID=23857 (random chance 0.22 < 0.25)
+Parent 23424: Randomly sparing child 433 PID=23858 (random chance 0.98 >= 0.25)
+Parent 23424: Randomly sparing child 434 PID=23859 (random chance 0.34 >= 0.25)
+Parent 23424: Randomly sparing child 435 PID=23860 (random chance 0.39 >= 0.25)
+Parent 23424: Randomly killing child 436 PID=23861 (random chance 0.01 < 0.25)
+Parent 23424: Randomly sparing child 437 PID=23862 (random chance 0.67 >= 0.25)
+Parent 23424: Randomly killing child 438 PID=23863 (random chance 0.21 < 0.25)
+Parent 23424: Randomly sparing child 439 PID=23864 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly sparing child 440 PID=23865 (random chance 0.32 >= 0.25)
+Parent 23424: Randomly killing child 441 PID=23866 (random chance 0.22 < 0.25)
+Parent 23424: Randomly sparing child 442 PID=23867 (random chance 0.94 >= 0.25)
+Parent 23424: Randomly sparing child 443 PID=23868 (random chance 0.33 >= 0.25)
+Parent 23424: Randomly killing child 444 PID=23869 (random chance 0.01 < 0.25)
+Parent 23424: Randomly killing child 445 PID=23870 (random chance 0.17 < 0.25)
+Parent 23424: Randomly sparing child 446 PID=23871 (random chance 0.80 >= 0.25)
+Parent 23424: Randomly sparing child 447 PID=23872 (random chance 1.00 >= 0.25)
+Parent 23424: Randomly killing child 448 PID=23873 (random chance 0.22 < 0.25)
+Parent 23424: Randomly sparing child 449 PID=23874 (random chance 0.34 >= 0.25)
+Parent 23424: Randomly sparing child 450 PID=23875 (random chance 0.98 >= 0.25)
+Parent 23424: Randomly sparing child 451 PID=23876 (random chance 0.65 >= 0.25)
+Parent 23424: Randomly sparing child 452 PID=23877 (random chance 0.78 >= 0.25)
+Parent 23424: Randomly sparing child 453 PID=23878 (random chance 0.37 >= 0.25)
+Parent 23424: Randomly sparing child 454 PID=23879 (random chance 0.96 >= 0.25)
+Parent 23424: Randomly sparing child 455 PID=23880 (random chance 0.86 >= 0.25)
+Parent 23424: Randomly sparing child 456 PID=23881 (random chance 0.62 >= 0.25)
+Parent 23424: Randomly killing child 457 PID=23882 (random chance 0.14 < 0.25)
+Parent 23424: Randomly killing child 458 PID=23883 (random chance 0.02 < 0.25)
+Parent 23424: Randomly killing child 459 PID=23884 (random chance 0.05 < 0.25)
+Parent 23424: Randomly sparing child 460 PID=23885 (random chance 0.64 >= 0.25)
+Parent 23424: Randomly sparing child 461 PID=23886 (random chance 0.63 >= 0.25)
+Parent 23424: Randomly sparing child 462 PID=23887 (random chance 0.76 >= 0.25)
+Parent 23424: Randomly sparing child 463 PID=23888 (random chance 0.87 >= 0.25)
+Parent 23424: Randomly sparing child 464 PID=23889 (random chance 0.61 >= 0.25)
+Parent 23424: Randomly killing child 465 PID=23890 (random chance 0.10 < 0.25)
+Parent 23424: Randomly sparing child 466 PID=23891 (random chance 0.26 >= 0.25)
+Parent 23424: Randomly sparing child 467 PID=23892 (random chance 0.62 >= 0.25)
+Parent 23424: Randomly sparing child 468 PID=23893 (random chance 0.77 >= 0.25)
+Parent 23424: Randomly sparing child 469 PID=23894 (random chance 0.47 >= 0.25)
+Parent 23424: Randomly sparing child 470 PID=23895 (random chance 0.41 >= 0.25)
+Parent 23424: Randomly killing child 471 PID=23896 (random chance 0.10 < 0.25)
+Parent 23424: Randomly sparing child 472 PID=23897 (random chance 0.68 >= 0.25)
+Parent 23424: Randomly sparing child 473 PID=23898 (random chance 0.35 >= 0.25)
+Parent 23424: Randomly sparing child 474 PID=23899 (random chance 0.43 >= 0.25)
+Parent 23424: Randomly sparing child 475 PID=23900 (random chance 0.69 >= 0.25)
+Parent 23424: Randomly sparing child 476 PID=23901 (random chance 0.52 >= 0.25)
+Parent 23424: Randomly killing child 477 PID=23902 (random chance 0.23 < 0.25)
+Parent 23424: Randomly sparing child 478 PID=23903 (random chance 0.69 >= 0.25)
+Parent 23424: Randomly sparing child 479 PID=23904 (random chance 0.74 >= 0.25)
+Parent 23424: Randomly sparing child 480 PID=23905 (random chance 0.57 >= 0.25)
+Parent 23424: Randomly sparing child 481 PID=23906 (random chance 0.68 >= 0.25)
+Parent 23424: Randomly sparing child 482 PID=23907 (random chance 0.39 >= 0.25)
+Parent 23424: Randomly sparing child 483 PID=23908 (random chance 0.36 >= 0.25)
+Parent 23424: Randomly killing child 484 PID=23909 (random chance 0.04 < 0.25)
+Parent 23424: Randomly sparing child 485 PID=23910 (random chance 0.35 >= 0.25)
+Parent 23424: Randomly killing child 486 PID=23911 (random chance 0.22 < 0.25)
+Parent 23424: Randomly sparing child 487 PID=23912 (random chance 0.66 >= 0.25)
+Parent 23424: Randomly sparing child 488 PID=23913 (random chance 0.49 >= 0.25)
+Parent 23424: Randomly killing child 489 PID=23914 (random chance 0.23 < 0.25)
+Parent 23424: Randomly sparing child 490 PID=23915 (random chance 0.71 >= 0.25)
+Parent 23424: Randomly killing child 491 PID=23916 (random chance 0.14 < 0.25)
+Parent 23424: Randomly sparing child 492 PID=23917 (random chance 0.86 >= 0.25)
+Parent 23424: Randomly sparing child 493 PID=23918 (random chance 0.47 >= 0.25)
+Parent 23424: Randomly killing child 494 PID=23919 (random chance 0.00 < 0.25)
+Parent 23424: Randomly sparing child 495 PID=23920 (random chance 0.46 >= 0.25)
+Parent 23424: Randomly sparing child 496 PID=23921 (random chance 0.57 >= 0.25)
+Parent 23424: Randomly sparing child 497 PID=23922 (random chance 0.26 >= 0.25)
+Parent 23424: Randomly killing child 498 PID=23923 (random chance 0.08 < 0.25)
+Parent 23424: Randomly sparing child 499 PID=23924 (random chance 0.34 >= 0.25)
+Parent 23424: Randomly sparing child 500 PID=23925 (random chance 0.73 >= 0.25)
+Parent 23424: Randomly sparing child 501 PID=23926 (random chance 0.49 >= 0.25)
+Parent 23424: Randomly sparing child 502 PID=23927 (random chance 0.44 >= 0.25)
+Parent 23424: Randomly sparing child 503 PID=23928 (random chance 0.41 >= 0.25)
+Parent 23424: Randomly sparing child 504 PID=23929 (random chance 0.84 >= 0.25)
+Parent 23424: Randomly sparing child 505 PID=23930 (random chance 0.87 >= 0.25)
+Parent 23424: Randomly killing child 506 PID=23931 (random chance 0.10 < 0.25)
+Parent 23424: Randomly sparing child 507 PID=23932 (random chance 0.36 >= 0.25)
+Parent 23424: Randomly killing child 508 PID=23933 (random chance 0.10 < 0.25)
+Parent 23424: Randomly sparing child 509 PID=23934 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly killing child 510 PID=23935 (random chance 0.10 < 0.25)
+Parent 23424: Randomly sparing child 511 PID=23936 (random chance 0.67 >= 0.25)
+Parent 23424: Randomly sparing child 512 PID=23937 (random chance 0.47 >= 0.25)
+Parent 23424: Randomly sparing child 513 PID=23938 (random chance 0.49 >= 0.25)
+Parent 23424: Randomly killing child 514 PID=23939 (random chance 0.02 < 0.25)
+Parent 23424: Randomly sparing child 515 PID=23940 (random chance 0.51 >= 0.25)
+Parent 23424: Randomly sparing child 516 PID=23941 (random chance 0.84 >= 0.25)
+Parent 23424: Randomly killing child 517 PID=23942 (random chance 0.24 < 0.25)
+Parent 23424: Randomly killing child 518 PID=23943 (random chance 0.17 < 0.25)
+Parent 23424: Randomly sparing child 519 PID=23944 (random chance 0.33 >= 0.25)
+Parent 23424: Randomly sparing child 520 PID=23945 (random chance 0.47 >= 0.25)
+Parent 23424: Randomly sparing child 521 PID=23946 (random chance 0.87 >= 0.25)
+Parent 23424: Randomly sparing child 522 PID=23947 (random chance 0.47 >= 0.25)
+Parent 23424: Randomly sparing child 523 PID=23948 (random chance 0.33 >= 0.25)
+Parent 23424: Randomly sparing child 524 PID=23949 (random chance 0.34 >= 0.25)
+Parent 23424: Randomly sparing child 525 PID=23950 (random chance 0.47 >= 0.25)
+Parent 23424: Randomly sparing child 526 PID=23951 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly sparing child 527 PID=23952 (random chance 0.91 >= 0.25)
+Parent 23424: Randomly sparing child 528 PID=23953 (random chance 0.73 >= 0.25)
+Parent 23424: Randomly sparing child 529 PID=23954 (random chance 0.88 >= 0.25)
+Parent 23424: Randomly sparing child 530 PID=23955 (random chance 0.26 >= 0.25)
+Parent 23424: Randomly sparing child 531 PID=23956 (random chance 0.45 >= 0.25)
+Parent 23424: Randomly sparing child 532 PID=23957 (random chance 0.37 >= 0.25)
+Parent 23424: Randomly sparing child 533 PID=23958 (random chance 0.70 >= 0.25)
+Parent 23424: Randomly sparing child 534 PID=23959 (random chance 0.86 >= 0.25)
+Parent 23424: Randomly killing child 535 PID=23960 (random chance 0.20 < 0.25)
+Parent 23424: Randomly sparing child 536 PID=23961 (random chance 0.56 >= 0.25)
+Parent 23424: Randomly sparing child 537 PID=23962 (random chance 0.96 >= 0.25)
+Parent 23424: Randomly sparing child 538 PID=23963 (random chance 0.57 >= 0.25)
+Parent 23424: Randomly sparing child 539 PID=23964 (random chance 0.66 >= 0.25)
+Parent 23424: Randomly sparing child 540 PID=23965 (random chance 0.75 >= 0.25)
+Parent 23424: Randomly sparing child 541 PID=23966 (random chance 0.67 >= 0.25)
+Parent 23424: Randomly sparing child 542 PID=23967 (random chance 0.33 >= 0.25)
+Parent 23424: Randomly killing child 543 PID=23968 (random chance 0.22 < 0.25)
+Parent 23424: Randomly killing child 544 PID=23969 (random chance 0.16 < 0.25)
+Parent 23424: Randomly sparing child 545 PID=23970 (random chance 0.35 >= 0.25)
+Parent 23424: Randomly sparing child 546 PID=23971 (random chance 0.72 >= 0.25)
+Parent 23424: Randomly sparing child 547 PID=23972 (random chance 0.99 >= 0.25)
+Parent 23424: Randomly sparing child 548 PID=23973 (random chance 0.60 >= 0.25)
+Parent 23424: Randomly sparing child 549 PID=23974 (random chance 0.89 >= 0.25)
+Parent 23424: Randomly sparing child 550 PID=23975 (random chance 0.32 >= 0.25)
+Parent 23424: Randomly killing child 551 PID=23976 (random chance 0.07 < 0.25)
+Parent 23424: Randomly sparing child 552 PID=23977 (random chance 0.76 >= 0.25)
+Parent 23424: Randomly sparing child 553 PID=23978 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly sparing child 554 PID=23979 (random chance 0.40 >= 0.25)
+Parent 23424: Randomly killing child 555 PID=23980 (random chance 0.11 < 0.25)
+Parent 23424: Randomly sparing child 556 PID=23981 (random chance 0.25 >= 0.25)
+Parent 23424: Randomly killing child 557 PID=23982 (random chance 0.19 < 0.25)
+Parent 23424: Randomly killing child 558 PID=23983 (random chance 0.02 < 0.25)
+Parent 23424: Randomly sparing child 559 PID=23984 (random chance 0.98 >= 0.25)
+Parent 23424: Randomly killing child 560 PID=23985 (random chance 0.07 < 0.25)
+Parent 23424: Randomly sparing child 561 PID=23986 (random chance 0.28 >= 0.25)
+Parent 23424: Randomly sparing child 562 PID=23987 (random chance 0.43 >= 0.25)
+Parent 23424: Randomly sparing child 563 PID=23988 (random chance 0.44 >= 0.25)
+Parent 23424: Randomly sparing child 564 PID=23989 (random chance 0.97 >= 0.25)
+Parent 23424: Randomly sparing child 565 PID=23990 (random chance 0.29 >= 0.25)
+Parent 23424: Randomly sparing child 566 PID=23991 (random chance 0.64 >= 0.25)
+Parent 23424: Randomly sparing child 567 PID=23992 (random chance 0.54 >= 0.25)
+Parent 23424: Randomly sparing child 568 PID=23993 (random chance 0.25 >= 0.25)
+Parent 23424: Randomly killing child 569 PID=23994 (random chance 0.21 < 0.25)
+Parent 23424: Randomly killing child 570 PID=23995 (random chance 0.20 < 0.25)
+Parent 23424: Randomly killing child 571 PID=23996 (random chance 0.00 < 0.25)
+Parent 23424: Randomly sparing child 572 PID=23997 (random chance 0.87 >= 0.25)
+Parent 23424: Randomly sparing child 573 PID=23998 (random chance 0.53 >= 0.25)
+Parent 23424: Randomly killing child 574 PID=23999 (random chance 0.22 < 0.25)
+Parent 23424: Randomly killing child 575 PID=24000 (random chance 0.03 < 0.25)
+Parent 23424: Randomly sparing child 576 PID=24001 (random chance 0.88 >= 0.25)
+Parent 23424: Randomly sparing child 577 PID=24002 (random chance 0.94 >= 0.25)
+Parent 23424: Randomly killing child 578 PID=24003 (random chance 0.02 < 0.25)
+Parent 23424: Randomly sparing child 579 PID=24004 (random chance 0.48 >= 0.25)
+Parent 23424: Randomly sparing child 580 PID=24005 (random chance 0.83 >= 0.25)
+Parent 23424: Randomly sparing child 581 PID=24006 (random chance 0.34 >= 0.25)
+Parent 23424: Randomly sparing child 582 PID=24007 (random chance 0.55 >= 0.25)
+Parent 23424: Randomly sparing child 583 PID=24008 (random chance 0.60 >= 0.25)
+Parent 23424: Randomly killing child 584 PID=24009 (random chance 0.13 < 0.25)
+Parent 23424: Randomly sparing child 585 PID=24010 (random chance 0.95 >= 0.25)
+Parent 23424: Randomly sparing child 586 PID=24011 (random chance 0.70 >= 0.25)
+Parent 23424: Randomly sparing child 587 PID=24012 (random chance 0.38 >= 0.25)
+Parent 23424: Randomly killing child 588 PID=24013 (random chance 0.14 < 0.25)
+Parent 23424: Randomly sparing child 589 PID=24014 (random chance 0.73 >= 0.25)
+Parent 23424: Randomly sparing child 590 PID=24015 (random chance 0.37 >= 0.25)
+Parent 23424: Randomly killing child 591 PID=24016 (random chance 0.21 < 0.25)
+Parent 23424: Randomly killing child 592 PID=24017 (random chance 0.00 < 0.25)
+Parent 23424: Randomly sparing child 593 PID=24018 (random chance 0.80 >= 0.25)
+Parent 23424: Randomly sparing child 594 PID=24019 (random chance 0.64 >= 0.25)
+Parent 23424: Randomly sparing child 595 PID=24020 (random chance 0.98 >= 0.25)
+Parent 23424: Randomly killing child 596 PID=24021 (random chance 0.09 < 0.25)
+Parent 23424: Randomly sparing child 597 PID=24022 (random chance 0.28 >= 0.25)
+Parent 23424: Randomly sparing child 598 PID=24023 (random chance 0.51 >= 0.25)
+Parent 23424: Randomly sparing child 599 PID=24024 (random chance 0.34 >= 0.25)
+Parent 23424: Randomly sparing child 600 PID=24025 (random chance 0.49 >= 0.25)
+Parent 23424: Randomly sparing child 601 PID=24026 (random chance 0.71 >= 0.25)
+Parent 23424: Randomly sparing child 602 PID=24027 (random chance 0.34 >= 0.25)
+Parent 23424: Randomly sparing child 603 PID=24028 (random chance 0.36 >= 0.25)
+Parent 23424: Randomly killing child 604 PID=24029 (random chance 0.24 < 0.25)
+Parent 23424: Randomly sparing child 605 PID=24030 (random chance 0.56 >= 0.25)
+Parent 23424: Randomly sparing child 606 PID=24031 (random chance 0.39 >= 0.25)
+Parent 23424: Randomly killing child 607 PID=24032 (random chance 0.12 < 0.25)
+Parent 23424: Randomly sparing child 608 PID=24033 (random chance 0.50 >= 0.25)
+Parent 23424: Randomly sparing child 609 PID=24034 (random chance 0.41 >= 0.25)
+Parent 23424: Randomly sparing child 610 PID=24035 (random chance 0.60 >= 0.25)
+Parent 23424: Randomly sparing child 611 PID=24036 (random chance 0.33 >= 0.25)
+Parent 23424: Randomly sparing child 612 PID=24037 (random chance 0.76 >= 0.25)
+Parent 23424: Randomly killing child 613 PID=24038 (random chance 0.14 < 0.25)
+Parent 23424: Randomly sparing child 614 PID=24039 (random chance 0.93 >= 0.25)
+Parent 23424: Randomly sparing child 615 PID=24040 (random chance 0.89 >= 0.25)
+Parent 23424: Randomly killing child 616 PID=24041 (random chance 0.09 < 0.25)
+Parent 23424: Randomly sparing child 617 PID=24042 (random chance 0.63 >= 0.25)
+Parent 23424: Randomly sparing child 618 PID=24043 (random chance 0.27 >= 0.25)
+Parent 23424: Randomly killing child 619 PID=24044 (random chance 0.23 < 0.25)
+Parent 23424: Randomly sparing child 620 PID=24045 (random chance 0.36 >= 0.25)
+Parent 23424: Randomly sparing child 621 PID=24046 (random chance 0.64 >= 0.25)
+Parent 23424: Randomly sparing child 622 PID=24047 (random chance 0.44 >= 0.25)
+Parent 23424: Randomly sparing child 623 PID=24048 (random chance 0.36 >= 0.25)
+Parent 23424: Randomly sparing child 624 PID=24049 (random chance 0.44 >= 0.25)
+Parent 23424: Randomly killing child 625 PID=24050 (random chance 0.08 < 0.25)
+Parent 23424: Randomly sparing child 626 PID=24051 (random chance 0.34 >= 0.25)
+Parent 23424: Randomly sparing child 627 PID=24052 (random chance 0.53 >= 0.25)
+Parent 23424: Randomly sparing child 628 PID=24053 (random chance 0.36 >= 0.25)
+Parent 23424: Randomly sparing child 629 PID=24054 (random chance 0.85 >= 0.25)
+Parent 23424: Randomly sparing child 630 PID=24055 (random chance 0.87 >= 0.25)
+Parent 23424: Randomly sparing child 631 PID=24056 (random chance 0.85 >= 0.25)
+Parent 23424: Randomly sparing child 632 PID=24057 (random chance 0.56 >= 0.25)
+Parent 23424: Randomly killing child 633 PID=24058 (random chance 0.22 < 0.25)
+Parent 23424: Randomly killing child 634 PID=24059 (random chance 0.22 < 0.25)
+Parent 23424: Randomly sparing child 635 PID=24060 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly sparing child 636 PID=24061 (random chance 0.78 >= 0.25)
+Parent 23424: Randomly sparing child 637 PID=24062 (random chance 0.61 >= 0.25)
+Parent 23424: Randomly sparing child 638 PID=24063 (random chance 0.91 >= 0.25)
+Parent 23424: Randomly sparing child 639 PID=24064 (random chance 0.28 >= 0.25)
+Parent 23424: Randomly killing child 640 PID=24065 (random chance 0.02 < 0.25)
+Parent 23424: Randomly sparing child 641 PID=24066 (random chance 0.51 >= 0.25)
+Parent 23424: Randomly sparing child 642 PID=24067 (random chance 0.61 >= 0.25)
+Parent 23424: Randomly sparing child 643 PID=24068 (random chance 0.78 >= 0.25)
+Parent 23424: Randomly sparing child 644 PID=24069 (random chance 0.65 >= 0.25)
+Parent 23424: Randomly sparing child 645 PID=24070 (random chance 0.54 >= 0.25)
+Parent 23424: Randomly sparing child 646 PID=24071 (random chance 0.67 >= 0.25)
+Parent 23424: Randomly sparing child 647 PID=24072 (random chance 0.74 >= 0.25)
+Parent 23424: Randomly killing child 648 PID=24073 (random chance 0.17 < 0.25)
+Parent 23424: Randomly sparing child 649 PID=24074 (random chance 0.95 >= 0.25)
+Parent 23424: Randomly sparing child 650 PID=24075 (random chance 0.97 >= 0.25)
+Parent 23424: Randomly sparing child 651 PID=24076 (random chance 0.53 >= 0.25)
+Parent 23424: Randomly sparing child 652 PID=24077 (random chance 0.58 >= 0.25)
+Parent 23424: Randomly sparing child 653 PID=24078 (random chance 0.40 >= 0.25)
+Parent 23424: Randomly sparing child 654 PID=24079 (random chance 0.89 >= 0.25)
+Parent 23424: Randomly killing child 655 PID=24080 (random chance 0.02 < 0.25)
+Parent 23424: Randomly sparing child 656 PID=24081 (random chance 0.48 >= 0.25)
+Parent 23424: Randomly killing child 657 PID=24082 (random chance 0.22 < 0.25)
+Parent 23424: Randomly sparing child 658 PID=24083 (random chance 0.55 >= 0.25)
+Parent 23424: Randomly sparing child 659 PID=24084 (random chance 0.85 >= 0.25)
+Parent 23424: Randomly killing child 660 PID=24085 (random chance 0.07 < 0.25)
+Parent 23424: Randomly sparing child 661 PID=24086 (random chance 0.42 >= 0.25)
+Parent 23424: Randomly sparing child 662 PID=24087 (random chance 0.70 >= 0.25)
+Parent 23424: Randomly sparing child 663 PID=24088 (random chance 0.63 >= 0.25)
+Parent 23424: Randomly sparing child 664 PID=24089 (random chance 0.64 >= 0.25)
+Parent 23424: Randomly sparing child 665 PID=24090 (random chance 0.91 >= 0.25)
+Parent 23424: Randomly sparing child 666 PID=24091 (random chance 0.42 >= 0.25)
+Parent 23424: Randomly sparing child 667 PID=24092 (random chance 0.42 >= 0.25)
+Parent 23424: Randomly sparing child 668 PID=24093 (random chance 0.52 >= 0.25)
+Parent 23424: Randomly sparing child 669 PID=24094 (random chance 0.34 >= 0.25)
+Parent 23424: Randomly sparing child 670 PID=24095 (random chance 0.69 >= 0.25)
+Parent 23424: Randomly sparing child 671 PID=24096 (random chance 0.55 >= 0.25)
+Parent 23424: Randomly sparing child 672 PID=24097 (random chance 0.85 >= 0.25)
+Parent 23424: Randomly sparing child 673 PID=24098 (random chance 0.30 >= 0.25)
+Parent 23424: Randomly sparing child 674 PID=24099 (random chance 0.33 >= 0.25)
+Parent 23424: Randomly sparing child 675 PID=24100 (random chance 0.50 >= 0.25)
+Parent 23424: Randomly sparing child 676 PID=24101 (random chance 0.84 >= 0.25)
+Parent 23424: Randomly killing child 677 PID=24102 (random chance 0.00 < 0.25)
+Parent 23424: Randomly killing child 678 PID=24103 (random chance 0.24 < 0.25)
+Parent 23424: Randomly killing child 679 PID=24104 (random chance 0.01 < 0.25)
+Parent 23424: Randomly sparing child 680 PID=24105 (random chance 0.95 >= 0.25)
+Parent 23424: Randomly killing child 681 PID=24106 (random chance 0.21 < 0.25)
+Parent 23424: Randomly sparing child 682 PID=24107 (random chance 0.53 >= 0.25)
+Parent 23424: Randomly sparing child 683 PID=24108 (random chance 0.53 >= 0.25)
+Parent 23424: Randomly sparing child 684 PID=24109 (random chance 0.62 >= 0.25)
+Parent 23424: Randomly sparing child 685 PID=24110 (random chance 0.42 >= 0.25)
+Parent 23424: Randomly sparing child 686 PID=24111 (random chance 0.55 >= 0.25)
+Parent 23424: Randomly killing child 687 PID=24112 (random chance 0.10 < 0.25)
+Parent 23424: Randomly sparing child 688 PID=24113 (random chance 0.64 >= 0.25)
+Parent 23424: Randomly killing child 689 PID=24114 (random chance 0.10 < 0.25)
+Parent 23424: Randomly sparing child 690 PID=24115 (random chance 0.94 >= 0.25)
+Parent 23424: Randomly sparing child 691 PID=24116 (random chance 0.71 >= 0.25)
+Parent 23424: Randomly sparing child 692 PID=24117 (random chance 0.53 >= 0.25)
+Parent 23424: Randomly sparing child 693 PID=24118 (random chance 0.64 >= 0.25)
+Parent 23424: Randomly sparing child 694 PID=24119 (random chance 0.34 >= 0.25)
+Parent 23424: Randomly killing child 695 PID=24120 (random chance 0.17 < 0.25)
+Parent 23424: Randomly sparing child 696 PID=24121 (random chance 0.56 >= 0.25)
+Parent 23424: Randomly sparing child 697 PID=24122 (random chance 0.76 >= 0.25)
+Parent 23424: Randomly sparing child 698 PID=24123 (random chance 0.58 >= 0.25)
+Parent 23424: Randomly killing child 699 PID=24124 (random chance 0.08 < 0.25)
+Parent 23424: Randomly killing child 700 PID=24125 (random chance 0.10 < 0.25)
+Parent 23424: Randomly sparing child 701 PID=24126 (random chance 0.28 >= 0.25)
+Parent 23424: Randomly sparing child 702 PID=24127 (random chance 0.63 >= 0.25)
+Parent 23424: Randomly sparing child 703 PID=24128 (random chance 0.95 >= 0.25)
+Parent 23424: Randomly sparing child 704 PID=24129 (random chance 0.58 >= 0.25)
+Parent 23424: Randomly sparing child 705 PID=24130 (random chance 0.96 >= 0.25)
+Parent 23424: Randomly sparing child 706 PID=24131 (random chance 0.45 >= 0.25)
+Parent 23424: Randomly sparing child 707 PID=24132 (random chance 0.42 >= 0.25)
+Parent 23424: Randomly sparing child 708 PID=24133 (random chance 0.96 >= 0.25)
+Parent 23424: Randomly sparing child 709 PID=24134 (random chance 0.69 >= 0.25)
+Parent 23424: Randomly sparing child 710 PID=24135 (random chance 0.43 >= 0.25)
+Parent 23424: Randomly sparing child 711 PID=24136 (random chance 0.90 >= 0.25)
+Parent 23424: Randomly sparing child 712 PID=24137 (random chance 0.90 >= 0.25)
+Parent 23424: Randomly sparing child 713 PID=24138 (random chance 0.96 >= 0.25)
+Parent 23424: Randomly sparing child 714 PID=24139 (random chance 0.43 >= 0.25)
+Parent 23424: Randomly sparing child 715 PID=24140 (random chance 0.52 >= 0.25)
+Parent 23424: Randomly sparing child 716 PID=24141 (random chance 0.38 >= 0.25)
+Parent 23424: Randomly sparing child 717 PID=24142 (random chance 0.99 >= 0.25)
+Parent 23424: Randomly sparing child 718 PID=24143 (random chance 0.62 >= 0.25)
+Parent 23424: Randomly killing child 719 PID=24144 (random chance 0.02 < 0.25)
+Parent 23424: Randomly killing child 720 PID=24145 (random chance 0.09 < 0.25)
+Parent 23424: Randomly sparing child 721 PID=24146 (random chance 0.56 >= 0.25)
+Parent 23424: Randomly sparing child 722 PID=24147 (random chance 0.73 >= 0.25)
+Parent 23424: Randomly sparing child 723 PID=24148 (random chance 0.62 >= 0.25)
+Parent 23424: Randomly killing child 724 PID=24149 (random chance 0.20 < 0.25)
+Parent 23424: Randomly killing child 725 PID=24150 (random chance 0.07 < 0.25)
+Parent 23424: Randomly sparing child 726 PID=24151 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly sparing child 727 PID=24152 (random chance 0.76 >= 0.25)
+Parent 23424: Randomly sparing child 728 PID=24153 (random chance 0.83 >= 0.25)
+Parent 23424: Randomly sparing child 729 PID=24154 (random chance 0.37 >= 0.25)
+Parent 23424: Randomly sparing child 730 PID=24155 (random chance 0.84 >= 0.25)
+Parent 23424: Randomly sparing child 731 PID=24156 (random chance 0.93 >= 0.25)
+Parent 23424: Randomly sparing child 732 PID=24157 (random chance 0.65 >= 0.25)
+Parent 23424: Randomly sparing child 733 PID=24158 (random chance 0.47 >= 0.25)
+Parent 23424: Randomly sparing child 734 PID=24159 (random chance 0.87 >= 0.25)
+Parent 23424: Randomly killing child 735 PID=24160 (random chance 0.23 < 0.25)
+Parent 23424: Randomly sparing child 736 PID=24161 (random chance 0.42 >= 0.25)
+Parent 23424: Randomly sparing child 737 PID=24162 (random chance 0.32 >= 0.25)
+Parent 23424: Randomly sparing child 738 PID=24163 (random chance 0.65 >= 0.25)
+Parent 23424: Randomly sparing child 739 PID=24164 (random chance 0.38 >= 0.25)
+Parent 23424: Randomly killing child 740 PID=24165 (random chance 0.01 < 0.25)
+Parent 23424: Randomly killing child 741 PID=24166 (random chance 0.08 < 0.25)
+Parent 23424: Randomly sparing child 742 PID=24167 (random chance 0.28 >= 0.25)
+Parent 23424: Randomly sparing child 743 PID=24168 (random chance 0.91 >= 0.25)
+Parent 23424: Randomly killing child 744 PID=24169 (random chance 0.04 < 0.25)
+Parent 23424: Randomly sparing child 745 PID=24170 (random chance 0.72 >= 0.25)
+Parent 23424: Randomly sparing child 746 PID=24171 (random chance 0.43 >= 0.25)
+Parent 23424: Randomly sparing child 747 PID=24172 (random chance 0.42 >= 0.25)
+Parent 23424: Randomly sparing child 748 PID=24173 (random chance 0.70 >= 0.25)
+Parent 23424: Randomly killing child 749 PID=24174 (random chance 0.05 < 0.25)
+Parent 23424: Randomly sparing child 750 PID=24175 (random chance 0.44 >= 0.25)
+Parent 23424: Randomly sparing child 751 PID=24176 (random chance 0.80 >= 0.25)
+Parent 23424: Randomly sparing child 752 PID=24177 (random chance 0.61 >= 0.25)
+Parent 23424: Randomly killing child 753 PID=24178 (random chance 0.17 < 0.25)
+Parent 23424: Randomly sparing child 754 PID=24179 (random chance 0.41 >= 0.25)
+Parent 23424: Randomly sparing child 755 PID=24180 (random chance 0.81 >= 0.25)
+Parent 23424: Randomly killing child 756 PID=24181 (random chance 0.24 < 0.25)
+Parent 23424: Randomly killing child 757 PID=24182 (random chance 0.20 < 0.25)
+Parent 23424: Randomly sparing child 758 PID=24183 (random chance 0.57 >= 0.25)
+Parent 23424: Randomly killing child 759 PID=24184 (random chance 0.07 < 0.25)
+Parent 23424: Randomly sparing child 760 PID=24185 (random chance 0.57 >= 0.25)
+Parent 23424: Randomly sparing child 761 PID=24186 (random chance 0.41 >= 0.25)
+Parent 23424: Randomly sparing child 762 PID=24187 (random chance 0.99 >= 0.25)
+Parent 23424: Randomly killing child 763 PID=24188 (random chance 0.22 < 0.25)
+Parent 23424: Randomly sparing child 764 PID=24189 (random chance 0.87 >= 0.25)
+Parent 23424: Randomly sparing child 765 PID=24190 (random chance 0.86 >= 0.25)
+Parent 23424: Randomly sparing child 766 PID=24191 (random chance 0.45 >= 0.25)
+Parent 23424: Randomly sparing child 767 PID=24192 (random chance 0.30 >= 0.25)
+Parent 23424: Randomly killing child 768 PID=24193 (random chance 0.18 < 0.25)
+Parent 23424: Randomly killing child 769 PID=24194 (random chance 0.11 < 0.25)
+Parent 23424: Randomly sparing child 770 PID=24195 (random chance 0.67 >= 0.25)
+Parent 23424: Randomly killing child 771 PID=24196 (random chance 0.19 < 0.25)
+Parent 23424: Randomly killing child 772 PID=24197 (random chance 0.19 < 0.25)
+Parent 23424: Randomly sparing child 773 PID=24198 (random chance 0.96 >= 0.25)
+Parent 23424: Randomly killing child 774 PID=24199 (random chance 0.11 < 0.25)
+Parent 23424: Randomly killing child 775 PID=24200 (random chance 0.23 < 0.25)
+Parent 23424: Randomly sparing child 776 PID=24201 (random chance 0.67 >= 0.25)
+Parent 23424: Randomly sparing child 777 PID=24202 (random chance 0.54 >= 0.25)
+Parent 23424: Randomly sparing child 778 PID=24203 (random chance 0.65 >= 0.25)
+Parent 23424: Randomly sparing child 779 PID=24204 (random chance 0.38 >= 0.25)
+Parent 23424: Randomly sparing child 780 PID=24205 (random chance 0.59 >= 0.25)
+Parent 23424: Randomly killing child 781 PID=24206 (random chance 0.09 < 0.25)
+Parent 23424: Randomly killing child 782 PID=24207 (random chance 0.17 < 0.25)
+Parent 23424: Randomly killing child 783 PID=24208 (random chance 0.19 < 0.25)
+Parent 23424: Randomly sparing child 784 PID=24209 (random chance 0.26 >= 0.25)
+Parent 23424: Randomly sparing child 785 PID=24210 (random chance 0.59 >= 0.25)
+Parent 23424: Randomly killing child 786 PID=24211 (random chance 0.00 < 0.25)
+Parent 23424: Randomly sparing child 787 PID=24212 (random chance 0.50 >= 0.25)
+Parent 23424: Randomly sparing child 788 PID=24213 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly sparing child 789 PID=24214 (random chance 0.57 >= 0.25)
+Parent 23424: Randomly sparing child 790 PID=24215 (random chance 0.57 >= 0.25)
+Parent 23424: Randomly sparing child 791 PID=24216 (random chance 0.36 >= 0.25)
+Parent 23424: Randomly sparing child 792 PID=24217 (random chance 0.98 >= 0.25)
+Parent 23424: Randomly sparing child 793 PID=24218 (random chance 0.56 >= 0.25)
+Parent 23424: Randomly sparing child 794 PID=24219 (random chance 0.58 >= 0.25)
+Parent 23424: Randomly sparing child 795 PID=24220 (random chance 0.86 >= 0.25)
+Parent 23424: Randomly sparing child 796 PID=24221 (random chance 0.42 >= 0.25)
+Parent 23424: Randomly killing child 797 PID=24222 (random chance 0.04 < 0.25)
+Parent 23424: Randomly killing child 798 PID=24223 (random chance 0.15 < 0.25)
+Parent 23424: Randomly sparing child 799 PID=24224 (random chance 0.61 >= 0.25)
+Parent 23424: Randomly killing child 800 PID=24225 (random chance 0.14 < 0.25)
+Parent 23424: Randomly sparing child 801 PID=24226 (random chance 0.83 >= 0.25)
+Parent 23424: Randomly sparing child 802 PID=24227 (random chance 0.80 >= 0.25)
+Parent 23424: Randomly sparing child 803 PID=24228 (random chance 0.33 >= 0.25)
+Parent 23424: Randomly sparing child 804 PID=24229 (random chance 0.78 >= 0.25)
+Parent 23424: Randomly sparing child 805 PID=24230 (random chance 0.91 >= 0.25)
+Parent 23424: Randomly sparing child 806 PID=24231 (random chance 0.56 >= 0.25)
+Parent 23424: Randomly sparing child 807 PID=24232 (random chance 0.45 >= 0.25)
+Parent 23424: Randomly sparing child 808 PID=24233 (random chance 0.45 >= 0.25)
+Parent 23424: Randomly killing child 809 PID=24234 (random chance 0.21 < 0.25)
+Parent 23424: Randomly sparing child 810 PID=24235 (random chance 0.83 >= 0.25)
+Parent 23424: Randomly killing child 811 PID=24236 (random chance 0.03 < 0.25)
+Parent 23424: Randomly sparing child 812 PID=24237 (random chance 0.30 >= 0.25)
+Parent 23424: Randomly killing child 813 PID=24238 (random chance 0.00 < 0.25)
+Parent 23424: Randomly killing child 814 PID=24239 (random chance 0.23 < 0.25)
+Parent 23424: Randomly sparing child 815 PID=24240 (random chance 0.56 >= 0.25)
+Parent 23424: Randomly sparing child 816 PID=24241 (random chance 0.59 >= 0.25)
+Parent 23424: Randomly killing child 817 PID=24242 (random chance 0.23 < 0.25)
+Parent 23424: Randomly killing child 818 PID=24243 (random chance 0.06 < 0.25)
+Parent 23424: Randomly sparing child 819 PID=24244 (random chance 0.38 >= 0.25)
+Parent 23424: Randomly sparing child 820 PID=24245 (random chance 0.81 >= 0.25)
+Parent 23424: Randomly sparing child 821 PID=24246 (random chance 0.63 >= 0.25)
+Parent 23424: Randomly sparing child 822 PID=24247 (random chance 0.74 >= 0.25)
+Parent 23424: Randomly sparing child 823 PID=24248 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly killing child 824 PID=24249 (random chance 0.19 < 0.25)
+Parent 23424: Randomly sparing child 825 PID=24250 (random chance 0.32 >= 0.25)
+Parent 23424: Randomly sparing child 826 PID=24251 (random chance 0.64 >= 0.25)
+Parent 23424: Randomly sparing child 827 PID=24252 (random chance 0.61 >= 0.25)
+Parent 23424: Randomly sparing child 828 PID=24253 (random chance 0.36 >= 0.25)
+Parent 23424: Randomly sparing child 829 PID=24254 (random chance 0.80 >= 0.25)
+Parent 23424: Randomly killing child 830 PID=24255 (random chance 0.22 < 0.25)
+Parent 23424: Randomly sparing child 831 PID=24256 (random chance 0.50 >= 0.25)
+Parent 23424: Randomly sparing child 832 PID=24257 (random chance 0.62 >= 0.25)
+Parent 23424: Randomly killing child 833 PID=24258 (random chance 0.02 < 0.25)
+Parent 23424: Randomly sparing child 834 PID=24259 (random chance 0.83 >= 0.25)
+Parent 23424: Randomly sparing child 835 PID=24260 (random chance 0.40 >= 0.25)
+Parent 23424: Randomly sparing child 836 PID=24261 (random chance 0.93 >= 0.25)
+Parent 23424: Randomly sparing child 837 PID=24262 (random chance 0.39 >= 0.25)
+Parent 23424: Randomly sparing child 838 PID=24263 (random chance 0.86 >= 0.25)
+Parent 23424: Randomly sparing child 839 PID=24264 (random chance 0.38 >= 0.25)
+Parent 23424: Randomly sparing child 840 PID=24265 (random chance 0.60 >= 0.25)
+Parent 23424: Randomly sparing child 841 PID=24266 (random chance 0.69 >= 0.25)
+Parent 23424: Randomly sparing child 842 PID=24267 (random chance 0.41 >= 0.25)
+Parent 23424: Randomly sparing child 843 PID=24268 (random chance 0.90 >= 0.25)
+Parent 23424: Randomly sparing child 844 PID=24269 (random chance 0.69 >= 0.25)
+Parent 23424: Randomly sparing child 845 PID=24270 (random chance 0.64 >= 0.25)
+Parent 23424: Randomly sparing child 846 PID=24271 (random chance 0.46 >= 0.25)
+Parent 23424: Randomly sparing child 847 PID=24272 (random chance 0.28 >= 0.25)
+Parent 23424: Randomly sparing child 848 PID=24273 (random chance 0.87 >= 0.25)
+Parent 23424: Randomly sparing child 849 PID=24274 (random chance 0.52 >= 0.25)
+Parent 23424: Randomly sparing child 850 PID=24275 (random chance 0.66 >= 0.25)
+Parent 23424: Randomly sparing child 851 PID=24276 (random chance 0.68 >= 0.25)
+Parent 23424: Randomly killing child 852 PID=24277 (random chance 0.15 < 0.25)
+Parent 23424: Randomly sparing child 853 PID=24278 (random chance 0.40 >= 0.25)
+Parent 23424: Randomly sparing child 854 PID=24279 (random chance 0.47 >= 0.25)
+Parent 23424: Randomly sparing child 855 PID=24280 (random chance 0.34 >= 0.25)
+Parent 23424: Randomly sparing child 856 PID=24281 (random chance 0.72 >= 0.25)
+Parent 23424: Randomly killing child 857 PID=24282 (random chance 0.11 < 0.25)
+Parent 23424: Randomly sparing child 858 PID=24283 (random chance 0.95 >= 0.25)
+Parent 23424: Randomly killing child 859 PID=24284 (random chance 0.08 < 0.25)
+Parent 23424: Randomly sparing child 860 PID=24285 (random chance 0.91 >= 0.25)
+Parent 23424: Randomly killing child 861 PID=24286 (random chance 0.16 < 0.25)
+Parent 23424: Randomly sparing child 862 PID=24287 (random chance 0.58 >= 0.25)
+Parent 23424: Randomly sparing child 863 PID=24288 (random chance 0.53 >= 0.25)
+Parent 23424: Randomly killing child 864 PID=24289 (random chance 0.18 < 0.25)
+Parent 23424: Randomly sparing child 865 PID=24290 (random chance 0.41 >= 0.25)
+Parent 23424: Randomly sparing child 866 PID=24291 (random chance 0.93 >= 0.25)
+Parent 23424: Randomly killing child 867 PID=24292 (random chance 0.11 < 0.25)
+Parent 23424: Randomly sparing child 868 PID=24293 (random chance 0.80 >= 0.25)
+Parent 23424: Randomly sparing child 869 PID=24294 (random chance 0.79 >= 0.25)
+Parent 23424: Randomly sparing child 870 PID=24295 (random chance 0.49 >= 0.25)
+Parent 23424: Randomly sparing child 871 PID=24296 (random chance 0.40 >= 0.25)
+Parent 23424: Randomly sparing child 872 PID=24297 (random chance 0.47 >= 0.25)
+Parent 23424: Randomly sparing child 873 PID=24298 (random chance 0.90 >= 0.25)
+Parent 23424: Randomly sparing child 874 PID=24299 (random chance 0.30 >= 0.25)
+Parent 23424: Randomly killing child 875 PID=24300 (random chance 0.16 < 0.25)
+Parent 23424: Randomly sparing child 876 PID=24301 (random chance 0.54 >= 0.25)
+Parent 23424: Randomly sparing child 877 PID=24302 (random chance 0.76 >= 0.25)
+Parent 23424: Randomly sparing child 878 PID=24303 (random chance 0.44 >= 0.25)
+Parent 23424: Randomly sparing child 879 PID=24304 (random chance 0.41 >= 0.25)
+Parent 23424: Randomly sparing child 880 PID=24305 (random chance 0.29 >= 0.25)
+Parent 23424: Randomly killing child 881 PID=24306 (random chance 0.10 < 0.25)
+Parent 23424: Randomly killing child 882 PID=24307 (random chance 0.09 < 0.25)
+Parent 23424: Randomly sparing child 883 PID=24308 (random chance 0.44 >= 0.25)
+Parent 23424: Randomly sparing child 884 PID=24309 (random chance 0.50 >= 0.25)
+Parent 23424: Randomly sparing child 885 PID=24310 (random chance 0.55 >= 0.25)
+Parent 23424: Randomly sparing child 886 PID=24311 (random chance 0.77 >= 0.25)
+Parent 23424: Randomly killing child 887 PID=24312 (random chance 0.22 < 0.25)
+Parent 23424: Randomly sparing child 888 PID=24313 (random chance 0.66 >= 0.25)
+Parent 23424: Randomly sparing child 889 PID=24314 (random chance 0.72 >= 0.25)
+Parent 23424: Randomly sparing child 890 PID=24315 (random chance 0.30 >= 0.25)
+Parent 23424: Randomly sparing child 891 PID=24316 (random chance 0.57 >= 0.25)
+Parent 23424: Randomly sparing child 892 PID=24317 (random chance 0.89 >= 0.25)
+Parent 23424: Randomly sparing child 893 PID=24318 (random chance 0.88 >= 0.25)
+Parent 23424: Randomly killing child 894 PID=24319 (random chance 0.10 < 0.25)
+Parent 23424: Randomly killing child 895 PID=24320 (random chance 0.07 < 0.25)
+Parent 23424: Randomly sparing child 896 PID=24321 (random chance 0.30 >= 0.25)
+Parent 23424: Randomly killing child 897 PID=24322 (random chance 0.03 < 0.25)
+Parent 23424: Randomly killing child 898 PID=24323 (random chance 0.18 < 0.25)
+Parent 23424: Randomly killing child 899 PID=24324 (random chance 0.10 < 0.25)
+Parent 23424: Randomly sparing child 900 PID=24325 (random chance 0.81 >= 0.25)
+Parent 23424: Randomly sparing child 901 PID=24326 (random chance 0.67 >= 0.25)
+Parent 23424: Randomly sparing child 902 PID=24327 (random chance 0.50 >= 0.25)
+Parent 23424: Randomly sparing child 903 PID=24328 (random chance 0.28 >= 0.25)
+Parent 23424: Randomly sparing child 904 PID=24329 (random chance 0.57 >= 0.25)
+Parent 23424: Randomly sparing child 905 PID=24330 (random chance 0.80 >= 0.25)
+Parent 23424: Randomly sparing child 906 PID=24331 (random chance 0.45 >= 0.25)
+Parent 23424: Randomly killing child 907 PID=24332 (random chance 0.11 < 0.25)
+Parent 23424: Randomly sparing child 908 PID=24333 (random chance 0.57 >= 0.25)
+Parent 23424: Randomly sparing child 909 PID=24334 (random chance 0.89 >= 0.25)
+Parent 23424: Randomly sparing child 910 PID=24335 (random chance 0.51 >= 0.25)
+Parent 23424: Randomly sparing child 911 PID=24336 (random chance 0.85 >= 0.25)
+Parent 23424: Randomly sparing child 912 PID=24337 (random chance 0.99 >= 0.25)
+Parent 23424: Randomly sparing child 913 PID=24338 (random chance 0.60 >= 0.25)
+Parent 23424: Randomly sparing child 914 PID=24339 (random chance 0.29 >= 0.25)
+Parent 23424: Randomly sparing child 915 PID=24340 (random chance 0.49 >= 0.25)
+Parent 23424: Randomly killing child 916 PID=24341 (random chance 0.15 < 0.25)
+Parent 23424: Randomly killing child 917 PID=24342 (random chance 0.06 < 0.25)
+Parent 23424: Randomly sparing child 918 PID=24343 (random chance 0.71 >= 0.25)
+Parent 23424: Randomly sparing child 919 PID=24344 (random chance 0.82 >= 0.25)
+Parent 23424: Randomly sparing child 920 PID=24345 (random chance 0.78 >= 0.25)
+Parent 23424: Randomly killing child 921 PID=24346 (random chance 0.01 < 0.25)
+Parent 23424: Randomly sparing child 922 PID=24347 (random chance 0.39 >= 0.25)
+Parent 23424: Randomly sparing child 923 PID=24348 (random chance 0.67 >= 0.25)
+Parent 23424: Randomly sparing child 924 PID=24349 (random chance 0.90 >= 0.25)
+Parent 23424: Randomly sparing child 925 PID=24350 (random chance 0.48 Child 4: PID=23429, parent PID=23424
+Child 4: finished work.
+Child 0: PID=23425, parent PID=23424
+Child 0: finished work.
+Child 7: PID=23432, parent PID=23424
+Child 7: finished work.
+Child 6: PID=23431, parent PID=23424
+Child 6: finished work.
+Child 2: PID=23427, parent PID=23424
+Child 2: finished work.
+Child 8: PID=23433, parent PID=23424
+Child 8: finished work.
+Child 10: PID=23435, parent PID=23424
+Child 10: finished work.
+Child 11: PID=23436, parent PID=23424
+Child 11: finished work.
+Child 12: PID=23437, parent PID=23424
+Child 12: finished work.
+Child 13: PID=23438, parent PID=23424
+Child 13: finished work.
+Child 14: PID=23439, parent PID=23424
+Child 14: finished work.
+Child 15: PID=23440, parent PID=23424
+Child 15: finished work.
+Child 16: PID=23441, parent PID=23424
+Child 16: finished work.
+Child 17: PID=23442, parent PID=23424
+Child 17: finished work.
+Child 18: PID=23443, parent PID=23424
+Child 18: finished work.
+Child 19: PID=23444, parent PID=23424
+Child 19: finished work.
+Child 21: PID=23446, parent PID=23424
+Child 21: finished work.
+Child 22: PID=23447, parent PID=23424
+Child 22: finished work.
+Child 23: PID=23448, parent PID=23424
+Child 23: finished work.
+Child 24: PID=23449, parent PID=23424
+Child 24: finished work.
+Child 25: PID=23450, parent PID=23424
+Child 25: finished work.
+Child 27: PID=23452, parent PID=23424
+Child 27: finished work.
+Child 28: PID=23453, parent PID=23424
+Child 28: finished work.
+Child 29: PID=23454, parent PID=23424
+Child 29: finished work.
+Child 30: PID=23455, parent PID=23424
+Child 30: finished work.
+Child 31: PID=23456, parent PID=23424
+Child 31: finished work.
+Child 32: PID=23457, parent PID=23424
+Child 32: finished work.
+Child 33: PID=23458, parent PID=23424
+Child 33: finished work.
+Child 35: PID=23460, parent PID=23424
+Child 35: finished work.
+>= 0.25)
+Parent 23424: Randomly sparing child 926 PID=24351 (random chance 0.74 >= 0.25)
+Parent 23424: Randomly killing child 927 PID=24352 (random chance 0.19 < 0.25)
+Parent 23424: Randomly sparing child 928 PID=24353 (random chance 0.51 >= 0.25)
+Parent 23424: Randomly sparing child 929 PID=24354 (random chance 0.92 >= 0.25)
+Parent 23424: Randomly sparing child 930 PID=24355 (random chance 0.29 >= 0.25)
+Parent 23424: Randomly sparing child 931 PID=24356 (random chance 0.32 >= 0.25)
+Parent 23424: Randomly sparing child 932 PID=24357 (random chance 0.59 >= 0.25)
+Parent 23424: Randomly sparing child 933 PID=24358 (random chance 0.80 >= 0.25)
+Parent 23424: Randomly sparing child 934 PID=24359 (random chance 0.60 >= 0.25)
+Parent 23424: Randomly killing child 935 PID=24360 (random chance 0.16 < 0.25)
+Parent 23424: Randomly sparing child 936 PID=24361 (random chance 0.60 >= 0.25)
+Parent 23424: Randomly killing child 937 PID=24362 (random chance 0.05 < 0.25)
+Parent 23424: Randomly sparing child 938 PID=24363 (random chance 0.27 >= 0.25)
+Parent 23424: Randomly killing child 939 PID=24364 (random chance 0.17 < 0.25)
+Parent 23424: Randomly sparing child 940 PID=24365 (random chance 0.94 >= 0.25)
+Parent 23424: Randomly sparing child 941 PID=24366 (random chance 0.78 >= 0.25)
+Parent 23424: Randomly killing child 942 PID=24367 (random chance 0.02 < 0.25)
+Parent 23424: Randomly sparing child 943 PID=24368 (random chance 0.93 >= 0.25)
+Parent 23424: Randomly sparing child 944 PID=24369 (random chance 0.38 >= 0.25)
+Parent 23424: Randomly sparing child 945 PID=24370 (random chance 0.30 >= 0.25)
+Parent 23424: Randomly sparing child 946 PID=24371 (random chance 0.42 >= 0.25)
+Parent 23424: Randomly sparing child 947 PID=24372 (random chance 0.54 >= 0.25)
+Parent 23424: Randomly sparing child 948 PID=24373 (random chance 0.37 >= 0.25)
+Parent 23424: Randomly killing child 949 PID=24374 (random chance 0.13 < 0.25)
+Parent: My PID is 23424, and my child 0 PID=23425 exited with code 0
+Parent: My PID is 23424, and my child 1 PID=23426 was killed by signal 9
+Parent: My PID is 23424, and my child 2 PID=23427 exited with code 2
+Parent: My PID is 23424, and my child 3 PID=23428 was killed by signal 9
+Parent: My PID is 23424, and my child 4 PID=23429 exited with code 4
+Parent: My PID is 23424, and my child 5 PID=23430 was killed by signal 9
+Parent: My PID is 23424, and my child 6 PID=23431 exited with code 6
+Parent: My PID is 23424, and my child 7 PID=23432 exited with code 7
+Parent: My PID is 23424, and my child 8 PID=23433 exited with code 8
+Parent: My PID is 23424, and my child 9 PID=23434 was killed by signal 9
+Parent: My PID is 23424, and my child 10 PID=23435 exited with code 10
+Parent: My PID is 23424, and my child 11 PID=23436 exited with code 11
+Parent: My PID is 23424, and my child 12 PID=23437 exited with code 12
+Parent: My PID is 23424, and my child 13 PID=23438 exited with code 13
+Parent: My PID is 23424, and my child 14 PID=23439 exited with code 14
+Parent: My PID is 23424, and my child 15 PID=23440 exited with code 15
+Parent: My PID is 23424, and my child 16 PID=23441 exited with code 16
+Parent: My PID is 23424, and my child 17 PID=23442 exited with code 17
+Parent: My PID is 23424, and my child 18 PID=23443 exited with code 18
+Parent: My PID is 23424, and my child 19 PID=23444 exited with code 19
+Parent: My PID is 23424, and my child 20 PID=23445 was killed by signal 9
+Parent: My PID is 23424, and my child 21 PID=23446 exited with code 21
+Parent: My PID is 23424, and my child 22 PID=23447 exited with code 22
+Parent: My PID is 23424, and my child 23 PID=23448 exited with code 23
+Parent: My PID is 23424, and my child 24 PID=23449 exited with code 24
+Parent: My PID is 23424, and my child 25 PID=23450 exited with code 25
+Parent: My PID is 23424, and my child 26 PID=23451 was killed by signal 9
+Parent: My PID is 23424, and my child 27 PID=23452 exited with code 27
+Parent: My PID is 23424, and my child 28 PID=23453 exited with code 28
+Parent: My PID is 23424, and my child 29 PID=23454 exited with code 29
+Parent: My PID is 23424, and my child 30 Child 34: PID=23459, parent PID=23424
+Child 34: finished work.
+Child 36: PID=23461, parent PID=23424
+Child 36: finished work.
+Child 38: PID=23463, parent PID=23424
+Child 38: finished work.
+Child 40: PID=23465, parent PID=23424
+Child 40: finished work.
+Child 41: PID=23466, parent PID=23424
+Child 41: finished work.
+Child 42: PID=23467, parent PID=23424
+Child 42: finished work.
+Child 44: PID=23469, parent PID=23424
+Child 44: finished work.
+Child 45: PID=23470, parent PID=23424
+Child 45: finished work.
+Child 46: PID=23471, parent PID=23424
+Child 46: finished work.
+Child 47: PID=23472, parent PID=23424
+Child 47: finished work.
+Child 48: PID=23473, parent PID=23424
+Child 48: finished work.
+Child 50: PID=23475, parent PID=23424
+Child 50: finished work.
+Child 52: PID=23477, parent PID=23424
+Child 52: finished work.
+Child 54: PID=23479, parent PID=23424
+Child 54: finished work.
+Child 53: PID=23478, parent PID=23424
+Child 53: finished work.
+Child 55: PID=23480, parent PID=23424
+Child 55: finished work.
+Child 57: PID=23482, parent PID=23424
+Child 57: finished work.
+Child 58: PID=23483, parent PID=23424
+Child 58: finished work.
+Child 59: PID=23484, parent PID=23424
+Child 59: finished work.
+Child 60: PID=23485, parent PID=23424
+Child 60: finished work.
+Child 61: PID=23486, parent PID=23424
+Child 61: finished work.
+Child 63: PID=23488, parent PID=23424
+Child 63: finished work.
+Child 62: PID=23487, parent PID=23424
+Child 62: finished work.
+Child 64: PID=23489, parent PID=23424
+Child 64: finished work.
+Child 65: PID=23490, parent PID=23424
+Child 65: finished work.
+Child 67: PID=23492, parent PID=23424
+Child 67: finished work.
+Child 68: PID=23493, parent PID=23424
+Child 68: finished work.
+Child 72: PID=23497, parent PID=23424
+Child 72: finished work.
+Child 70: PID=23495, parent PID=23424
+Child 70: finished work.
+Child 73: PID=23498, parent PID=23424
+Child 73: finished work.
+Child 76: PID=23501, parent PID=23424
+Child 76: finished work.
+Child 74: PID=23499, parent PID=23424
+Child 74: finished work.
+Child 78: PID=23503, parent PID=23424
+Child 78: finished work.
+Child 79: PID=23504, parent PID=23424
+Child 79: finished work.
+Child 81: PID=23506, parent PID=23424
+Child 81: finished work.
+Child 82: PID=23507, parent PID=23424
+Child 82: finished work.
+Child 83: PID=23508, parent PID=23424
+Child 83: finished work.
+Child 85: PID=23510, parent PID=23424
+Child 85: finished work.
+Child 86: PID=23511, parent PID=23424
+Child 86: finished work.
+Child 87: PID=23512, parent PID=23424
+Child 87: finished work.
+PID=23455 exited with code 30
+Parent: My PID is 23424, and my child 31 PID=23456 exited with code 31
+Parent: My PID is 23424, and my child 32 PID=23457 exited with code 32
+Parent: My PID is 23424, and my child 33 PID=23458 exited with code 33
+Parent: My PID is 23424, and my child 34 PID=23459 exited with code 34
+Parent: My PID is 23424, and my child 35 PID=23460 exited with code 35
+Parent: My PID is 23424, and my child 36 PID=23461 exited with code 36
+Parent: My PID is 23424, and my child 37 PID=23462 was killed by signal 9
+Parent: My PID is 23424, and my child 38 PID=23463 exited with code 38
+Parent: My PID is 23424, and my child 39 PID=23464 was killed by signal 9
+Parent: My PID is 23424, and my child 40 PID=23465 exited with code 40
+Parent: My PID is 23424, and my child 41 PID=23466 exited with code 41
+Parent: My PID is 23424, and my child 42 PID=23467 exited with code 42
+Parent: My PID is 23424, and my child 43 PID=23468 was killed by signal 9
+Parent: My PID is 23424, and my child 44 PID=23469 exited with code 44
+Parent: My PID is 23424, and my child 45 PID=23470 exited with code 45
+Parent: My PID is 23424, and my child 46 PID=23471 exited with code 46
+Parent: My PID is 23424, and my child 47 PID=23472 exited with code 47
+Parent: My PID is 23424, and my child 48 PID=23473 exited with code 48
+Parent: My PID is 23424, and my child 49 PID=23474 was killed by signal 9
+Parent: My PID is 23424, and my child 50 PID=23475 exited with code 50
+Parent: My PID is 23424, and my child 51 PID=23476 was killed by signal 9
+Parent: My PID is 23424, and my child 52 PID=23477 exited with code 52
+Parent: My PID is 23424, and my child 53 PID=23478 exited with code 53
+Parent: My PID is 23424, and my child 54 PID=23479 exited with code 54
+Parent: My PID is 23424, and my child 55 PID=23480 exited with code 55
+Parent: My PID is 23424, and my child 56 PID=23481 was killed by signal 9
+Parent: My PID is 23424, and my child 57 PID=23482 exited with code 57
+Parent: My PID is 23424, and my child 58 PID=23483 exited with code 58
+Parent: My PID is 23424, and my child 59 PID=23484 exited with code 59
+Parent: My PID is 23424, and my child 60 PID=23485 exited with code 60
+Parent: My PID is 23424, and my child 61 PID=23486 exited with code 61
+Parent: My PID is 23424, and my child 62 PID=23487 exited with code 62
+Parent: My PID is 23424, and my child 63 PID=23488 exited with code 63
+Parent: My PID is 23424, and my child 64 PID=23489 exited with code 64
+Parent: My PID is 23424, and my child 65 PID=23490 exited with code 65
+Parent: My PID is 23424, and my child 66 PID=23491 was killed by signal 9
+Parent: My PID is 23424, and my child 67 PID=23492 exited with code 67
+Parent: My PID is 23424, and my child 68 PID=23493 exited with code 68
+Parent: My PID is 23424, and my child 69 PID=23494 was killed by signal 9
+Parent: My PID is 23424, and my child 70 PID=23495 exited with code 70
+Parent: My PID is 23424, and my child 71 PID=23496 was killed by signal 9
+Parent: My PID is 23424, and my child 72 PID=23497 exited with code 72
+Parent: My PID is 23424, and my child 73 PID=23498 exited with code 73
+Parent: My PID is 23424, and my child 74 PID=23499 exited with code 74
+Parent: My PID is 23424, and my child 75 PID=23500 was killed by signal 9
+Parent: My PID is 23424, and my child 76 PID=23501 exited with code 76
+Parent: My PID is 23424, and my child 77 PID=23502 was killed by signal 9
+Parent: My PID is 23424, and my child 78 PID=23503 exited with code 78
+Parent: My PID is 23424, and my child 79 PID=23504 exited with code 79
+Parent: My PID is 23424, and my child 80 PID=23505 was killed by signal 9
+Parent: My PID is 23424, and my child 81 PID=23506 exited with code 81
+Parent: My PID is 23424, and my child 82 PID=23507 exited with code 82
+Parent: My PID is 23424, and my child 83 PID=23508 exited with code 83
+Parent: My PID is 23424, and my child 84 PID=23509 was killed by signal 9
+Parent: My PID is 23424, and my child 85 PID=23510 exited with code 85
+Parent: My PID is 23424, and my child 86 PID=23511 exited with code 86
+Parent: My PID is 23424, and my child 87 PID=23512 Child 92: PID=23517, parent PID=23424
+Child 92: finished work.
+Child 93: PID=23518, parent PID=23424
+Child 93: finished work.
+Child 94: PID=23519, parent PID=23424
+Child 94: finished work.
+Child 95: PID=23520, parent PID=23424
+Child 95: finished work.
+Child 97: PID=23522, parent PID=23424
+Child 97: finished work.
+Child 98: PID=23523, parent PID=23424
+Child 98: finished work.
+Child 100: PID=23525, parent PID=23424
+Child 100: finished work.
+Child 101: PID=23526, parent PID=23424
+Child 101: finished work.
+Child 103: PID=23528, parent PID=23424
+Child 103: finished work.
+Child 102: PID=23527, parent PID=23424
+Child 102: finished work.
+Child 104: PID=23529, parent PID=23424
+Child 104: finished work.
+Child 105: PID=23530, parent PID=23424
+Child 105: finished work.
+Child 111: PID=23536, parent PID=23424
+Child 111: finished work.
+Child 106: PID=23531, parent PID=23424
+Child 106: finished work.
+Child 113: PID=23538, parent PID=23424
+Child 113: finished work.
+Child 107: PID=23532, parent PID=23424
+Child 107: finished work.
+Child 114: PID=23539, parent PID=23424
+Child 114: finished work.
+Child 108: PID=23533, parent PID=23424
+Child 108: finished work.
+Child 116: PID=23541, parent PID=23424
+Child 116: finished work.
+Child 117: PID=23542, parent PID=23424
+Child 117: finished work.
+Child 109: PID=23534, parent PID=23424
+Child 109: finished work.
+Child 118: PID=23543, parent PID=23424
+Child 118: finished work.
+Child 119: PID=23544, parent PID=23424
+Child 119: finished work.
+Child 121: PID=23546, parent PID=23424
+Child 121: finished work.
+Child 122: PID=23547, parent PID=23424
+Child 122: finished work.
+Child 123: PID=23548, parent PID=23424
+Child 123: finished work.
+Child 126: PID=23551, parent PID=23424
+Child 126: finished work.
+Child 128: PID=23553, parent PID=23424
+Child 128: finished work.
+Child 129: PID=23554, parent PID=23424
+Child 129: finished work.
+Child 130: PID=23555, parent PID=23424
+Child 130: finished work.
+Child 131: PID=23556, parent PID=23424
+Child 131: finished work.
+Child 133: PID=23558, parent PID=23424
+Child 133: finished work.
+Child 132: PID=23557, parent PID=23424
+Child 132: finished work.
+Child 135: PID=23560, parent PID=23424
+Child 135: finished work.
+Child 137: PID=23562, parent PID=23424
+Child 137: finished work.
+Child 139: PID=23564, parent PID=23424
+Child 139: finished work.
+Child 140: PID=23565, parent PID=23424
+Child 140: finished work.
+Child 141: PID=23566, parent PID=23424
+Child 141: finished work.
+Child 142: PID=23567, parent PID=23424
+Child 142: finished work.
+Child 143: PID=23568, parent PID=23424
+Child 143: finished work.
+exited with code 87
+Parent: My PID is 23424, and my child 88 PID=23513 was killed by signal 9
+Parent: My PID is 23424, and my child 89 PID=23514 was killed by signal 9
+Parent: My PID is 23424, and my child 90 PID=23515 was killed by signal 9
+Parent: My PID is 23424, and my child 91 PID=23516 was killed by signal 9
+Parent: My PID is 23424, and my child 92 PID=23517 exited with code 92
+Parent: My PID is 23424, and my child 93 PID=23518 exited with code 93
+Parent: My PID is 23424, and my child 94 PID=23519 exited with code 94
+Parent: My PID is 23424, and my child 95 PID=23520 exited with code 95
+Parent: My PID is 23424, and my child 96 PID=23521 was killed by signal 9
+Parent: My PID is 23424, and my child 97 PID=23522 exited with code 97
+Parent: My PID is 23424, and my child 98 PID=23523 exited with code 98
+Parent: My PID is 23424, and my child 99 PID=23524 was killed by signal 9
+Parent: My PID is 23424, and my child 100 PID=23525 exited with code 100
+Parent: My PID is 23424, and my child 101 PID=23526 exited with code 101
+Parent: My PID is 23424, and my child 102 PID=23527 exited with code 102
+Parent: My PID is 23424, and my child 103 PID=23528 exited with code 103
+Parent: My PID is 23424, and my child 104 PID=23529 exited with code 104
+Parent: My PID is 23424, and my child 105 PID=23530 exited with code 105
+Parent: My PID is 23424, and my child 106 PID=23531 exited with code 106
+Parent: My PID is 23424, and my child 107 PID=23532 exited with code 107
+Parent: My PID is 23424, and my child 108 PID=23533 exited with code 108
+Parent: My PID is 23424, and my child 109 PID=23534 exited with code 109
+Parent: My PID is 23424, and my child 110 PID=23535 was killed by signal 9
+Parent: My PID is 23424, and my child 111 PID=23536 exited with code 111
+Parent: My PID is 23424, and my child 112 PID=23537 was killed by signal 9
+Parent: My PID is 23424, and my child 113 PID=23538 exited with code 113
+Parent: My PID is 23424, and my child 114 PID=23539 exited with code 114
+Parent: My PID is 23424, and my child 115 PID=23540 was killed by signal 9
+Parent: My PID is 23424, and my child 116 PID=23541 exited with code 116
+Parent: My PID is 23424, and my child 117 PID=23542 exited with code 117
+Parent: My PID is 23424, and my child 118 PID=23543 exited with code 118
+Parent: My PID is 23424, and my child 119 PID=23544 exited with code 119
+Parent: My PID is 23424, and my child 120 PID=23545 was killed by signal 9
+Parent: My PID is 23424, and my child 121 PID=23546 exited with code 121
+Parent: My PID is 23424, and my child 122 PID=23547 exited with code 122
+Parent: My PID is 23424, and my child 123 PID=23548 exited with code 123
+Parent: My PID is 23424, and my child 124 PID=23549 was killed by signal 9
+Parent: My PID is 23424, and my child 125 PID=23550 was killed by signal 9
+Parent: My PID is 23424, and my child 126 PID=23551 exited with code 126
+Parent: My PID is 23424, and my child 127 PID=23552 was killed by signal 9
+Parent: My PID is 23424, and my child 128 PID=23553 exited with code 128
+Parent: My PID is 23424, and my child 129 PID=23554 exited with code 129
+Parent: My PID is 23424, and my child 130 PID=23555 exited with code 130
+Parent: My PID is 23424, and my child 131 PID=23556 exited with code 131
+Parent: My PID is 23424, and my child 132 PID=23557 exited with code 132
+Parent: My PID is 23424, and my child 133 PID=23558 exited with code 133
+Parent: My PID is 23424, and my child 134 PID=23559 was killed by signal 9
+Parent: My PID is 23424, and my child 135 PID=23560 exited with code 135
+Parent: My PID is 23424, and my child 136 PID=23561 was killed by signal 9
+Parent: My PID is 23424, and my child 137 PID=23562 exited with code 137
+Parent: My PID is 23424, and my child 138 PID=23563 was killed by signal 9
+Parent: My PID is 23424, and my child 139 PID=23564 exited with code 139
+Parent: My PID is 23424, and my child 140 PID=23565 exited with code 140
+Parent: My PID is 23424, and my child 141 PID=23566 exited with code 141
+Parent: My PID is 23424, and my child 142 PID=23567 exited with code 142
+Parent: My PID is 23424, and my child 143 PID=2Child 145: PID=23570, parent PID=23424
+Child 145: finished work.
+Child 146: PID=23571, parent PID=23424
+Child 146: finished work.
+Child 147: PID=23572, parent PID=23424
+Child 147: finished work.
+Child 148: PID=23573, parent PID=23424
+Child 148: finished work.
+Child 151: PID=23576, parent PID=23424
+Child 151: finished work.
+Child 152: PID=23577, parent PID=23424
+Child 152: finished work.
+Child 154: PID=23579, parent PID=23424
+Child 154: finished work.
+Child 153: PID=23578, parent PID=23424
+Child 153: finished work.
+Child 155: PID=23580, parent PID=23424
+Child 155: finished work.
+Child 157: PID=23582, parent PID=23424
+Child 157: finished work.
+Child 158: PID=23583, parent PID=23424
+Child 158: finished work.
+Child 160: PID=23585, parent PID=23424
+Child 160: finished work.
+Child 159: PID=23584, parent PID=23424
+Child 159: finished work.
+Child 162: PID=23587, parent PID=23424
+Child 162: finished work.
+Child 163: PID=23588, parent PID=23424
+Child 163: finished work.
+Child 164: PID=23589, parent PID=23424
+Child 164: finished work.
+Child 168: PID=23593, parent PID=23424
+Child 168: finished work.
+Child 171: PID=23596, parent PID=23424
+Child 171: finished work.
+Child 172: PID=23597, parent PID=23424
+Child 172: finished work.
+Child 173: PID=23598, parent PID=23424
+Child 173: finished work.
+Child 177: PID=23602, parent PID=23424
+Child 177: finished work.
+Child 176: PID=23601, parent PID=23424
+Child 176: finished work.
+Child 165: PID=23590, parent PID=23424
+Child 165: finished work.
+Child 175: PID=23600, parent PID=23424
+Child 175: finished work.
+Child 179: PID=23604, parent PID=23424
+Child 179: finished work.
+Child 181: PID=23606, parent PID=23424
+Child 181: finished work.
+Child 178: PID=23603, parent PID=23424
+Child 178: finished work.
+Child 180: PID=23605, parent PID=23424
+Child 180: finished work.
+Child 183: PID=23608, parent PID=23424
+Child 183: finished work.
+Child 184: PID=23609, parent PID=23424
+Child 184: finished work.
+Child 186: PID=23611, parent PID=23424
+Child 186: finished work.
+Child 187: PID=23612, parent PID=23424
+Child 187: finished work.
+Child 188: PID=23613, parent PID=23424
+Child 188: finished work.
+Child 189: PID=23614, parent PID=23424
+Child 189: finished work.
+Child 190: PID=23615, parent PID=23424
+Child 190: finished work.
+Child 194: PID=23619, parent PID=23424
+Child 194: finished work.
+Child 195: PID=23620, parent PID=23424
+Child 195: finished work.
+Child 196: PID=23621, parent PID=23424
+Child 196: finished work.
+Child 198: PID=23623, parent PID=23424
+Child 198: finished work.
+Child 199: PID=23624, parent PID=23424
+Child 199: finished work.
+Child 200: PID=23625, parent PID=23424
+Child 200: finished work.
+3568 exited with code 143
+Parent: My PID is 23424, and my child 144 PID=23569 was killed by signal 9
+Parent: My PID is 23424, and my child 145 PID=23570 exited with code 145
+Parent: My PID is 23424, and my child 146 PID=23571 exited with code 146
+Parent: My PID is 23424, and my child 147 PID=23572 exited with code 147
+Parent: My PID is 23424, and my child 148 PID=23573 exited with code 148
+Parent: My PID is 23424, and my child 149 PID=23574 was killed by signal 9
+Parent: My PID is 23424, and my child 150 PID=23575 was killed by signal 9
+Parent: My PID is 23424, and my child 151 PID=23576 exited with code 151
+Parent: My PID is 23424, and my child 152 PID=23577 exited with code 152
+Parent: My PID is 23424, and my child 153 PID=23578 exited with code 153
+Parent: My PID is 23424, and my child 154 PID=23579 exited with code 154
+Parent: My PID is 23424, and my child 155 PID=23580 exited with code 155
+Parent: My PID is 23424, and my child 156 PID=23581 was killed by signal 9
+Parent: My PID is 23424, and my child 157 PID=23582 exited with code 157
+Parent: My PID is 23424, and my child 158 PID=23583 exited with code 158
+Parent: My PID is 23424, and my child 159 PID=23584 exited with code 159
+Parent: My PID is 23424, and my child 160 PID=23585 exited with code 160
+Parent: My PID is 23424, and my child 161 PID=23586 was killed by signal 9
+Parent: My PID is 23424, and my child 162 PID=23587 exited with code 162
+Parent: My PID is 23424, and my child 163 PID=23588 exited with code 163
+Parent: My PID is 23424, and my child 164 PID=23589 exited with code 164
+Parent: My PID is 23424, and my child 165 PID=23590 exited with code 165
+Parent: My PID is 23424, and my child 166 PID=23591 was killed by signal 9
+Parent: My PID is 23424, and my child 167 PID=23592 was killed by signal 9
+Parent: My PID is 23424, and my child 168 PID=23593 exited with code 168
+Parent: My PID is 23424, and my child 169 PID=23594 was killed by signal 9
+Parent: My PID is 23424, and my child 170 PID=23595 was killed by signal 9
+Parent: My PID is 23424, and my child 171 PID=23596 exited with code 171
+Parent: My PID is 23424, and my child 172 PID=23597 exited with code 172
+Parent: My PID is 23424, and my child 173 PID=23598 exited with code 173
+Parent: My PID is 23424, and my child 174 PID=23599 was killed by signal 9
+Parent: My PID is 23424, and my child 175 PID=23600 exited with code 175
+Parent: My PID is 23424, and my child 176 PID=23601 exited with code 176
+Parent: My PID is 23424, and my child 177 PID=23602 exited with code 177
+Parent: My PID is 23424, and my child 178 PID=23603 exited with code 178
+Parent: My PID is 23424, and my child 179 PID=23604 exited with code 179
+Parent: My PID is 23424, and my child 180 PID=23605 exited with code 180
+Parent: My PID is 23424, and my child 181 PID=23606 exited with code 181
+Parent: My PID is 23424, and my child 182 PID=23607 was killed by signal 9
+Parent: My PID is 23424, and my child 183 PID=23608 exited with code 183
+Parent: My PID is 23424, and my child 184 PID=23609 exited with code 184
+Parent: My PID is 23424, and my child 185 PID=23610 was killed by signal 9
+Parent: My PID is 23424, and my child 186 PID=23611 exited with code 186
+Parent: My PID is 23424, and my child 187 PID=23612 exited with code 187
+Parent: My PID is 23424, and my child 188 PID=23613 exited with code 188
+Parent: My PID is 23424, and my child 189 PID=23614 exited with code 189
+Parent: My PID is 23424, and my child 190 PID=23615 exited with code 190
+Parent: My PID is 23424, and my child 191 PID=23616 was killed by signal 9
+Parent: My PID is 23424, and my child 192 PID=23617 was killed by signal 9
+Parent: My PID is 23424, and my child 193 PID=23618 was killed by signal 9
+Parent: My PID is 23424, and my child 194 PID=23619 exited with code 194
+Parent: My PID is 23424, and my child 195 PID=23620 exited with code 195
+Parent: My PID is 23424, and my child 196 PID=23621 exited with code 196
+Parent: My PID is 23424, and my child 197 PID=23622 was killed by signal 9
+Parent: My PID is 23424, and my child 198 PID=23623 exited with code 198
+Parent: My PID is 23424Child 203: PID=23628, parent PID=23424
+Child 203: finished work.
+Child 204: PID=23629, parent PID=23424
+Child 204: finished work.
+Child 207: PID=23632, parent PID=23424
+Child 207: finished work.
+Child 206: PID=23631, parent PID=23424
+Child 206: finished work.
+Child 208: PID=23633, parent PID=23424
+Child 208: finished work.
+Child 212: PID=23637, parent PID=23424
+Child 212: finished work.
+Child 213: PID=23638, parent PID=23424
+Child 213: finished work.
+Child 211: PID=23636, parent PID=23424
+Child 211: finished work.
+Child 214: PID=23639, parent PID=23424
+Child 214: finished work.
+Child 216: PID=23641, parent PID=23424
+Child 216: finished work.
+Child 217: PID=23642, parent PID=23424
+Child 217: finished work.
+Child 218: PID=23643, parent PID=23424
+Child 218: finished work.
+Child 219: PID=23644, parent PID=23424
+Child 219: finished work.
+Child 220: PID=23645, parent PID=23424
+Child 220: finished work.
+Child 221: PID=23646, parent PID=23424
+Child 221: finished work.
+Child 222: PID=23647, parent PID=23424
+Child 222: finished work.
+Child 223: PID=23648, parent PID=23424
+Child 223: finished work.
+Child 224: PID=23649, parent PID=23424
+Child 224: finished work.
+Child 225: PID=23650, parent PID=23424
+Child 225: finished work.
+Child 227: PID=23652, parent PID=23424
+Child 227: finished work.
+Child 226: PID=23651, parent PID=23424
+Child 226: finished work.
+Child 228: PID=23653, parent PID=23424
+Child 228: finished work.
+Child 230: PID=23655, parent PID=23424
+Child 230: finished work.
+Child 229: PID=23654, parent PID=23424
+Child 229: finished work.
+Child 232: PID=23657, parent PID=23424
+Child 232: finished work.
+Child 234: PID=23659, parent PID=23424
+Child 234: finished work.
+Child 231: PID=23656, parent PID=23424
+Child 231: finished work.
+Child 235: PID=23660, parent PID=23424
+Child 235: finished work.
+Child 233: PID=23658, parent PID=23424
+Child 233: finished work.
+Child 236: PID=23661, parent PID=23424
+Child 236: finished work.
+Child 237: PID=23662, parent PID=23424
+Child 237: finished work.
+Child 238: PID=23663, parent PID=23424
+Child 238: finished work.
+Child 239: PID=23664, parent PID=23424
+Child 239: finished work.
+Child 240: PID=23665, parent PID=23424
+Child 240: finished work.
+Child 243: PID=23668, parent PID=23424
+Child 243: finished work.
+Child 244: PID=23669, parent PID=23424
+Child 244: finished work.
+Child 245: PID=23670, parent PID=23424
+Child 245: finished work.
+Child 247: PID=23672, parent PID=23424
+Child 247: finished work.
+Child 248: PID=23673, parent PID=23424
+Child 248: finished work.
+Child 251: PID=23676, parent PID=23424
+Child 251: finished work.
+Child 252: PID=23677, parent PID=23424
+Child 252: finished work.
+Child 253: PID=23678, parent PID=23424
+Child 253: finished work.
+Child 254: PID=23679, parent PID=23424
+Child 254: finished work.
+, and my child 199 PID=23624 exited with code 199
+Parent: My PID is 23424, and my child 200 PID=23625 exited with code 200
+Parent: My PID is 23424, and my child 201 PID=23626 was killed by signal 9
+Parent: My PID is 23424, and my child 202 PID=23627 was killed by signal 9
+Parent: My PID is 23424, and my child 203 PID=23628 exited with code 203
+Parent: My PID is 23424, and my child 204 PID=23629 exited with code 204
+Parent: My PID is 23424, and my child 205 PID=23630 was killed by signal 9
+Parent: My PID is 23424, and my child 206 PID=23631 exited with code 206
+Parent: My PID is 23424, and my child 207 PID=23632 exited with code 207
+Parent: My PID is 23424, and my child 208 PID=23633 exited with code 208
+Parent: My PID is 23424, and my child 209 PID=23634 was killed by signal 9
+Parent: My PID is 23424, and my child 210 PID=23635 was killed by signal 9
+Parent: My PID is 23424, and my child 211 PID=23636 exited with code 211
+Parent: My PID is 23424, and my child 212 PID=23637 exited with code 212
+Parent: My PID is 23424, and my child 213 PID=23638 exited with code 213
+Parent: My PID is 23424, and my child 214 PID=23639 exited with code 214
+Parent: My PID is 23424, and my child 215 PID=23640 was killed by signal 9
+Parent: My PID is 23424, and my child 216 PID=23641 exited with code 216
+Parent: My PID is 23424, and my child 217 PID=23642 exited with code 217
+Parent: My PID is 23424, and my child 218 PID=23643 exited with code 218
+Parent: My PID is 23424, and my child 219 PID=23644 exited with code 219
+Parent: My PID is 23424, and my child 220 PID=23645 exited with code 220
+Parent: My PID is 23424, and my child 221 PID=23646 exited with code 221
+Parent: My PID is 23424, and my child 222 PID=23647 exited with code 222
+Parent: My PID is 23424, and my child 223 PID=23648 exited with code 223
+Parent: My PID is 23424, and my child 224 PID=23649 exited with code 224
+Parent: My PID is 23424, and my child 225 PID=23650 exited with code 225
+Parent: My PID is 23424, and my child 226 PID=23651 exited with code 226
+Parent: My PID is 23424, and my child 227 PID=23652 exited with code 227
+Parent: My PID is 23424, and my child 228 PID=23653 exited with code 228
+Parent: My PID is 23424, and my child 229 PID=23654 exited with code 229
+Parent: My PID is 23424, and my child 230 PID=23655 exited with code 230
+Parent: My PID is 23424, and my child 231 PID=23656 exited with code 231
+Parent: My PID is 23424, and my child 232 PID=23657 exited with code 232
+Parent: My PID is 23424, and my child 233 PID=23658 exited with code 233
+Parent: My PID is 23424, and my child 234 PID=23659 exited with code 234
+Parent: My PID is 23424, and my child 235 PID=23660 exited with code 235
+Parent: My PID is 23424, and my child 236 PID=23661 exited with code 236
+Parent: My PID is 23424, and my child 237 PID=23662 exited with code 237
+Parent: My PID is 23424, and my child 238 PID=23663 exited with code 238
+Parent: My PID is 23424, and my child 239 PID=23664 exited with code 239
+Parent: My PID is 23424, and my child 240 PID=23665 exited with code 240
+Parent: My PID is 23424, and my child 241 PID=23666 was killed by signal 9
+Parent: My PID is 23424, and my child 242 PID=23667 was killed by signal 9
+Parent: My PID is 23424, and my child 243 PID=23668 exited with code 243
+Parent: My PID is 23424, and my child 244 PID=23669 exited with code 244
+Parent: My PID is 23424, and my child 245 PID=23670 exited with code 245
+Parent: My PID is 23424, and my child 246 PID=23671 was killed by signal 9
+Parent: My PID is 23424, and my child 247 PID=23672 exited with code 247
+Parent: My PID is 23424, and my child 248 PID=23673 exited with code 248
+Parent: My PID is 23424, and my child 249 PID=23674 was killed by signal 9
+Parent: My PID is 23424, and my child 250 PID=23675 was killed by signal 9
+Parent: My PID is 23424, and my child 251 PID=23676 exited with code 251
+Parent: My PID is 23424, and my child 252 PID=23677 exited with code 252
+Parent: My PID is 23424, and my child 253 PID=23678 exited with code 253
+Parent: My PID is 23424, and my child 254 PID=23679 exited with code 254
+Parent: MChild 256: PID=23681, parent PID=23424
+Child 256: finished work.
+Child 258: PID=23683, parent PID=23424
+Child 258: finished work.
+Child 259: PID=23684, parent PID=23424
+Child 259: finished work.
+Child 260: PID=23685, parent PID=23424
+Child 260: finished work.
+Child 262: PID=23687, parent PID=23424
+Child 262: finished work.
+Child 265: PID=23690, parent PID=23424
+Child 265: finished work.
+Child 264: PID=23689, parent PID=23424
+Child 264: finished work.
+Child 267: PID=23692, parent PID=23424
+Child 267: finished work.
+Child 270: PID=23695, parent PID=23424
+Child 270: finished work.
+Child 271: PID=23696, parent PID=23424
+Child 271: finished work.
+Child 263: PID=23688, parent PID=23424
+Child 263: finished work.
+Child 273: PID=23698, parent PID=23424
+Child 273: finished work.
+Child 274: PID=23699, parent PID=23424
+Child 274: finished work.
+Child 275: PID=23700, parent PID=23424
+Child 275: finished work.
+Child 277: PID=23702, parent PID=23424
+Child 277: finished work.
+Child 278: PID=23703, parent PID=23424
+Child 278: finished work.
+Child 279: PID=23704, parent PID=23424
+Child 279: finished work.
+Child 280: PID=23705, parent PID=23424
+Child 280: finished work.
+Child 281: PID=23706, parent PID=23424
+Child 281: finished work.
+Child 282: PID=23707, parent PID=23424
+Child 282: finished work.
+Child 289: PID=23714, parent PID=23424
+Child 289: finished work.
+Child 290: PID=23715, parent PID=23424
+Child 290: finished work.
+Child 291: PID=23716, parent PID=23424
+Child 291: finished work.
+Child 292: PID=23717, parent PID=23424
+Child 292: finished work.
+Child 293: PID=23718, parent PID=23424
+Child 293: finished work.
+Child 294: PID=23719, parent PID=23424
+Child 294: finished work.
+Child 295: PID=23720, parent PID=23424
+Child 295: finished work.
+Child 296: PID=23721, parent PID=23424
+Child 296: finished work.
+Child 297: PID=23722, parent PID=23424
+Child 297: finished work.
+Child 300: PID=23725, parent PID=23424
+Child 300: finished work.
+Child 301: PID=23726, parent PID=23424
+Child 301: finished work.
+Child 302: PID=23727, parent PID=23424
+Child 302: finished work.
+Child 303: PID=23728, parent PID=23424
+Child 303: finished work.
+Child 304: PID=23729, parent PID=23424
+Child 304: finished work.
+Child 305: PID=23730, parent PID=23424
+Child 305: finished work.
+Child 307: PID=23732, parent PID=23424
+Child 307: finished work.
+Child 308: PID=23733, parent PID=23424
+Child 308: finished work.
+Child 309: PID=23734, parent PID=23424
+Child 309: finished work.
+Child 310: PID=23735, parent PID=23424
+Child 310: finished work.
+y PID is 23424, and my child 255 PID=23680 was killed by signal 9
+Parent: My PID is 23424, and my child 256 PID=23681 exited with code 0
+Parent: My PID is 23424, and my child 257 PID=23682 was killed by signal 9
+Parent: My PID is 23424, and my child 258 PID=23683 exited with code 2
+Parent: My PID is 23424, and my child 259 PID=23684 exited with code 3
+Parent: My PID is 23424, and my child 260 PID=23685 exited with code 4
+Parent: My PID is 23424, and my child 261 PID=23686 was killed by signal 9
+Parent: My PID is 23424, and my child 262 PID=23687 exited with code 6
+Parent: My PID is 23424, and my child 263 PID=23688 exited with code 7
+Parent: My PID is 23424, and my child 264 PID=23689 exited with code 8
+Parent: My PID is 23424, and my child 265 PID=23690 exited with code 9
+Parent: My PID is 23424, and my child 266 PID=23691 was killed by signal 9
+Parent: My PID is 23424, and my child 267 PID=23692 exited with code 11
+Parent: My PID is 23424, and my child 268 PID=23693 was killed by signal 9
+Parent: My PID is 23424, and my child 269 PID=23694 was killed by signal 9
+Parent: My PID is 23424, and my child 270 PID=23695 exited with code 14
+Parent: My PID is 23424, and my child 271 PID=23696 exited with code 15
+Parent: My PID is 23424, and my child 272 PID=23697 was killed by signal 9
+Parent: My PID is 23424, and my child 273 PID=23698 exited with code 17
+Parent: My PID is 23424, and my child 274 PID=23699 exited with code 18
+Parent: My PID is 23424, and my child 275 PID=23700 exited with code 19
+Parent: My PID is 23424, and my child 276 PID=23701 was killed by signal 9
+Parent: My PID is 23424, and my child 277 PID=23702 exited with code 21
+Parent: My PID is 23424, and my child 278 PID=23703 exited with code 22
+Parent: My PID is 23424, and my child 279 PID=23704 exited with code 23
+Parent: My PID is 23424, and my child 280 PID=23705 exited with code 24
+Parent: My PID is 23424, and my child 281 PID=23706 exited with code 25
+Parent: My PID is 23424, and my child 282 PID=23707 exited with code 26
+Parent: My PID is 23424, and my child 283 PID=23708 was killed by signal 9
+Parent: My PID is 23424, and my child 284 PID=23709 was killed by signal 9
+Parent: My PID is 23424, and my child 285 PID=23710 was killed by signal 9
+Parent: My PID is 23424, and my child 286 PID=23711 was killed by signal 9
+Parent: My PID is 23424, and my child 287 PID=23712 was killed by signal 9
+Parent: My PID is 23424, and my child 288 PID=23713 was killed by signal 9
+Parent: My PID is 23424, and my child 289 PID=23714 exited with code 33
+Parent: My PID is 23424, and my child 290 PID=23715 exited with code 34
+Parent: My PID is 23424, and my child 291 PID=23716 exited with code 35
+Parent: My PID is 23424, and my child 292 PID=23717 exited with code 36
+Parent: My PID is 23424, and my child 293 PID=23718 exited with code 37
+Parent: My PID is 23424, and my child 294 PID=23719 exited with code 38
+Parent: My PID is 23424, and my child 295 PID=23720 exited with code 39
+Parent: My PID is 23424, and my child 296 PID=23721 exited with code 40
+Parent: My PID is 23424, and my child 297 PID=23722 exited with code 41
+Parent: My PID is 23424, and my child 298 PID=23723 was killed by signal 9
+Parent: My PID is 23424, and my child 299 PID=23724 was killed by signal 9
+Parent: My PID is 23424, and my child 300 PID=23725 exited with code 44
+Parent: My PID is 23424, and my child 301 PID=23726 exited with code 45
+Parent: My PID is 23424, and my child 302 PID=23727 exited with code 46
+Parent: My PID is 23424, and my child 303 PID=23728 exited with code 47
+Parent: My PID is 23424, and my child 304 PID=23729 exited with code 48
+Parent: My PID is 23424, and my child 305 PID=23730 exited with code 49
+Parent: My PID is 23424, and my child 306 PID=23731 was killed by signal 9
+Parent: My PID is 23424, and my child 307 PID=23732 exited with code 51
+Parent: My PID is 23424, and my child 308 PID=23733 exited with code 52
+Parent: My PID is 23424, and my child 309 PID=23734 exited with code 53
+Parent: My PID is 23424, and my child 310 PID=23735 exited with code 54
+Parent: My PID is 23424, and mChild 315: PID=23740, parent PID=23424
+Child 315: finished work.
+Child 316: PID=23741, parent PID=23424
+Child 316: finished work.
+Child 317: PID=23742, parent PID=23424
+Child 317: finished work.
+Child 318: PID=23743, parent PID=23424
+Child 318: finished work.
+Child 319: PID=23744, parent PID=23424
+Child 319: finished work.
+Child 323: PID=23748, parent PID=23424
+Child 323: finished work.
+Child 325: PID=23750, parent PID=23424
+Child 325: finished work.
+Child 326: PID=23751, parent PID=23424
+Child 326: finished work.
+Child 327: PID=23752, parent PID=23424
+Child 327: finished work.
+Child 329: PID=23754, parent PID=23424
+Child 329: finished work.
+Child 330: PID=23755, parent PID=23424
+Child 330: finished work.
+Child 331: PID=23756, parent PID=23424
+Child 331: finished work.
+Child 333: PID=23758, parent PID=23424
+Child 333: finished work.
+Child 334: PID=23759, parent PID=23424
+Child 334: finished work.
+Child 335: PID=23760, parent PID=23424
+Child 335: finished work.
+Child 336: PID=23761, parent PID=23424
+Child 336: finished work.
+Child 337: PID=23762, parent PID=23424
+Child 337: finished work.
+Child 338: PID=23763, parent PID=23424
+Child 338: finished work.
+Child 339: PID=23764, parent PID=23424
+Child 339: finished work.
+Child 340: PID=23765, parent PID=23424
+Child 340: finished work.
+Child 341: PID=23766, parent PID=23424
+Child 341: finished work.
+Child 343: PID=23768, parent PID=23424
+Child 343: finished work.
+Child 344: PID=23769, parent PID=23424
+Child 344: finished work.
+Child 347: PID=23772, parent PID=23424
+Child 347: finished work.
+Child 348: PID=23773, parent PID=23424
+Child 348: finished work.
+Child 349: PID=23774, parent PID=23424
+Child 349: finished work.
+Child 351: PID=23776, parent PID=23424
+Child 351: finished work.
+Child 352: PID=23777, parent PID=23424
+Child 352: finished work.
+Child 354: PID=23779, parent PID=23424
+Child 354: finished work.
+Child 356: PID=23781, parent PID=23424
+Child 356: finished work.
+Child 355: PID=23780, parent PID=23424
+Child 355: finished work.
+Child 357: PID=23782, parent PID=23424
+Child 357: finished work.
+Child 358: PID=23783, parent PID=23424
+Child 358: finished work.
+Child 359: PID=23784, parent PID=23424
+Child 359: finished work.
+Child 361: PID=23786, parent PID=23424
+Child 361: finished work.
+Child 360: PID=23785, parent PID=23424
+Child 360: finished work.
+Child 362: PID=23787, parent PID=23424
+Child 362: finished work.
+Child 363: PID=23788, parent PID=23424
+Child 363: finished work.
+Child 364: PID=23789, parent PID=23424
+Child 364: finished work.
+Child 365: PID=23790, parent PID=23424
+Child 365: finished work.
+Child 366: PID=23791, parent PID=23424
+Child 366: finished work.
+Child 367: PID=23792, parent PID=23424
+Child 367: finished work.
+y child 311 PID=23736 was killed by signal 9
+Parent: My PID is 23424, and my child 312 PID=23737 was killed by signal 9
+Parent: My PID is 23424, and my child 313 PID=23738 was killed by signal 9
+Parent: My PID is 23424, and my child 314 PID=23739 was killed by signal 9
+Parent: My PID is 23424, and my child 315 PID=23740 exited with code 59
+Parent: My PID is 23424, and my child 316 PID=23741 exited with code 60
+Parent: My PID is 23424, and my child 317 PID=23742 exited with code 61
+Parent: My PID is 23424, and my child 318 PID=23743 exited with code 62
+Parent: My PID is 23424, and my child 319 PID=23744 exited with code 63
+Parent: My PID is 23424, and my child 320 PID=23745 was killed by signal 9
+Parent: My PID is 23424, and my child 321 PID=23746 was killed by signal 9
+Parent: My PID is 23424, and my child 322 PID=23747 was killed by signal 9
+Parent: My PID is 23424, and my child 323 PID=23748 exited with code 67
+Parent: My PID is 23424, and my child 324 PID=23749 was killed by signal 9
+Parent: My PID is 23424, and my child 325 PID=23750 exited with code 69
+Parent: My PID is 23424, and my child 326 PID=23751 exited with code 70
+Parent: My PID is 23424, and my child 327 PID=23752 exited with code 71
+Parent: My PID is 23424, and my child 328 PID=23753 was killed by signal 9
+Parent: My PID is 23424, and my child 329 PID=23754 exited with code 73
+Parent: My PID is 23424, and my child 330 PID=23755 exited with code 74
+Parent: My PID is 23424, and my child 331 PID=23756 exited with code 75
+Parent: My PID is 23424, and my child 332 PID=23757 was killed by signal 9
+Parent: My PID is 23424, and my child 333 PID=23758 exited with code 77
+Parent: My PID is 23424, and my child 334 PID=23759 exited with code 78
+Parent: My PID is 23424, and my child 335 PID=23760 exited with code 79
+Parent: My PID is 23424, and my child 336 PID=23761 exited with code 80
+Parent: My PID is 23424, and my child 337 PID=23762 exited with code 81
+Parent: My PID is 23424, and my child 338 PID=23763 exited with code 82
+Parent: My PID is 23424, and my child 339 PID=23764 exited with code 83
+Parent: My PID is 23424, and my child 340 PID=23765 exited with code 84
+Parent: My PID is 23424, and my child 341 PID=23766 exited with code 85
+Parent: My PID is 23424, and my child 342 PID=23767 was killed by signal 9
+Parent: My PID is 23424, and my child 343 PID=23768 exited with code 87
+Parent: My PID is 23424, and my child 344 PID=23769 exited with code 88
+Parent: My PID is 23424, and my child 345 PID=23770 was killed by signal 9
+Parent: My PID is 23424, and my child 346 PID=23771 was killed by signal 9
+Parent: My PID is 23424, and my child 347 PID=23772 exited with code 91
+Parent: My PID is 23424, and my child 348 PID=23773 exited with code 92
+Parent: My PID is 23424, and my child 349 PID=23774 exited with code 93
+Parent: My PID is 23424, and my child 350 PID=23775 was killed by signal 9
+Parent: My PID is 23424, and my child 351 PID=23776 exited with code 95
+Parent: My PID is 23424, and my child 352 PID=23777 exited with code 96
+Parent: My PID is 23424, and my child 353 PID=23778 was killed by signal 9
+Parent: My PID is 23424, and my child 354 PID=23779 exited with code 98
+Parent: My PID is 23424, and my child 355 PID=23780 exited with code 99
+Parent: My PID is 23424, and my child 356 PID=23781 exited with code 100
+Parent: My PID is 23424, and my child 357 PID=23782 exited with code 101
+Parent: My PID is 23424, and my child 358 PID=23783 exited with code 102
+Parent: My PID is 23424, and my child 359 PID=23784 exited with code 103
+Parent: My PID is 23424, and my child 360 PID=23785 exited with code 104
+Parent: My PID is 23424, and my child 361 PID=23786 exited with code 105
+Parent: My PID is 23424, and my child 362 PID=23787 exited with code 106
+Parent: My PID is 23424, and my child 363 PID=23788 exited with code 107
+Parent: My PID is 23424, and my child 364 PID=23789 exited with code 108
+Parent: My PID is 23424, and my child 365 PID=23790 exited with code 109
+Parent: My PID is 23424, and my child 366 PID=23791 exited with code 110
+Parent: My PID is 23424, and my child Child 368: PID=23793, parent PID=23424
+Child 368: finished work.
+Child 370: PID=23795, parent PID=23424
+Child 370: finished work.
+Child 371: PID=23796, parent PID=23424
+Child 371: finished work.
+Child 372: PID=23797, parent PID=23424
+Child 372: finished work.
+Child 373: PID=23798, parent PID=23424
+Child 373: finished work.
+Child 374: PID=23799, parent PID=23424
+Child 374: finished work.
+Child 375: PID=23800, parent PID=23424
+Child 375: finished work.
+Child 376: PID=23801, parent PID=23424
+Child 376: finished work.
+Child 377: PID=23802, parent PID=23424
+Child 377: finished work.
+Child 378: PID=23803, parent PID=23424
+Child 378: finished work.
+Child 380: PID=23805, parent PID=23424
+Child 380: finished work.
+Child 381: PID=23806, parent PID=23424
+Child 381: finished work.
+Child 382: PID=23807, parent PID=23424
+Child 382: finished work.
+Child 384: PID=23809, parent PID=23424
+Child 384: finished work.
+Child 386: PID=23811, parent PID=23424
+Child 386: finished work.
+Child 388: PID=23813, parent PID=23424
+Child 388: finished work.
+Child 389: PID=23814, parent PID=23424
+Child 389: finished work.
+Child 390: PID=23815, parent PID=23424
+Child 390: finished work.
+Child 391: PID=23816, parent PID=23424
+Child 391: finished work.
+Child 392: PID=23817, parent PID=23424
+Child 392: finished work.
+Child 393: PID=23818, parent PID=23424
+Child 393: finished work.
+Child 394: PID=23819, parent PID=23424
+Child 394: finished work.
+Child 395: PID=23820, parent PID=23424
+Child 395: finished work.
+Child 398: PID=23823, parent PID=23424
+Child 398: finished work.
+Child 399: PID=23824, parent PID=23424
+Child 399: finished work.
+Child 400: PID=23825, parent PID=23424
+Child 400: finished work.
+Child 402: PID=23827, parent PID=23424
+Child 402: finished work.
+Child 401: PID=23826, parent PID=23424
+Child 401: finished work.
+Child 403: PID=23828, parent PID=23424
+Child 403: finished work.
+Child 406: PID=23831, parent PID=23424
+Child 406: finished work.
+Child 407: PID=23832, parent PID=23424
+Child 407: finished work.
+Child 408: PID=23833, parent PID=23424
+Child 408: finished work.
+Child 409: PID=23834, parent PID=23424
+Child 409: finished work.
+Child 413: PID=23838, parent PID=23424
+Child 413: finished work.
+Child 415: PID=23840, parent PID=23424
+Child 415: finished work.
+Child 416: PID=23841, parent PID=23424
+Child 416: finished work.
+Child 418: PID=23843, parent PID=23424
+Child 418: finished work.
+Child 419: PID=23844, parent PID=23424
+Child 419: finished work.
+Child 420: PID=23845, parent PID=23424
+Child 420: finished work.
+Child 421: PID=23846, parent PID=23424
+Child 421: finished work.
+Child 422: PID=23847, parent PID=23424
+Child 422: finished work.
+Child 423: PID=23848, parent PID=23424
+Child 423: finished work.
+367 PID=23792 exited with code 111
+Parent: My PID is 23424, and my child 368 PID=23793 exited with code 112
+Parent: My PID is 23424, and my child 369 PID=23794 was killed by signal 9
+Parent: My PID is 23424, and my child 370 PID=23795 exited with code 114
+Parent: My PID is 23424, and my child 371 PID=23796 exited with code 115
+Parent: My PID is 23424, and my child 372 PID=23797 exited with code 116
+Parent: My PID is 23424, and my child 373 PID=23798 exited with code 117
+Parent: My PID is 23424, and my child 374 PID=23799 exited with code 118
+Parent: My PID is 23424, and my child 375 PID=23800 exited with code 119
+Parent: My PID is 23424, and my child 376 PID=23801 exited with code 120
+Parent: My PID is 23424, and my child 377 PID=23802 exited with code 121
+Parent: My PID is 23424, and my child 378 PID=23803 exited with code 122
+Parent: My PID is 23424, and my child 379 PID=23804 was killed by signal 9
+Parent: My PID is 23424, and my child 380 PID=23805 exited with code 124
+Parent: My PID is 23424, and my child 381 PID=23806 exited with code 125
+Parent: My PID is 23424, and my child 382 PID=23807 exited with code 126
+Parent: My PID is 23424, and my child 383 PID=23808 was killed by signal 9
+Parent: My PID is 23424, and my child 384 PID=23809 exited with code 128
+Parent: My PID is 23424, and my child 385 PID=23810 was killed by signal 9
+Parent: My PID is 23424, and my child 386 PID=23811 exited with code 130
+Parent: My PID is 23424, and my child 387 PID=23812 was killed by signal 9
+Parent: My PID is 23424, and my child 388 PID=23813 exited with code 132
+Parent: My PID is 23424, and my child 389 PID=23814 exited with code 133
+Parent: My PID is 23424, and my child 390 PID=23815 exited with code 134
+Parent: My PID is 23424, and my child 391 PID=23816 exited with code 135
+Parent: My PID is 23424, and my child 392 PID=23817 exited with code 136
+Parent: My PID is 23424, and my child 393 PID=23818 exited with code 137
+Parent: My PID is 23424, and my child 394 PID=23819 exited with code 138
+Parent: My PID is 23424, and my child 395 PID=23820 exited with code 139
+Parent: My PID is 23424, and my child 396 PID=23821 was killed by signal 9
+Parent: My PID is 23424, and my child 397 PID=23822 was killed by signal 9
+Parent: My PID is 23424, and my child 398 PID=23823 exited with code 142
+Parent: My PID is 23424, and my child 399 PID=23824 exited with code 143
+Parent: My PID is 23424, and my child 400 PID=23825 exited with code 144
+Parent: My PID is 23424, and my child 401 PID=23826 exited with code 145
+Parent: My PID is 23424, and my child 402 PID=23827 exited with code 146
+Parent: My PID is 23424, and my child 403 PID=23828 exited with code 147
+Parent: My PID is 23424, and my child 404 PID=23829 was killed by signal 9
+Parent: My PID is 23424, and my child 405 PID=23830 was killed by signal 9
+Parent: My PID is 23424, and my child 406 PID=23831 exited with code 150
+Parent: My PID is 23424, and my child 407 PID=23832 exited with code 151
+Parent: My PID is 23424, and my child 408 PID=23833 exited with code 152
+Parent: My PID is 23424, and my child 409 PID=23834 exited with code 153
+Parent: My PID is 23424, and my child 410 PID=23835 was killed by signal 9
+Parent: My PID is 23424, and my child 411 PID=23836 was killed by signal 9
+Parent: My PID is 23424, and my child 412 PID=23837 was killed by signal 9
+Parent: My PID is 23424, and my child 413 PID=23838 exited with code 157
+Parent: My PID is 23424, and my child 414 PID=23839 was killed by signal 9
+Parent: My PID is 23424, and my child 415 PID=23840 exited with code 159
+Parent: My PID is 23424, and my child 416 PID=23841 exited with code 160
+Parent: My PID is 23424, and my child 417 PID=23842 was killed by signal 9
+Parent: My PID is 23424, and my child 418 PID=23843 exited with code 162
+Parent: My PID is 23424, and my child 419 PID=23844 exited with code 163
+Parent: My PID is 23424, and my child 420 PID=23845 exited with code 164
+Parent: My PID is 23424, and my child 421 PID=23846 exited with code 165
+Parent: My PID is 23424, and my child 422 PID=23847 exited with code 166
+Parent: My PID is Child 428: PID=23853, parent PID=23424
+Child 428: finished work.
+Child 430: PID=23855, parent PID=23424
+Child 430: finished work.
+Child 429: PID=23854, parent PID=23424
+Child 429: finished work.
+Child 433: PID=23858, parent PID=23424
+Child 433: finished work.
+Child 431: PID=23856, parent PID=23424
+Child 431: finished work.
+Child 434: PID=23859, parent PID=23424
+Child 434: finished work.
+Child 435: PID=23860, parent PID=23424
+Child 435: finished work.
+Child 437: PID=23862, parent PID=23424
+Child 437: finished work.
+Child 439: PID=23864, parent PID=23424
+Child 439: finished work.
+Child 440: PID=23865, parent PID=23424
+Child 440: finished work.
+Child 442: PID=23867, parent PID=23424
+Child 442: finished work.
+Child 443: PID=23868, parent PID=23424
+Child 443: finished work.
+Child 446: PID=23871, parent PID=23424
+Child 446: finished work.
+Child 447: PID=23872, parent PID=23424
+Child 447: finished work.
+Child 449: PID=23874, parent PID=23424
+Child 449: finished work.
+Child 450: PID=23875, parent PID=23424
+Child 450: finished work.
+Child 451: PID=23876, parent PID=23424
+Child 451: finished work.
+Child 452: PID=23877, parent PID=23424
+Child 452: finished work.
+Child 454: PID=23879, parent PID=23424
+Child 454: finished work.
+Child 453: PID=23878, parent PID=23424
+Child 453: finished work.
+Child 455: PID=23880, parent PID=23424
+Child 455: finished work.
+Child 456: PID=23881, parent PID=23424
+Child 456: finished work.
+Child 460: PID=23885, parent PID=23424
+Child 460: finished work.
+Child 461: PID=23886, parent PID=23424
+Child 461: finished work.
+Child 462: PID=23887, parent PID=23424
+Child 462: finished work.
+Child 463: PID=23888, parent PID=23424
+Child 463: finished work.
+Child 464: PID=23889, parent PID=23424
+Child 464: finished work.
+Child 466: PID=23891, parent PID=23424
+Child 466: finished work.
+Child 467: PID=23892, parent PID=23424
+Child 467: finished work.
+Child 468: PID=23893, parent PID=23424
+Child 468: finished work.
+Child 469: PID=23894, parent PID=23424
+Child 469: finished work.
+Child 470: PID=23895, parent PID=23424
+Child 470: finished work.
+Child 472: PID=23897, parent PID=23424
+Child 472: finished work.
+Child 473: PID=23898, parent PID=23424
+Child 473: finished work.
+Child 474: PID=23899, parent PID=23424
+Child 474: finished work.
+Child 475: PID=23900, parent PID=23424
+Child 475: finished work.
+Child 476: PID=23901, parent PID=23424
+Child 476: finished work.
+Child 479: PID=23904, parent PID=23424
+Child 479: finished work.
+Child 478: PID=23903, parent PID=23424
+Child 478: finished work.
+Child 481: PID=23906, parent PID=23424
+Child 481: finished work.
+Child 482: PID=23907, parent PID=23424
+Child 482: finished work.
+23424, and my child 423 PID=23848 exited with code 167
+Parent: My PID is 23424, and my child 424 PID=23849 was killed by signal 9
+Parent: My PID is 23424, and my child 425 PID=23850 was killed by signal 9
+Parent: My PID is 23424, and my child 426 PID=23851 was killed by signal 9
+Parent: My PID is 23424, and my child 427 PID=23852 was killed by signal 9
+Parent: My PID is 23424, and my child 428 PID=23853 exited with code 172
+Parent: My PID is 23424, and my child 429 PID=23854 exited with code 173
+Parent: My PID is 23424, and my child 430 PID=23855 exited with code 174
+Parent: My PID is 23424, and my child 431 PID=23856 exited with code 175
+Parent: My PID is 23424, and my child 432 PID=23857 was killed by signal 9
+Parent: My PID is 23424, and my child 433 PID=23858 exited with code 177
+Parent: My PID is 23424, and my child 434 PID=23859 exited with code 178
+Parent: My PID is 23424, and my child 435 PID=23860 exited with code 179
+Parent: My PID is 23424, and my child 436 PID=23861 was killed by signal 9
+Parent: My PID is 23424, and my child 437 PID=23862 exited with code 181
+Parent: My PID is 23424, and my child 438 PID=23863 was killed by signal 9
+Parent: My PID is 23424, and my child 439 PID=23864 exited with code 183
+Parent: My PID is 23424, and my child 440 PID=23865 exited with code 184
+Parent: My PID is 23424, and my child 441 PID=23866 was killed by signal 9
+Parent: My PID is 23424, and my child 442 PID=23867 exited with code 186
+Parent: My PID is 23424, and my child 443 PID=23868 exited with code 187
+Parent: My PID is 23424, and my child 444 PID=23869 was killed by signal 9
+Parent: My PID is 23424, and my child 445 PID=23870 was killed by signal 9
+Parent: My PID is 23424, and my child 446 PID=23871 exited with code 190
+Parent: My PID is 23424, and my child 447 PID=23872 exited with code 191
+Parent: My PID is 23424, and my child 448 PID=23873 was killed by signal 9
+Parent: My PID is 23424, and my child 449 PID=23874 exited with code 193
+Parent: My PID is 23424, and my child 450 PID=23875 exited with code 194
+Parent: My PID is 23424, and my child 451 PID=23876 exited with code 195
+Parent: My PID is 23424, and my child 452 PID=23877 exited with code 196
+Parent: My PID is 23424, and my child 453 PID=23878 exited with code 197
+Parent: My PID is 23424, and my child 454 PID=23879 exited with code 198
+Parent: My PID is 23424, and my child 455 PID=23880 exited with code 199
+Parent: My PID is 23424, and my child 456 PID=23881 exited with code 200
+Parent: My PID is 23424, and my child 457 PID=23882 was killed by signal 9
+Parent: My PID is 23424, and my child 458 PID=23883 was killed by signal 9
+Parent: My PID is 23424, and my child 459 PID=23884 was killed by signal 9
+Parent: My PID is 23424, and my child 460 PID=23885 exited with code 204
+Parent: My PID is 23424, and my child 461 PID=23886 exited with code 205
+Parent: My PID is 23424, and my child 462 PID=23887 exited with code 206
+Parent: My PID is 23424, and my child 463 PID=23888 exited with code 207
+Parent: My PID is 23424, and my child 464 PID=23889 exited with code 208
+Parent: My PID is 23424, and my child 465 PID=23890 was killed by signal 9
+Parent: My PID is 23424, and my child 466 PID=23891 exited with code 210
+Parent: My PID is 23424, and my child 467 PID=23892 exited with code 211
+Parent: My PID is 23424, and my child 468 PID=23893 exited with code 212
+Parent: My PID is 23424, and my child 469 PID=23894 exited with code 213
+Parent: My PID is 23424, and my child 470 PID=23895 exited with code 214
+Parent: My PID is 23424, and my child 471 PID=23896 was killed by signal 9
+Parent: My PID is 23424, and my child 472 PID=23897 exited with code 216
+Parent: My PID is 23424, and my child 473 PID=23898 exited with code 217
+Parent: My PID is 23424, and my child 474 PID=23899 exited with code 218
+Parent: My PID is 23424, and my child 475 PID=23900 exited with code 219
+Parent: My PID is 23424, and my child 476 PID=23901 exited with code 220
+Parent: My PID is 23424, and my child 477 PID=23902 was killed by signal 9
+Parent: My PID is 23424, and my child 478 PID=23903 exited with cChild 480: PID=23905, parent PID=23424
+Child 480: finished work.
+Child 483: PID=23908, parent PID=23424
+Child 483: finished work.
+Child 485: PID=23910, parent PID=23424
+Child 485: finished work.
+Child 487: PID=23912, parent PID=23424
+Child 487: finished work.
+Child 488: PID=23913, parent PID=23424
+Child 488: finished work.
+Child 490: PID=23915, parent PID=23424
+Child 490: finished work.
+Child 492: PID=23917, parent PID=23424
+Child 492: finished work.
+Child 493: PID=23918, parent PID=23424
+Child 493: finished work.
+Child 495: PID=23920, parent PID=23424
+Child 495: finished work.
+Child 496: PID=23921, parent PID=23424
+Child 496: finished work.
+Child 497: PID=23922, parent PID=23424
+Child 497: finished work.
+Child 499: PID=23924, parent PID=23424
+Child 499: finished work.
+Child 500: PID=23925, parent PID=23424
+Child 500: finished work.
+Child 501: PID=23926, parent PID=23424
+Child 501: finished work.
+Child 503: PID=23928, parent PID=23424
+Child 503: finished work.
+Child 504: PID=23929, parent PID=23424
+Child 504: finished work.
+Child 505: PID=23930, parent PID=23424
+Child 505: finished work.
+Child 502: PID=23927, parent PID=23424
+Child 502: finished work.
+Child 507: PID=23932, parent PID=23424
+Child 507: finished work.
+Child 509: PID=23934, parent PID=23424
+Child 509: finished work.
+Child 521: PID=23946, parent PID=23424
+Child 521: finished work.
+Child 511: PID=23936, parent PID=23424
+Child 511: finished work.
+Child 513: PID=23938, parent PID=23424
+Child 513: finished work.
+Child 512: PID=23937, parent PID=23424
+Child 512: finished work.
+Child 524: PID=23949, parent PID=23424
+Child 524: finished work.
+Child 516: PID=23941, parent PID=23424
+Child 516: finished work.
+Child 519: PID=23944, parent PID=23424
+Child 519: finished work.
+Child 523: PID=23948, parent PID=23424
+Child 523: finished work.
+Child 515: PID=23940, parent PID=23424
+Child 515: finished work.
+Child 525: PID=23950, parent PID=23424
+Child 525: finished work.
+Child 520: PID=23945, parent PID=23424
+Child 520: finished work.
+Child 532: PID=23957, parent PID=23424
+Child 532: finished work.
+Child 527: PID=23952, parent PID=23424
+Child 527: finished work.
+Child 522: PID=23947, parent PID=23424
+Child 522: finished work.
+Child 534: PID=23959, parent PID=23424
+Child 534: finished work.
+Child 529: PID=23954, parent PID=23424
+Child 529: finished work.
+Child 536: PID=23961, parent PID=23424
+Child 536: finished work.
+Child 526: PID=23951, parent PID=23424
+Child 526: finished work.
+Child 538: PID=23963, parent PID=23424
+Child 538: finished work.
+Child 531: PID=23956, parent PID=23424
+Child 531: finished work.
+Child 540: PID=23965, parent PID=23424
+Child 540: finished work.
+Child 533: PID=23958, parent PID=23424
+Child 533: finished work.
+Child 545: PID=23970, parent PID=23424
+Child 545: finished work.
+Child 546: PID=23971, parent PID=23424
+Child 546: finished work.
+Child 537: PID=23962, parent PID=23424
+Child 537: finished work.
+Child 542: PID=23967, parent PID=23424
+Child 542: finished work.
+Child 528: PID=23953, parent PID=23424
+Child 528: finished work.
+Child 547: PID=23972, parent PID=23424
+Child 547: finished work.
+Child 539: PID=23964, parent PID=23424
+Child 539: finished work.
+Child 548: PID=23973, parent PID=23424
+Child 548: finished work.
+Child 549: PID=23974, parent PID=23424
+Child 549: finished work.
+Child 541: PID=23966, parent PID=23424
+Child 541: finished work.
+Child 559: PID=23984, parent PID=23424
+Child 559: finished work.
+Child 552: PID=23977, parent PID=23424
+Child 552: finished work.
+Child 561: PID=23986, parent PID=23424
+Child 561: finished work.
+Child 553: PID=23978, parent PID=23424
+Child 553: finished work.
+Child 554: PID=23979, parent PID=23424
+Child 554: finished work.
+Child 530: PID=23955, parent PID=23424
+Child 530: finished work.
+Child 567: PID=23992, parent PID=23424
+Child 567: finished work.
+Child 556: PID=23981, parent PID=23424
+Child 556: finished work.
+Child 566: PID=23991, parent PID=23424
+Child 566: finished work.
+Child 550: PID=23975, parent PID=23424
+Child 550: finished work.
+Child 562: PID=23987, parent PID=23424
+Child 562: finished work.
+Child 568: PID=23993, parent PID=23424
+Child 568: finished work.
+Child 572: PID=23997, parent PID=23424
+Child 572: finished work.
+Child 564: PID=23989, parent PID=23424
+Child 564: finished work.
+Child 563: PID=23988, parent PID=23424
+Child 563: finished work.
+Child 576: PID=24001, parent PID=23424
+Child 576: finished work.
+Child 565: PID=23990, parent PID=23424
+Child 565: finished work.
+Child 577: PID=24002, parent PID=23424
+Child 577: finished work.
+Child 573: PID=23998, parent PID=23424
+Child 573: finished work.
+Child 582: PID=24007, parent PID=23424
+Child 582: finished work.
+Child 580: PID=24005, parent PID=23424
+Child 580: finished work.
+Child 579: PID=24004, parent PID=23424
+Child 579: finished work.
+Child 583: PID=24008, parent PID=23424
+Child 583: finished work.
+Child 586: PID=24011, parent PID=23424
+Child 586: finished work.
+Child 581: PID=24006, parent PID=23424
+Child 581: finished work.
+Child 585: PID=24010, parent PID=23424
+Child 585: finished work.
+Child 587: PID=24012, parent PID=23424
+Child 587: finished work.
+ode 222
+Parent: My PID is 23424, and my child 479 PID=23904 exited with code 223
+Parent: My PID is 23424, and my child 480 PID=23905 exited with code 224
+Parent: My PID is 23424, and my child 481 PID=23906 exited with code 225
+Parent: My PID is 23424, and my child 482 PID=23907 exited with code 226
+Parent: My PID is 23424, and my child 483 PID=23908 exited with code 227
+Parent: My PID is 23424, and my child 484 PID=23909 was killed by signal 9
+Parent: My PID is 23424, and my child 485 PID=23910 exited with code 229
+Parent: My PID is 23424, and my child 486 PID=23911 was killed by signal 9
+Parent: My PID is 23424, and my child 487 PID=23912 exited with code 231
+Parent: My PID is 23424, and my child 488 PID=23913 exited with code 232
+Parent: My PID is 23424, and my child 489 PID=23914 was killed by signal 9
+Parent: My PID is 23424, and my child 490 PID=23915 exited with code 234
+Parent: My PID is 23424, and my child 491 PID=23916 was killed by signal 9
+Parent: My PID is 23424, and my child 492 PID=23917 exited with code 236
+Parent: My PID is 23424, and my child 493 PID=23918 exited with code 237
+Parent: My PID is 23424, and my child 494 PID=23919 was killed by signal 9
+Parent: My PID is 23424, and my child 495 PID=23920 exited with code 239
+Parent: My PID is 23424, and my child 496 PID=23921 exited with code 240
+Parent: My PID is 23424, and my child 497 PID=23922 exited with code 241
+Parent: My PID is 23424, and my child 498 PID=23923 was killed by signal 9
+Parent: My PID is 23424, and my child 499 PID=23924 exited with code 243
+Parent: My PID is 23424, and my child 500 PID=23925 exited with code 244
+Parent: My PID is 23424, and my child 501 PID=23926 exited with code 245
+Parent: My PID is 23424, and my child 502 PID=23927 exited with code 246
+Parent: My PID is 23424, and my child 503 PID=23928 exited with code 247
+Parent: My PID is 23424, and my child 504 PID=23929 exited with code 248
+Parent: My PID is 23424, and my child 505 PID=23930 exited with code 249
+Parent: My PID is 23424, and my child 506 PID=23931 was killed by signal 9
+Parent: My PID is 23424, and my child 507 PID=23932 exited with code 251
+Parent: My PID is 23424, and my child 508 PID=23933 was killed by signal 9
+Parent: My PID is 23424, and my child 509 PID=23934 exited with code 253
+Parent: My PID is 23424, and my child 510 PID=23935 was killed by signal 9
+Parent: My PID is 23424, and my child 511 PID=23936 exited with code 255
+Parent: My PID is 23424, and my child 512 PID=23937 exited with code 0
+Parent: My PID is 23424, and my child 513 PID=23938 exited with code 1
+Parent: My PID is 23424, and my child 514 PID=23939 was killed by signal 9
+Parent: My PID is 23424, and my child 515 PID=23940 exited with code 3
+Parent: My PID is 23424, and my child 516 PID=23941 exited with code 4
+Parent: My PID is 23424, and my child 517 PID=23942 was killed by signal 9
+Parent: My PID is 23424, and my child 518 PID=23943 was killed by signal 9
+Parent: My PID is 23424, and my child 519 PID=23944 exited with code 7
+Parent: My PID is 23424, and my child 520 PID=23945 exited with code 8
+Parent: My PID is 23424, and my child 521 PID=23946 exited with code 9
+Parent: My PID is 23424, and my child 522 PID=23947 exited with code 10
+Parent: My PID is 23424, and my child 523 PID=23948 exited with code 11
+Parent: My PID is 23424, and my child 524 PID=23949 exited with code 12
+Parent: My PID is 23424, and my child 525 PID=23950 exited with code 13
+Parent: My PID is 23424, and my child 526 PID=23951 exited with code 14
+Parent: My PID is 23424, and my child 527 PID=23952 exited with code 15
+Parent: My PID is 23424, and my child 528 PID=23953 exited with code 16
+Parent: My PID is 23424, and my child 529 PID=23954 exited with code 17
+Parent: My PID is 23424, and my child 530 PID=23955 exited with code 18
+Parent: My PID is 23424, and my child 531 PID=23956 exited with code 19
+Parent: My PID is 23424, and my child 532 PID=23957 exited with code 20
+Parent: My PID is 23424, and my child 533 PID=23958 exited with code 21
+Parent: My PID is 23424, and my child 534 PID=23959 exited with code 22
+ParChild 590: PID=24015, parent PID=23424
+Child 590: finished work.
+Child 589: PID=24014, parent PID=23424
+Child 589: finished work.
+Child 593: PID=24018, parent PID=23424
+Child 593: finished work.
+Child 594: PID=24019, parent PID=23424
+Child 594: finished work.
+Child 595: PID=24020, parent PID=23424
+Child 595: finished work.
+ent: My PID is 23424, and my child 535 PID=23960 was killed by signal 9
+Parent: My PID is 23424, and my child 536 PID=23961 exited with code 24
+Parent: My PID is 23424, and my child 537 PID=23962 exited with code 25
+Parent: My PID is 23424, and my child 538 PID=23963 exited with code 26
+Parent: My PID is 23424, and my child 539 PID=23964 exited with code 27
+Parent: My PID is 23424, and my child 540 PID=23965 exited with code 28
+Parent: My PID is 23424, and my child 541 PID=23966 exited with code 29
+Parent: My PID is 23424, and my child 542 PID=23967 exited with code 30
+Parent: My PID is 23424, and my child 543 PID=23968 was killed by signal 9
+Parent: My PID is 23424, and my child 544 PID=23969 was killed by signal 9
+Parent: My PID is 23424, and my child 545 PID=23970 exited with code 33
+Parent: My PID is 23424, and my child 546 PID=23971 exited with code 34
+Parent: My PID is 23424, and my child 547 PID=23972 exited with code 35
+Parent: My PID is 23424, and my child 548 PID=23973 exited with code 36
+Parent: My PID is 23424, and my child 549 PID=23974 exited with code 37
+Parent: My PID is 23424, and my child 550 PID=23975 exited with code 38
+Parent: My PID is 23424, and my child 551 PID=23976 was killed by signal 9
+Parent: My PID is 23424, and my child 552 PID=23977 exited with code 40
+Parent: My PID is 23424, and my child 553 PID=23978 exited with code 41
+Parent: My PID is 23424, and my child 554 PID=23979 exited with code 42
+Parent: My PID is 23424, and my child 555 PID=23980 was killed by signal 9
+Parent: My PID is 23424, and my child 556 PID=23981 exited with code 44
+Parent: My PID is 23424, and my child 557 PID=23982 was killed by signal 9
+Parent: My PID is 23424, and my child 558 PID=23983 was killed by signal 9
+Parent: My PID is 23424, and my child 559 PID=23984 exited with code 47
+Parent: My PID is 23424, and my child 560 PID=23985 was killed by signal 9
+Parent: My PID is 23424, and my child 561 PID=23986 exited with code 49
+Parent: My PID is 23424, and my child 562 PID=23987 exited with code 50
+Parent: My PID is 23424, and my child 563 PID=23988 exited with code 51
+Parent: My PID is 23424, and my child 564 PID=23989 exited with code 52
+Parent: My PID is 23424, and my child 565 PID=23990 exited with code 53
+Parent: My PID is 23424, and my child 566 PID=23991 exited with code 54
+Parent: My PID is 23424, and my child 567 PID=23992 exited with code 55
+Parent: My PID is 23424, and my child 568 PID=23993 exited with code 56
+Parent: My PID is 23424, and my child 569 PID=23994 was killed by signal 9
+Parent: My PID is 23424, and my child 570 PID=23995 was killed by signal 9
+Parent: My PID is 23424, and my child 571 PID=23996 was killed by signal 9
+Parent: My PID is 23424, and my child 572 PID=23997 exited with code 60
+Parent: My PID is 23424, and my child 573 PID=23998 exited with code 61
+Parent: My PID is 23424, and my child 574 PID=23999 was killed by signal 9
+Parent: My PID is 23424, and my child 575 PID=24000 was killed by signal 9
+Parent: My PID is 23424, and my child 576 PID=24001 exited with code 64
+Parent: My PID is 23424, and my child 577 PID=24002 exited with code 65
+Parent: My PID is 23424, and my child 578 PID=24003 was killed by signal 9
+Parent: My PID is 23424, and my child 579 PID=24004 exited with code 67
+Parent: My PID is 23424, and my child 580 PID=24005 exited with code 68
+Parent: My PID is 23424, and my child 581 PID=24006 exited with code 69
+Parent: My PID is 23424, and my child 582 PID=24007 exited with code 70
+Parent: My PID is 23424, and my child 583 PID=24008 exited with code 71
+Parent: My PID is 23424, and my child 584 PID=24009 was killed by signal 9
+Parent: My PID is 23424, and my child 585 PID=24010 exited with code 73
+Parent: My PID is 23424, and my child 586 PID=24011 exited with code 74
+Parent: My PID is 23424, and my child 587 PID=24012 exited with code 75
+Parent: My PID is 23424, and my child 588 PID=24013 was killed by signal 9
+Parent: My PID is 23424, and my child 589 PID=24014 exited with code 77
+Parent: My PID is 23424, and my child 590 PID=24015 exited with code 78
+Parent: My PID is 2Child 597: PID=24022, parent PID=23424
+Child 597: finished work.
+Child 598: PID=24023, parent PID=23424
+Child 598: finished work.
+Child 600: PID=24025, parent PID=23424
+Child 600: finished work.
+Child 601: PID=24026, parent PID=23424
+Child 601: finished work.
+Child 599: PID=24024, parent PID=23424
+Child 599: finished work.
+Child 602: PID=24027, parent PID=23424
+Child 602: finished work.
+Child 603: PID=24028, parent PID=23424
+Child 603: finished work.
+Child 606: PID=24031, parent PID=23424
+Child 606: finished work.
+Child 608: PID=24033, parent PID=23424
+Child 608: finished work.
+Child 609: PID=24034, parent PID=23424
+Child 609: finished work.
+Child 605: PID=24030, parent PID=23424
+Child 605: finished work.
+Child 610: PID=24035, parent PID=23424
+Child 610: finished work.
+Child 612: PID=24037, parent PID=23424
+Child 612: finished work.
+Child 611: PID=24036, parent PID=23424
+Child 611: finished work.
+Child 614: PID=24039, parent PID=23424
+Child 614: finished work.
+Child 615: PID=24040, parent PID=23424
+Child 615: finished work.
+Child 617: PID=24042, parent PID=23424
+Child 617: finished work.
+Child 618: PID=24043, parent PID=23424
+Child 618: finished work.
+Child 620: PID=24045, parent PID=23424
+Child 620: finished work.
+Child 621: PID=24046, parent PID=23424
+Child 621: finished work.
+Child 622: PID=24047, parent PID=23424
+Child 622: finished work.
+Child 623: PID=24048, parent PID=23424
+Child 623: finished work.
+Child 624: PID=24049, parent PID=23424
+Child 624: finished work.
+Child 626: PID=24051, parent PID=23424
+Child 626: finished work.
+Child 628: PID=24053, parent PID=23424
+Child 628: finished work.
+Child 627: PID=24052, parent PID=23424
+Child 627: finished work.
+Child 629: PID=24054, parent PID=23424
+Child 629: finished work.
+Child 630: PID=24055, parent PID=23424
+Child 630: finished work.
+Child 631: PID=24056, parent PID=23424
+Child 631: finished work.
+Child 632: PID=24057, parent PID=23424
+Child 632: finished work.
+Child 636: PID=24061, parent PID=23424
+Child 636: finished work.
+Child 637: PID=24062, parent PID=23424
+Child 637: finished work.
+Child 635: PID=24060, parent PID=23424
+Child 635: finished work.
+Child 638: PID=24063, parent PID=23424
+Child 638: finished work.
+Child 639: PID=24064, parent PID=23424
+Child 639: finished work.
+Child 641: PID=24066, parent PID=23424
+Child 641: finished work.
+Child 642: PID=24067, parent PID=23424
+Child 642: finished work.
+Child 644: PID=24069, parent PID=23424
+Child 644: finished work.
+Child 643: PID=24068, parent PID=23424
+Child 643: finished work.
+Child 645: PID=24070, parent PID=23424
+Child 645: finished work.
+Child 646: PID=24071, parent PID=23424
+Child 646: finished work.
+Child 647: PID=24072, parent PID=23424
+Child 647: finished work.
+Child 649: PID=24074, parent PID=23424
+Child 649: finished work.
+Child 650: PID=24075, parent PID=23424
+Child 650: finished work.
+3424, and my child 591 PID=24016 was killed by signal 9
+Parent: My PID is 23424, and my child 592 PID=24017 was killed by signal 9
+Parent: My PID is 23424, and my child 593 PID=24018 exited with code 81
+Parent: My PID is 23424, and my child 594 PID=24019 exited with code 82
+Parent: My PID is 23424, and my child 595 PID=24020 exited with code 83
+Parent: My PID is 23424, and my child 596 PID=24021 was killed by signal 9
+Parent: My PID is 23424, and my child 597 PID=24022 exited with code 85
+Parent: My PID is 23424, and my child 598 PID=24023 exited with code 86
+Parent: My PID is 23424, and my child 599 PID=24024 exited with code 87
+Parent: My PID is 23424, and my child 600 PID=24025 exited with code 88
+Parent: My PID is 23424, and my child 601 PID=24026 exited with code 89
+Parent: My PID is 23424, and my child 602 PID=24027 exited with code 90
+Parent: My PID is 23424, and my child 603 PID=24028 exited with code 91
+Parent: My PID is 23424, and my child 604 PID=24029 was killed by signal 9
+Parent: My PID is 23424, and my child 605 PID=24030 exited with code 93
+Parent: My PID is 23424, and my child 606 PID=24031 exited with code 94
+Parent: My PID is 23424, and my child 607 PID=24032 was killed by signal 9
+Parent: My PID is 23424, and my child 608 PID=24033 exited with code 96
+Parent: My PID is 23424, and my child 609 PID=24034 exited with code 97
+Parent: My PID is 23424, and my child 610 PID=24035 exited with code 98
+Parent: My PID is 23424, and my child 611 PID=24036 exited with code 99
+Parent: My PID is 23424, and my child 612 PID=24037 exited with code 100
+Parent: My PID is 23424, and my child 613 PID=24038 was killed by signal 9
+Parent: My PID is 23424, and my child 614 PID=24039 exited with code 102
+Parent: My PID is 23424, and my child 615 PID=24040 exited with code 103
+Parent: My PID is 23424, and my child 616 PID=24041 was killed by signal 9
+Parent: My PID is 23424, and my child 617 PID=24042 exited with code 105
+Parent: My PID is 23424, and my child 618 PID=24043 exited with code 106
+Parent: My PID is 23424, and my child 619 PID=24044 was killed by signal 9
+Parent: My PID is 23424, and my child 620 PID=24045 exited with code 108
+Parent: My PID is 23424, and my child 621 PID=24046 exited with code 109
+Parent: My PID is 23424, and my child 622 PID=24047 exited with code 110
+Parent: My PID is 23424, and my child 623 PID=24048 exited with code 111
+Parent: My PID is 23424, and my child 624 PID=24049 exited with code 112
+Parent: My PID is 23424, and my child 625 PID=24050 was killed by signal 9
+Parent: My PID is 23424, and my child 626 PID=24051 exited with code 114
+Parent: My PID is 23424, and my child 627 PID=24052 exited with code 115
+Parent: My PID is 23424, and my child 628 PID=24053 exited with code 116
+Parent: My PID is 23424, and my child 629 PID=24054 exited with code 117
+Parent: My PID is 23424, and my child 630 PID=24055 exited with code 118
+Parent: My PID is 23424, and my child 631 PID=24056 exited with code 119
+Parent: My PID is 23424, and my child 632 PID=24057 exited with code 120
+Parent: My PID is 23424, and my child 633 PID=24058 was killed by signal 9
+Parent: My PID is 23424, and my child 634 PID=24059 was killed by signal 9
+Parent: My PID is 23424, and my child 635 PID=24060 exited with code 123
+Parent: My PID is 23424, and my child 636 PID=24061 exited with code 124
+Parent: My PID is 23424, and my child 637 PID=24062 exited with code 125
+Parent: My PID is 23424, and my child 638 PID=24063 exited with code 126
+Parent: My PID is 23424, and my child 639 PID=24064 exited with code 127
+Parent: My PID is 23424, and my child 640 PID=24065 was killed by signal 9
+Parent: My PID is 23424, and my child 641 PID=24066 exited with code 129
+Parent: My PID is 23424, and my child 642 PID=24067 exited with code 130
+Parent: My PID is 23424, and my child 643 PID=24068 exited with code 131
+Parent: My PID is 23424, and my child 644 PID=24069 exited with code 132
+Parent: My PID is 23424, and my child 645 PID=24070 exited with code 133
+Parent: My PID is 23424, and my child 646 PID=24071 exited with code 134
+Parent: My PID is 2Child 651: PID=24076, parent PID=23424
+Child 651: finished work.
+Child 652: PID=24077, parent PID=23424
+Child 652: finished work.
+Child 653: PID=24078, parent PID=23424
+Child 653: finished work.
+Child 654: PID=24079, parent PID=23424
+Child 654: finished work.
+Child 656: PID=24081, parent PID=23424
+Child 656: finished work.
+Child 658: PID=24083, parent PID=23424
+Child 658: finished work.
+Child 659: PID=24084, parent PID=23424
+Child 659: finished work.
+Child 662: PID=24087, parent PID=23424
+Child 662: finished work.
+Child 661: PID=24086, parent PID=23424
+Child 661: finished work.
+Child 663: PID=24088, parent PID=23424
+Child 663: finished work.
+Child 664: PID=24089, parent PID=23424
+Child 664: finished work.
+Child 665: PID=24090, parent PID=23424
+Child 665: finished work.
+Child 666: PID=24091, parent PID=23424
+Child 666: finished work.
+Child 667: PID=24092, parent PID=23424
+Child 667: finished work.
+Child 668: PID=24093, parent PID=23424
+Child 668: finished work.
+Child 669: PID=24094, parent PID=23424
+Child 669: finished work.
+Child 670: PID=24095, parent PID=23424
+Child 670: finished work.
+Child 671: PID=24096, parent PID=23424
+Child 671: finished work.
+Child 672: PID=24097, parent PID=23424
+Child 672: finished work.
+Child 673: PID=24098, parent PID=23424
+Child 673: finished work.
+Child 674: PID=24099, parent PID=23424
+Child 674: finished work.
+Child 675: PID=24100, parent PID=23424
+Child 675: finished work.
+Child 676: PID=24101, parent PID=23424
+Child 676: finished work.
+Child 680: PID=24105, parent PID=23424
+Child 680: finished work.
+Child 682: PID=24107, parent PID=23424
+Child 682: finished work.
+Child 683: PID=24108, parent PID=23424
+Child 683: finished work.
+Child 684: PID=24109, parent PID=23424
+Child 684: finished work.
+Child 685: PID=24110, parent PID=23424
+Child 685: finished work.
+Child 686: PID=24111, parent PID=23424
+Child 686: finished work.
+Child 688: PID=24113, parent PID=23424
+Child 688: finished work.
+Child 690: PID=24115, parent PID=23424
+Child 690: finished work.
+Child 691: PID=24116, parent PID=23424
+Child 691: finished work.
+Child 693: PID=24118, parent PID=23424
+Child 693: finished work.
+Child 692: PID=24117, parent PID=23424
+Child 692: finished work.
+Child 694: PID=24119, parent PID=23424
+Child 694: finished work.
+Child 696: PID=24121, parent PID=23424
+Child 696: finished work.
+Child 697: PID=24122, parent PID=23424
+Child 697: finished work.
+Child 698: PID=24123, parent PID=23424
+Child 698: finished work.
+Child 701: PID=24126, parent PID=23424
+Child 701: finished work.
+Child 702: PID=24127, parent PID=23424
+Child 702: finished work.
+Child 703: PID=24128, parent PID=23424
+Child 703: finished work.
+Child 704: PID=24129, parent PID=23424
+Child 704: finished work.
+Child 705: PID=24130, parent PID=23424
+Child 705: finished work.
+Child 706: PID=24131, parent PID=23424
+Child 706: finished work.
+3424, and my child 647 PID=24072 exited with code 135
+Parent: My PID is 23424, and my child 648 PID=24073 was killed by signal 9
+Parent: My PID is 23424, and my child 649 PID=24074 exited with code 137
+Parent: My PID is 23424, and my child 650 PID=24075 exited with code 138
+Parent: My PID is 23424, and my child 651 PID=24076 exited with code 139
+Parent: My PID is 23424, and my child 652 PID=24077 exited with code 140
+Parent: My PID is 23424, and my child 653 PID=24078 exited with code 141
+Parent: My PID is 23424, and my child 654 PID=24079 exited with code 142
+Parent: My PID is 23424, and my child 655 PID=24080 was killed by signal 9
+Parent: My PID is 23424, and my child 656 PID=24081 exited with code 144
+Parent: My PID is 23424, and my child 657 PID=24082 was killed by signal 9
+Parent: My PID is 23424, and my child 658 PID=24083 exited with code 146
+Parent: My PID is 23424, and my child 659 PID=24084 exited with code 147
+Parent: My PID is 23424, and my child 660 PID=24085 was killed by signal 9
+Parent: My PID is 23424, and my child 661 PID=24086 exited with code 149
+Parent: My PID is 23424, and my child 662 PID=24087 exited with code 150
+Parent: My PID is 23424, and my child 663 PID=24088 exited with code 151
+Parent: My PID is 23424, and my child 664 PID=24089 exited with code 152
+Parent: My PID is 23424, and my child 665 PID=24090 exited with code 153
+Parent: My PID is 23424, and my child 666 PID=24091 exited with code 154
+Parent: My PID is 23424, and my child 667 PID=24092 exited with code 155
+Parent: My PID is 23424, and my child 668 PID=24093 exited with code 156
+Parent: My PID is 23424, and my child 669 PID=24094 exited with code 157
+Parent: My PID is 23424, and my child 670 PID=24095 exited with code 158
+Parent: My PID is 23424, and my child 671 PID=24096 exited with code 159
+Parent: My PID is 23424, and my child 672 PID=24097 exited with code 160
+Parent: My PID is 23424, and my child 673 PID=24098 exited with code 161
+Parent: My PID is 23424, and my child 674 PID=24099 exited with code 162
+Parent: My PID is 23424, and my child 675 PID=24100 exited with code 163
+Parent: My PID is 23424, and my child 676 PID=24101 exited with code 164
+Parent: My PID is 23424, and my child 677 PID=24102 was killed by signal 9
+Parent: My PID is 23424, and my child 678 PID=24103 was killed by signal 9
+Parent: My PID is 23424, and my child 679 PID=24104 was killed by signal 9
+Parent: My PID is 23424, and my child 680 PID=24105 exited with code 168
+Parent: My PID is 23424, and my child 681 PID=24106 was killed by signal 9
+Parent: My PID is 23424, and my child 682 PID=24107 exited with code 170
+Parent: My PID is 23424, and my child 683 PID=24108 exited with code 171
+Parent: My PID is 23424, and my child 684 PID=24109 exited with code 172
+Parent: My PID is 23424, and my child 685 PID=24110 exited with code 173
+Parent: My PID is 23424, and my child 686 PID=24111 exited with code 174
+Parent: My PID is 23424, and my child 687 PID=24112 was killed by signal 9
+Parent: My PID is 23424, and my child 688 PID=24113 exited with code 176
+Parent: My PID is 23424, and my child 689 PID=24114 was killed by signal 9
+Parent: My PID is 23424, and my child 690 PID=24115 exited with code 178
+Parent: My PID is 23424, and my child 691 PID=24116 exited with code 179
+Parent: My PID is 23424, and my child 692 PID=24117 exited with code 180
+Parent: My PID is 23424, and my child 693 PID=24118 exited with code 181
+Parent: My PID is 23424, and my child 694 PID=24119 exited with code 182
+Parent: My PID is 23424, and my child 695 PID=24120 was killed by signal 9
+Parent: My PID is 23424, and my child 696 PID=24121 exited with code 184
+Parent: My PID is 23424, and my child 697 PID=24122 exited with code 185
+Parent: My PID is 23424, and my child 698 PID=24123 exited with code 186
+Parent: My PID is 23424, and my child 699 PID=24124 was killed by signal 9
+Parent: My PID is 23424, and my child 700 PID=24125 was killed by signal 9
+Parent: My PID is 23424, and my child 701 PID=24126 exited with code 189
+Parent: My PID is 23424, and my child 702 PID=24127 exited with code 190
+PChild 709: PID=24134, parent PID=23424
+Child 709: finished work.
+Child 707: PID=24132, parent PID=23424
+Child 707: finished work.
+Child 711: PID=24136, parent PID=23424
+Child 711: finished work.
+Child 708: PID=24133, parent PID=23424
+Child 708: finished work.
+Child 710: PID=24135, parent PID=23424
+Child 710: finished work.
+Child 713: PID=24138, parent PID=23424
+Child 713: finished work.
+Child 712: PID=24137, parent PID=23424
+Child 712: finished work.
+Child 714: PID=24139, parent PID=23424
+Child 714: finished work.
+Child 715: PID=24140, parent PID=23424
+Child 715: finished work.
+Child 717: PID=24142, parent PID=23424
+Child 717: finished work.
+Child 716: PID=24141, parent PID=23424
+Child 716: finished work.
+Child 718: PID=24143, parent PID=23424
+Child 718: finished work.
+Child 721: PID=24146, parent PID=23424
+Child 721: finished work.
+Child 722: PID=24147, parent PID=23424
+Child 722: finished work.
+Child 723: PID=24148, parent PID=23424
+Child 723: finished work.
+Child 726: PID=24151, parent PID=23424
+Child 726: finished work.
+Child 728: PID=24153, parent PID=23424
+Child 728: finished work.
+Child 727: PID=24152, parent PID=23424
+Child 727: finished work.
+Child 729: PID=24154, parent PID=23424
+Child 729: finished work.
+Child 730: PID=24155, parent PID=23424
+Child 730: finished work.
+Child 732: PID=24157, parent PID=23424
+Child 732: finished work.
+Child 731: PID=24156, parent PID=23424
+Child 731: finished work.
+Child 733: PID=24158, parent PID=23424
+Child 733: finished work.
+Child 736: PID=24161, parent PID=23424
+Child 736: finished work.
+Child 737: PID=24162, parent PID=23424
+Child 737: finished work.
+Child 734: PID=24159, parent PID=23424
+Child 734: finished work.
+Child 738: PID=24163, parent PID=23424
+Child 738: finished work.
+Child 739: PID=24164, parent PID=23424
+Child 739: finished work.
+Child 743: PID=24168, parent PID=23424
+Child 743: finished work.
+Child 742: PID=24167, parent PID=23424
+Child 742: finished work.
+Child 745: PID=24170, parent PID=23424
+Child 745: finished work.
+Child 747: PID=24172, parent PID=23424
+Child 747: finished work.
+Child 746: PID=24171, parent PID=23424
+Child 746: finished work.
+Child 748: PID=24173, parent PID=23424
+Child 748: finished work.
+Child 750: PID=24175, parent PID=23424
+Child 750: finished work.
+Child 751: PID=24176, parent PID=23424
+Child 751: finished work.
+Child 752: PID=24177, parent PID=23424
+Child 752: finished work.
+Child 754: PID=24179, parent PID=23424
+Child 754: finished work.
+Child 755: PID=24180, parent PID=23424
+Child 755: finished work.
+Child 758: PID=24183, parent PID=23424
+Child 758: finished work.
+Child 760: PID=24185, parent PID=23424
+Child 760: finished work.
+Child 761: PID=24186, parent PID=23424
+Child 761: finished work.
+arent: My PID is 23424, and my child 703 PID=24128 exited with code 191
+Parent: My PID is 23424, and my child 704 PID=24129 exited with code 192
+Parent: My PID is 23424, and my child 705 PID=24130 exited with code 193
+Parent: My PID is 23424, and my child 706 PID=24131 exited with code 194
+Parent: My PID is 23424, and my child 707 PID=24132 exited with code 195
+Parent: My PID is 23424, and my child 708 PID=24133 exited with code 196
+Parent: My PID is 23424, and my child 709 PID=24134 exited with code 197
+Parent: My PID is 23424, and my child 710 PID=24135 exited with code 198
+Parent: My PID is 23424, and my child 711 PID=24136 exited with code 199
+Parent: My PID is 23424, and my child 712 PID=24137 exited with code 200
+Parent: My PID is 23424, and my child 713 PID=24138 exited with code 201
+Parent: My PID is 23424, and my child 714 PID=24139 exited with code 202
+Parent: My PID is 23424, and my child 715 PID=24140 exited with code 203
+Parent: My PID is 23424, and my child 716 PID=24141 exited with code 204
+Parent: My PID is 23424, and my child 717 PID=24142 exited with code 205
+Parent: My PID is 23424, and my child 718 PID=24143 exited with code 206
+Parent: My PID is 23424, and my child 719 PID=24144 was killed by signal 9
+Parent: My PID is 23424, and my child 720 PID=24145 was killed by signal 9
+Parent: My PID is 23424, and my child 721 PID=24146 exited with code 209
+Parent: My PID is 23424, and my child 722 PID=24147 exited with code 210
+Parent: My PID is 23424, and my child 723 PID=24148 exited with code 211
+Parent: My PID is 23424, and my child 724 PID=24149 was killed by signal 9
+Parent: My PID is 23424, and my child 725 PID=24150 was killed by signal 9
+Parent: My PID is 23424, and my child 726 PID=24151 exited with code 214
+Parent: My PID is 23424, and my child 727 PID=24152 exited with code 215
+Parent: My PID is 23424, and my child 728 PID=24153 exited with code 216
+Parent: My PID is 23424, and my child 729 PID=24154 exited with code 217
+Parent: My PID is 23424, and my child 730 PID=24155 exited with code 218
+Parent: My PID is 23424, and my child 731 PID=24156 exited with code 219
+Parent: My PID is 23424, and my child 732 PID=24157 exited with code 220
+Parent: My PID is 23424, and my child 733 PID=24158 exited with code 221
+Parent: My PID is 23424, and my child 734 PID=24159 exited with code 222
+Parent: My PID is 23424, and my child 735 PID=24160 was killed by signal 9
+Parent: My PID is 23424, and my child 736 PID=24161 exited with code 224
+Parent: My PID is 23424, and my child 737 PID=24162 exited with code 225
+Parent: My PID is 23424, and my child 738 PID=24163 exited with code 226
+Parent: My PID is 23424, and my child 739 PID=24164 exited with code 227
+Parent: My PID is 23424, and my child 740 PID=24165 was killed by signal 9
+Parent: My PID is 23424, and my child 741 PID=24166 was killed by signal 9
+Parent: My PID is 23424, and my child 742 PID=24167 exited with code 230
+Parent: My PID is 23424, and my child 743 PID=24168 exited with code 231
+Parent: My PID is 23424, and my child 744 PID=24169 was killed by signal 9
+Parent: My PID is 23424, and my child 745 PID=24170 exited with code 233
+Parent: My PID is 23424, and my child 746 PID=24171 exited with code 234
+Parent: My PID is 23424, and my child 747 PID=24172 exited with code 235
+Parent: My PID is 23424, and my child 748 PID=24173 exited with code 236
+Parent: My PID is 23424, and my child 749 PID=24174 was killed by signal 9
+Parent: My PID is 23424, and my child 750 PID=24175 exited with code 238
+Parent: My PID is 23424, and my child 751 PID=24176 exited with code 239
+Parent: My PID is 23424, and my child 752 PID=24177 exited with code 240
+Parent: My PID is 23424, and my child 753 PID=24178 was killed by signal 9
+Parent: My PID is 23424, and my child 754 PID=24179 exited with code 242
+Parent: My PID is 23424, and my child 755 PID=24180 exited with code 243
+Parent: My PID is 23424, and my child 756 PID=24181 was killed by signal 9
+Parent: My PID is 23424, and my child 757 PID=24182 was killed by signal 9
+Parent: My PID is 23424, and my child 758 PID=24183 exitedChild 762: PID=24187, parent PID=23424
+Child 762: finished work.
+Child 764: PID=24189, parent PID=23424
+Child 764: finished work.
+Child 765: PID=24190, parent PID=23424
+Child 765: finished work.
+Child 766: PID=24191, parent PID=23424
+Child 766: finished work.
+Child 767: PID=24192, parent PID=23424
+Child 767: finished work.
+Child 770: PID=24195, parent PID=23424
+Child 770: finished work.
+Child 773: PID=24198, parent PID=23424
+Child 773: finished work.
+Child 776: PID=24201, parent PID=23424
+Child 776: finished work.
+Child 777: PID=24202, parent PID=23424
+Child 777: finished work.
+Child 778: PID=24203, parent PID=23424
+Child 778: finished work.
+Child 779: PID=24204, parent PID=23424
+Child 779: finished work.
+Child 780: PID=24205, parent PID=23424
+Child 780: finished work.
+Child 784: PID=24209, parent PID=23424
+Child 784: finished work.
+Child 785: PID=24210, parent PID=23424
+Child 785: finished work.
+Child 787: PID=24212, parent PID=23424
+Child 787: finished work.
+Child 788: PID=24213, parent PID=23424
+Child 788: finished work.
+Child 789: PID=24214, parent PID=23424
+Child 789: finished work.
+Child 790: PID=24215, parent PID=23424
+Child 790: finished work.
+Child 791: PID=24216, parent PID=23424
+Child 791: finished work.
+Child 792: PID=24217, parent PID=23424
+Child 792: finished work.
+Child 793: PID=24218, parent PID=23424
+Child 793: finished work.
+Child 794: PID=24219, parent PID=23424
+Child 794: finished work.
+Child 795: PID=24220, parent PID=23424
+Child 795: finished work.
+Child 796: PID=24221, parent PID=23424
+Child 796: finished work.
+Child 799: PID=24224, parent PID=23424
+Child 799: finished work.
+Child 801: PID=24226, parent PID=23424
+Child 801: finished work.
+Child 802: PID=24227, parent PID=23424
+Child 802: finished work.
+Child 803: PID=24228, parent PID=23424
+Child 803: finished work.
+Child 804: PID=24229, parent PID=23424
+Child 804: finished work.
+Child 805: PID=24230, parent PID=23424
+Child 805: finished work.
+Child 806: PID=24231, parent PID=23424
+Child 806: finished work.
+Child 807: PID=24232, parent PID=23424
+Child 807: finished work.
+Child 808: PID=24233, parent PID=23424
+Child 808: finished work.
+Child 810: PID=24235, parent PID=23424
+Child 810: finished work.
+Child 812: PID=24237, parent PID=23424
+Child 812: finished work.
+ with code 246
+Parent: My PID is 23424, and my child 759 PID=24184 was killed by signal 9
+Parent: My PID is 23424, and my child 760 PID=24185 exited with code 248
+Parent: My PID is 23424, and my child 761 PID=24186 exited with code 249
+Parent: My PID is 23424, and my child 762 PID=24187 exited with code 250
+Parent: My PID is 23424, and my child 763 PID=24188 was killed by signal 9
+Parent: My PID is 23424, and my child 764 PID=24189 exited with code 252
+Parent: My PID is 23424, and my child 765 PID=24190 exited with code 253
+Parent: My PID is 23424, and my child 766 PID=24191 exited with code 254
+Parent: My PID is 23424, and my child 767 PID=24192 exited with code 255
+Parent: My PID is 23424, and my child 768 PID=24193 was killed by signal 9
+Parent: My PID is 23424, and my child 769 PID=24194 was killed by signal 9
+Parent: My PID is 23424, and my child 770 PID=24195 exited with code 2
+Parent: My PID is 23424, and my child 771 PID=24196 was killed by signal 9
+Parent: My PID is 23424, and my child 772 PID=24197 was killed by signal 9
+Parent: My PID is 23424, and my child 773 PID=24198 exited with code 5
+Parent: My PID is 23424, and my child 774 PID=24199 was killed by signal 9
+Parent: My PID is 23424, and my child 775 PID=24200 was killed by signal 9
+Parent: My PID is 23424, and my child 776 PID=24201 exited with code 8
+Parent: My PID is 23424, and my child 777 PID=24202 exited with code 9
+Parent: My PID is 23424, and my child 778 PID=24203 exited with code 10
+Parent: My PID is 23424, and my child 779 PID=24204 exited with code 11
+Parent: My PID is 23424, and my child 780 PID=24205 exited with code 12
+Parent: My PID is 23424, and my child 781 PID=24206 was killed by signal 9
+Parent: My PID is 23424, and my child 782 PID=24207 was killed by signal 9
+Parent: My PID is 23424, and my child 783 PID=24208 was killed by signal 9
+Parent: My PID is 23424, and my child 784 PID=24209 exited with code 16
+Parent: My PID is 23424, and my child 785 PID=24210 exited with code 17
+Parent: My PID is 23424, and my child 786 PID=24211 was killed by signal 9
+Parent: My PID is 23424, and my child 787 PID=24212 exited with code 19
+Parent: My PID is 23424, and my child 788 PID=24213 exited with code 20
+Parent: My PID is 23424, and my child 789 PID=24214 exited with code 21
+Parent: My PID is 23424, and my child 790 PID=24215 exited with code 22
+Parent: My PID is 23424, and my child 791 PID=24216 exited with code 23
+Parent: My PID is 23424, and my child 792 PID=24217 exited with code 24
+Parent: My PID is 23424, and my child 793 PID=24218 exited with code 25
+Parent: My PID is 23424, and my child 794 PID=24219 exited with code 26
+Parent: My PID is 23424, and my child 795 PID=24220 exited with code 27
+Parent: My PID is 23424, and my child 796 PID=24221 exited with code 28
+Parent: My PID is 23424, and my child 797 PID=24222 was killed by signal 9
+Parent: My PID is 23424, and my child 798 PID=24223 was killed by signal 9
+Parent: My PID is 23424, and my child 799 PID=24224 exited with code 31
+Parent: My PID is 23424, and my child 800 PID=24225 was killed by signal 9
+Parent: My PID is 23424, and my child 801 PID=24226 exited with code 33
+Parent: My PID is 23424, and my child 802 PID=24227 exited with code 34
+Parent: My PID is 23424, and my child 803 PID=24228 exited with code 35
+Parent: My PID is 23424, and my child 804 PID=24229 exited with code 36
+Parent: My PID is 23424, and my child 805 PID=24230 exited with code 37
+Parent: My PID is 23424, and my child 806 PID=24231 exited with code 38
+Parent: My PID is 23424, and my child 807 PID=24232 exited with code 39
+Parent: My PID is 23424, and my child 808 PID=24233 exited with code 40
+Parent: My PID is 23424, and my child 809 PID=24234 was killed by signal 9
+Parent: My PID is 23424, and my child 810 PID=24235 exited with code 42
+Parent: My PID is 23424, and my child 811 PID=24236 was killed by signal 9
+Parent: My PID is 23424, and my child 812 PID=24237 exited with code 44
+Parent: My PID is 23424, and my child 813 PID=24238 was killed by signal 9
+Parent: My PID is 23424, and my child 814 PID=24239 was killed bChild 816: PID=24241, parent PID=23424
+Child 816: finished work.
+Child 815: PID=24240, parent PID=23424
+Child 815: finished work.
+Child 819: PID=24244, parent PID=23424
+Child 819: finished work.
+Child 820: PID=24245, parent PID=23424
+Child 820: finished work.
+Child 821: PID=24246, parent PID=23424
+Child 821: finished work.
+Child 822: PID=24247, parent PID=23424
+Child 822: finished work.
+Child 823: PID=24248, parent PID=23424
+Child 823: finished work.
+Child 825: PID=24250, parent PID=23424
+Child 825: finished work.
+Child 826: PID=24251, parent PID=23424
+Child 826: finished work.
+Child 827: PID=24252, parent PID=23424
+Child 827: finished work.
+Child 828: PID=24253, parent PID=23424
+Child 828: finished work.
+Child 829: PID=24254, parent PID=23424
+Child 829: finished work.
+Child 831: PID=24256, parent PID=23424
+Child 831: finished work.
+Child 832: PID=24257, parent PID=23424
+Child 832: finished work.
+Child 834: PID=24259, parent PID=23424
+Child 834: finished work.
+Child 835: PID=24260, parent PID=23424
+Child 835: finished work.
+Child 836: PID=24261, parent PID=23424
+Child 836: finished work.
+Child 837: PID=24262, parent PID=23424
+Child 837: finished work.
+Child 838: PID=24263, parent PID=23424
+Child 838: finished work.
+Child 839: PID=24264, parent PID=23424
+Child 839: finished work.
+Child 840: PID=24265, parent PID=23424
+Child 840: finished work.
+Child 841: PID=24266, parent PID=23424
+Child 841: finished work.
+Child 842: PID=24267, parent PID=23424
+Child 842: finished work.
+Child 844: PID=24269, parent PID=23424
+Child 844: finished work.
+Child 845: PID=24270, parent PID=23424
+Child 845: finished work.
+Child 846: PID=24271, parent PID=23424
+Child 846: finished work.
+Child 843: PID=24268, parent PID=23424
+Child 843: finished work.
+Child 847: PID=24272, parent PID=23424
+Child 847: finished work.
+Child 848: PID=24273, parent PID=23424
+Child 848: finished work.
+Child 849: PID=24274, parent PID=23424
+Child 849: finished work.
+Child 850: PID=24275, parent PID=23424
+Child 850: finished work.
+Child 851: PID=24276, parent PID=23424
+Child 851: finished work.
+Child 853: PID=24278, parent PID=23424
+Child 853: finished work.
+Child 855: PID=24280, parent PID=23424
+Child 855: finished work.
+Child 854: PID=24279, parent PID=23424
+Child 854: finished work.
+Child 856: PID=24281, parent PID=23424
+Child 856: finished work.
+Child 858: PID=24283, parent PID=23424
+Child 858: finished work.
+Child 860: PID=24285, parent PID=23424
+Child 860: finished work.
+Child 862: PID=24287, parent PID=23424
+Child 862: finished work.
+Child 863: PID=24288, parent PID=23424
+Child 863: finished work.
+Child 865: PID=24290, parent PID=23424
+Child 865: finished work.
+Child 866: PID=24291, parent PID=23424
+Child 866: finished work.
+Child 868: PID=24293, parent PID=23424
+Child 868: finished work.
+Child 869: PID=24294, parent PID=23424
+Child 869: finished work.
+Child 870: PID=24295, parent PID=23424
+Child 870: finished work.
+Child 871: PID=24296, parent PID=23424
+Child 871: finished work.
+Child 872: PID=24297, parent PID=23424
+Child 872: finished work.
+y signal 9
+Parent: My PID is 23424, and my child 815 PID=24240 exited with code 47
+Parent: My PID is 23424, and my child 816 PID=24241 exited with code 48
+Parent: My PID is 23424, and my child 817 PID=24242 was killed by signal 9
+Parent: My PID is 23424, and my child 818 PID=24243 was killed by signal 9
+Parent: My PID is 23424, and my child 819 PID=24244 exited with code 51
+Parent: My PID is 23424, and my child 820 PID=24245 exited with code 52
+Parent: My PID is 23424, and my child 821 PID=24246 exited with code 53
+Parent: My PID is 23424, and my child 822 PID=24247 exited with code 54
+Parent: My PID is 23424, and my child 823 PID=24248 exited with code 55
+Parent: My PID is 23424, and my child 824 PID=24249 was killed by signal 9
+Parent: My PID is 23424, and my child 825 PID=24250 exited with code 57
+Parent: My PID is 23424, and my child 826 PID=24251 exited with code 58
+Parent: My PID is 23424, and my child 827 PID=24252 exited with code 59
+Parent: My PID is 23424, and my child 828 PID=24253 exited with code 60
+Parent: My PID is 23424, and my child 829 PID=24254 exited with code 61
+Parent: My PID is 23424, and my child 830 PID=24255 was killed by signal 9
+Parent: My PID is 23424, and my child 831 PID=24256 exited with code 63
+Parent: My PID is 23424, and my child 832 PID=24257 exited with code 64
+Parent: My PID is 23424, and my child 833 PID=24258 was killed by signal 9
+Parent: My PID is 23424, and my child 834 PID=24259 exited with code 66
+Parent: My PID is 23424, and my child 835 PID=24260 exited with code 67
+Parent: My PID is 23424, and my child 836 PID=24261 exited with code 68
+Parent: My PID is 23424, and my child 837 PID=24262 exited with code 69
+Parent: My PID is 23424, and my child 838 PID=24263 exited with code 70
+Parent: My PID is 23424, and my child 839 PID=24264 exited with code 71
+Parent: My PID is 23424, and my child 840 PID=24265 exited with code 72
+Parent: My PID is 23424, and my child 841 PID=24266 exited with code 73
+Parent: My PID is 23424, and my child 842 PID=24267 exited with code 74
+Parent: My PID is 23424, and my child 843 PID=24268 exited with code 75
+Parent: My PID is 23424, and my child 844 PID=24269 exited with code 76
+Parent: My PID is 23424, and my child 845 PID=24270 exited with code 77
+Parent: My PID is 23424, and my child 846 PID=24271 exited with code 78
+Parent: My PID is 23424, and my child 847 PID=24272 exited with code 79
+Parent: My PID is 23424, and my child 848 PID=24273 exited with code 80
+Parent: My PID is 23424, and my child 849 PID=24274 exited with code 81
+Parent: My PID is 23424, and my child 850 PID=24275 exited with code 82
+Parent: My PID is 23424, and my child 851 PID=24276 exited with code 83
+Parent: My PID is 23424, and my child 852 PID=24277 was killed by signal 9
+Parent: My PID is 23424, and my child 853 PID=24278 exited with code 85
+Parent: My PID is 23424, and my child 854 PID=24279 exited with code 86
+Parent: My PID is 23424, and my child 855 PID=24280 exited with code 87
+Parent: My PID is 23424, and my child 856 PID=24281 exited with code 88
+Parent: My PID is 23424, and my child 857 PID=24282 was killed by signal 9
+Parent: My PID is 23424, and my child 858 PID=24283 exited with code 90
+Parent: My PID is 23424, and my child 859 PID=24284 was killed by signal 9
+Parent: My PID is 23424, and my child 860 PID=24285 exited with code 92
+Parent: My PID is 23424, and my child 861 PID=24286 was killed by signal 9
+Parent: My PID is 23424, and my child 862 PID=24287 exited with code 94
+Parent: My PID is 23424, and my child 863 PID=24288 exited with code 95
+Parent: My PID is 23424, and my child 864 PID=24289 was killed by signal 9
+Parent: My PID is 23424, and my child 865 PID=24290 exited with code 97
+Parent: My PID is 23424, and my child 866 PID=24291 exited with code 98
+Parent: My PID is 23424, and my child 867 PID=24292 was killed by signal 9
+Parent: My PID is 23424, and my child 868 PID=24293 exited with code 100
+Parent: My PID is 23424, and my child 869 PID=24294 exited with code 101
+Parent: My PID is 23424, and my child 870 PID=24295 exited with code 102
+Parent: My PID isChild 873: PID=24298, parent PID=23424
+Child 873: finished work.
+Child 874: PID=24299, parent PID=23424
+Child 874: finished work.
+Child 876: PID=24301, parent PID=23424
+Child 876: finished work.
+Child 877: PID=24302, parent PID=23424
+Child 877: finished work.
+Child 878: PID=24303, parent PID=23424
+Child 878: finished work.
+Child 879: PID=24304, parent PID=23424
+Child 879: finished work.
+Child 880: PID=24305, parent PID=23424
+Child 880: finished work.
+Child 883: PID=24308, parent PID=23424
+Child 883: finished work.
+Child 884: PID=24309, parent PID=23424
+Child 884: finished work.
+Child 885: PID=24310, parent PID=23424
+Child 885: finished work.
+Child 886: PID=24311, parent PID=23424
+Child 886: finished work.
+Child 888: PID=24313, parent PID=23424
+Child 888: finished work.
+Child 889: PID=24314, parent PID=23424
+Child 889: finished work.
+Child 890: PID=24315, parent PID=23424
+Child 890: finished work.
+Child 891: PID=24316, parent PID=23424
+Child 891: finished work.
+Child 892: PID=24317, parent PID=23424
+Child 892: finished work.
+Child 893: PID=24318, parent PID=23424
+Child 893: finished work.
+Child 896: PID=24321, parent PID=23424
+Child 896: finished work.
+Child 900: PID=24325, parent PID=23424
+Child 900: finished work.
+Child 901: PID=24326, parent PID=23424
+Child 901: finished work.
+Child 902: PID=24327, parent PID=23424
+Child 902: finished work.
+Child 903: PID=24328, parent PID=23424
+Child 903: finished work.
+Child 904: PID=24329, parent PID=23424
+Child 904: finished work.
+Child 905: PID=24330, parent PID=23424
+Child 905: finished work.
+Child 906: PID=24331, parent PID=23424
+Child 906: finished work.
+Child 908: PID=24333, parent PID=23424
+Child 908: finished work.
+Child 910: PID=24335, parent PID=23424
+Child 910: finished work.
+Child 909: PID=24334, parent PID=23424
+Child 909: finished work.
+Child 911: PID=24336, parent PID=23424
+Child 911: finished work.
+Child 912: PID=24337, parent PID=23424
+Child 912: finished work.
+Child 913: PID=24338, parent PID=23424
+Child 913: finished work.
+Child 914: PID=24339, parent PID=23424
+Child 914: finished work.
+Child 915: PID=24340, parent PID=23424
+Child 915: finished work.
+Child 919: PID=24344, parent PID=23424
+Child 919: finished work.
+Child 918: PID=24343, parent PID=23424
+Child 918: finished work.
+Child 920: PID=24345, parent PID=23424
+Child 920: finished work.
+Child 922: PID=24347, parent PID=23424
+Child 922: finished work.
+Child 923: PID=24348, parent PID=23424
+Child 923: finished work.
+Child 924: PID=24349, parent PID=23424
+Child 924: finished work.
+Child 925: PID=24350, parent PID=23424
+Child 925: finished work.
+Child 926: PID=24351, parent PID=23424
+Child 926: finished work.
+Child 928: PID=24353, parent PID=23424
+Child 928: finished work.
+ 23424, and my child 871 PID=24296 exited with code 103
+Parent: My PID is 23424, and my child 872 PID=24297 exited with code 104
+Parent: My PID is 23424, and my child 873 PID=24298 exited with code 105
+Parent: My PID is 23424, and my child 874 PID=24299 exited with code 106
+Parent: My PID is 23424, and my child 875 PID=24300 was killed by signal 9
+Parent: My PID is 23424, and my child 876 PID=24301 exited with code 108
+Parent: My PID is 23424, and my child 877 PID=24302 exited with code 109
+Parent: My PID is 23424, and my child 878 PID=24303 exited with code 110
+Parent: My PID is 23424, and my child 879 PID=24304 exited with code 111
+Parent: My PID is 23424, and my child 880 PID=24305 exited with code 112
+Parent: My PID is 23424, and my child 881 PID=24306 was killed by signal 9
+Parent: My PID is 23424, and my child 882 PID=24307 was killed by signal 9
+Parent: My PID is 23424, and my child 883 PID=24308 exited with code 115
+Parent: My PID is 23424, and my child 884 PID=24309 exited with code 116
+Parent: My PID is 23424, and my child 885 PID=24310 exited with code 117
+Parent: My PID is 23424, and my child 886 PID=24311 exited with code 118
+Parent: My PID is 23424, and my child 887 PID=24312 was killed by signal 9
+Parent: My PID is 23424, and my child 888 PID=24313 exited with code 120
+Parent: My PID is 23424, and my child 889 PID=24314 exited with code 121
+Parent: My PID is 23424, and my child 890 PID=24315 exited with code 122
+Parent: My PID is 23424, and my child 891 PID=24316 exited with code 123
+Parent: My PID is 23424, and my child 892 PID=24317 exited with code 124
+Parent: My PID is 23424, and my child 893 PID=24318 exited with code 125
+Parent: My PID is 23424, and my child 894 PID=24319 was killed by signal 9
+Parent: My PID is 23424, and my child 895 PID=24320 was killed by signal 9
+Parent: My PID is 23424, and my child 896 PID=24321 exited with code 128
+Parent: My PID is 23424, and my child 897 PID=24322 was killed by signal 9
+Parent: My PID is 23424, and my child 898 PID=24323 was killed by signal 9
+Parent: My PID is 23424, and my child 899 PID=24324 was killed by signal 9
+Parent: My PID is 23424, and my child 900 PID=24325 exited with code 132
+Parent: My PID is 23424, and my child 901 PID=24326 exited with code 133
+Parent: My PID is 23424, and my child 902 PID=24327 exited with code 134
+Parent: My PID is 23424, and my child 903 PID=24328 exited with code 135
+Parent: My PID is 23424, and my child 904 PID=24329 exited with code 136
+Parent: My PID is 23424, and my child 905 PID=24330 exited with code 137
+Parent: My PID is 23424, and my child 906 PID=24331 exited with code 138
+Parent: My PID is 23424, and my child 907 PID=24332 was killed by signal 9
+Parent: My PID is 23424, and my child 908 PID=24333 exited with code 140
+Parent: My PID is 23424, and my child 909 PID=24334 exited with code 141
+Parent: My PID is 23424, and my child 910 PID=24335 exited with code 142
+Parent: My PID is 23424, and my child 911 PID=24336 exited with code 143
+Parent: My PID is 23424, and my child 912 PID=24337 exited with code 144
+Parent: My PID is 23424, and my child 913 PID=24338 exited with code 145
+Parent: My PID is 23424, and my child 914 PID=24339 exited with code 146
+Parent: My PID is 23424, and my child 915 PID=24340 exited with code 147
+Parent: My PID is 23424, and my child 916 PID=24341 was killed by signal 9
+Parent: My PID is 23424, and my child 917 PID=24342 was killed by signal 9
+Parent: My PID is 23424, and my child 918 PID=24343 exited with code 150
+Parent: My PID is 23424, and my child 919 PID=24344 exited with code 151
+Parent: My PID is 23424, and my child 920 PID=24345 exited with code 152
+Parent: My PID is 23424, and my child 921 PID=24346 was killed by signal 9
+Parent: My PID is 23424, and my child 922 PID=24347 exited with code 154
+Parent: My PID is 23424, and my child 923 PID=24348 exited with code 155
+Parent: My PID is 23424, and my child 924 PID=24349 exited with code 156
+Parent: My PID is 23424, and my child 925 PID=24350 exited with code 157
+Parent: My PID is 23424, and my child 926 PID=24351 exited with code 158Child 929: PID=24354, parent PID=23424
+Child 929: finished work.
+Child 930: PID=24355, parent PID=23424
+Child 930: finished work.
+Child 932: PID=24357, parent PID=23424
+Child 932: finished work.
+Child 931: PID=24356, parent PID=23424
+Child 931: finished work.
+Child 933: PID=24358, parent PID=23424
+Child 933: finished work.
+Child 934: PID=24359, parent PID=23424
+Child 934: finished work.
+Child 936: PID=24361, parent PID=23424
+Child 936: finished work.
+Child 938: PID=24363, parent PID=23424
+Child 938: finished work.
+Child 940: PID=24365, parent PID=23424
+Child 940: finished work.
+Child 941: PID=24366, parent PID=23424
+Child 941: finished work.
+Child 943: PID=24368, parent PID=23424
+Child 943: finished work.
+Child 945: PID=24370, parent PID=23424
+Child 945: finished work.
+Child 944: PID=24369, parent PID=23424
+Child 944: finished work.
+Child 946: PID=24371, parent PID=23424
+Child 946: finished work.
+Child 947: PID=24372, parent PID=23424
+Child 947: finished work.
+Child 948: PID=24373, parent PID=23424
+Child 948: finished work.
+
+Parent: My PID is 23424, and my child 927 PID=24352 was killed by signal 9
+Parent: My PID is 23424, and my child 928 PID=24353 exited with code 160
+Parent: My PID is 23424, and my child 929 PID=24354 exited with code 161
+Parent: My PID is 23424, and my child 930 PID=24355 exited with code 162
+Parent: My PID is 23424, and my child 931 PID=24356 exited with code 163
+Parent: My PID is 23424, and my child 932 PID=24357 exited with code 164
+Parent: My PID is 23424, and my child 933 PID=24358 exited with code 165
+Parent: My PID is 23424, and my child 934 PID=24359 exited with code 166
+Parent: My PID is 23424, and my child 935 PID=24360 was killed by signal 9
+Parent: My PID is 23424, and my child 936 PID=24361 exited with code 168
+Parent: My PID is 23424, and my child 937 PID=24362 was killed by signal 9
+Parent: My PID is 23424, and my child 938 PID=24363 exited with code 170
+Parent: My PID is 23424, and my child 939 PID=24364 was killed by signal 9
+Parent: My PID is 23424, and my child 940 PID=24365 exited with code 172
+Parent: My PID is 23424, and my child 941 PID=24366 exited with code 173
+Parent: My PID is 23424, and my child 942 PID=24367 was killed by signal 9
+Parent: My PID is 23424, and my child 943 PID=24368 exited with code 175
+Parent: My PID is 23424, and my child 944 PID=24369 exited with code 176
+Parent: My PID is 23424, and my child 945 PID=24370 exited with code 177
+Parent: My PID is 23424, and my child 946 PID=24371 exited with code 178
+Parent: My PID is 23424, and my child 947 PID=24372 exited with code 179
+Parent: My PID is 23424, and my child 948 PID=24373 exited with code 180
+Parent: My PID is 23424, and my child 949 PID=24374 was killed by signal 9
